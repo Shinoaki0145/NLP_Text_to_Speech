@@ -132,6 +132,7 @@ class UltimatePDFCleaner:
                 processed_lines.append({'text': clean_text, 'size': round(max_size, 1)})
         return processed_lines
 
+
     def analyze_font_structure(self, all_lines):
         if not all_lines: return 12
         sizes = [line['size'] for line in all_lines]
