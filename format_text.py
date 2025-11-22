@@ -5,7 +5,7 @@ import logging
 import pdfplumber
 from collections import Counter
 
-# Tắt log rác
+# Tắt log rác của pdfminer
 logging.getLogger("pdfminer").setLevel(logging.ERROR)
 
 class UltimatePDFCleaner:
@@ -36,10 +36,13 @@ class UltimatePDFCleaner:
         for phrase in self.garbage_phrases:
             text = text.replace(phrase, "")
 
+        # Backup: Đảm bảo footnote [1] dính vào từ trước nếu bị tách
+        text = re.sub(r'\s+(\[\d+\])', r'\1', text)
+
         # Đưa dấu câu lại sát từ trước
         text = re.sub(r'\s+([,.:;!?])', r'\1', text)
         
-        # Xử lý ngoặc kép thẳng (")
+        # Xử lý ngoặc kép thẳng
         # Xóa space thừa bên trong: " ABC " -> "ABC"
         text = re.sub(r'"\s+', '"', text) # Xóa space sau dấu mở
         text = re.sub(r'\s+"', '"', text) # Xóa space trước dấu đóng
@@ -48,47 +51,25 @@ class UltimatePDFCleaner:
         text = re.sub(r'"(?=\w)', '" ', text)
 
         # Xử lý ngoặc kép cong (Smart Quotes “ ”)
-        # Xóa space thừa bên trong: “ Ra đi ” -> “Ra đi”
-        text = re.sub(r'“\s+', '“', text)  # Xóa space sau dấu mở
-        text = re.sub(r'\s+”', '”', text)  # Xóa space trước dấu đóng
-        
+        # Xóa space thừa bên trong: " ABC " -> "ABC"
+        text = re.sub(r'“\s+', '“', text) # Xóa space sau dấu mở
+        text = re.sub(r'\s+”', '”', text) # Xóa space trước dấu đóng
         # Thêm space bên ngoài:
-        text = re.sub(r'(?<=[^\s(])“', ' “', text) # từ“ -> từ “
-        text = re.sub(r'”(?=\w)', '” ', text)      # ”là -> ” là
+        text = re.sub(r'(?<=[^\s(])“', ' “', text) # Xóa space sau dấu mở
+        text = re.sub(r'”(?=\w)', '” ', text) # Xóa space trước dấu đóng
         
-        # Tách Tựa đề sang dòng riêng
+        # Tách Tựa đề trong ngoặc đơn sang dòng riêng (nếu ở đầu dòng)
         text = re.sub(r'^\(([^)]+)\)\s*', r'(\1)\n', text)
         
         return text.strip()
     
     
-    def should_merge_with_next(self, current_text, next_text):
-        if not current_text or not next_text:
-            return False
-        
-        # Pattern 1: Dòng kết thúc bằng chữ viết tắt (H.L. Jammes, B.Ph. Groslier)
-        if re.search(r'\b[A-Z]\.(?:[A-Z]\.)*$', current_text):
-            # Dòng tiếp theo bắt đầu bằng chữ hoa (tên họ)
-            if next_text and next_text[0].isupper():
-                return True
-        
-        # Pattern 2: Dòng kết thúc bằng tên có dấu phẩy + viết tắt (Groslier, L. Malleret)
-        if re.search(r',\s*[A-Z]\.(?:[A-Z]\.)*$', current_text):
-            if next_text and next_text[0].isupper():
-                return True
-        
-        # Pattern 3: Dòng kết thúc bằng chữ thường (câu chưa xong)
-        if current_text[-1].islower() or current_text[-1].isdigit():
-            return True
-            
-        return False
-    
-
     def split_sentences(self, text):
         if not text: return []
         text = re.sub(r'\s+', ' ', text).strip()
         text = text.replace('|||NEWLINE|||', '\n')
         
+        # Bảo vệ các từ viết tắt (T.P., Tp., v.v.) không bị ngắt câu nhầm
         def protect_match(match):
             return match.group().replace('.', '<PR_DOT>')
         
@@ -112,24 +93,85 @@ class UltimatePDFCleaner:
         words = page.extract_words(extra_attrs=['size'])
         if not words: return []
 
-        lines = []
-        current_line = [words[0]]
+        # Tính Body Size chuẩn của trang
+        all_sizes = [w['size'] for w in words]
+        if not all_sizes: return []
+        page_body_size = Counter(all_sizes).most_common(1)[0][0]
+
+        # Gom dòng vật lý (Clustering theo trục Y)
+        words.sort(key=lambda w: w['top'])
         
-        for word in words[1:]:
-            if abs(word['top'] - current_line[-1]['top']) < 3:
-                current_line.append(word)
-            else:
-                lines.append(current_line)
-                current_line = [word]
-        lines.append(current_line)
+        lines_cluster = []
+        current_cluster = []
+        
+        if words:
+            current_cluster = [words[0]]
+            for w in words[1:]:
+                avg_top = sum([x['top'] for x in current_cluster]) / len(current_cluster)
+                # Cho phép lệch 6 points (để gom cả số mũ bị lệch lên trên)
+                if abs(w['top'] - avg_top) < 6: 
+                    current_cluster.append(w)
+                else:
+                    lines_cluster.append(current_cluster)
+                    current_cluster = [w]
+            lines_cluster.append(current_cluster)
 
         processed_lines = []
-        for line_words in lines:
-            text = " ".join([w['text'] for w in line_words])
-            max_size = max([w['size'] for w in line_words])
+        
+        for cluster in lines_cluster:
+            # Sắp xếp từ trái sang phải
+            cluster.sort(key=lambda w: w['x0'])
+            
+            # Check dòng này có phải Metadata không
+            raw_line_text = " ".join([w['text'] for w in cluster])
+            is_meta_line = any(kw in raw_line_text for kw in self.meta_keywords)
+            
+            merged_words_in_line = []
+            
+            for w in cluster:
+                text_clean = w['text'].strip()
+                
+                # Điều kiện nhận diện Footnote
+                is_digit = text_clean.isdigit() or (text_clean.startswith('[') and text_clean.endswith(']'))
+                
+                # Nhỏ hơn body size hoặc nằm cao hơn hẳn so với dòng
+                is_small = w['size'] < (page_body_size * 0.98)
+                line_avg_top = sum([x['top'] for x in cluster]) / len(cluster)
+                is_superscript = (line_avg_top - w['top']) > 1
+                
+                # Chỉ xử lý số có ít hơn 4 chữ số (để tránh năm 2009, 1995)
+                is_short_number = len(re.sub(r'[\[\]]', '', text_clean)) < 4
+
+                # Đóng khung và gộp
+                if is_digit and (is_small or is_superscript) and not is_meta_line and is_short_number:
+                    
+                    raw_num = re.sub(r'[\[\]]', '', text_clean) 
+                    formatted_text = f"[{raw_num}]"
+                    
+                    merged = False
+                    if merged_words_in_line:
+                        prev_w = merged_words_in_line[-1]
+                        # Nếu khoảng cách ngang < 6 -> Gộp vào từ trước
+                        dist_x = w['x0'] - prev_w['x1']
+                        
+                        if dist_x < 6:
+                            prev_w['text'] += formatted_text
+                            prev_w['x1'] = w['x1'] # Update boundary
+                            merged = True
+                    
+                    if not merged:
+                        w['text'] = formatted_text
+                        merged_words_in_line.append(w)
+                else:
+                    merged_words_in_line.append(w)
+
+            text = " ".join([w['text'] for w in merged_words_in_line])
+            max_size = max([w['size'] for w in cluster]) if cluster else 0
+            
             clean_text = self.clean_string(text)
             if clean_text:
                 processed_lines.append({'text': clean_text, 'size': round(max_size, 1)})
+                
         return processed_lines
 
 
@@ -139,17 +181,28 @@ class UltimatePDFCleaner:
         if not sizes: return 12
         size_counts = Counter(sizes)
         return size_counts.most_common(1)[0][0]
-
-
+    
+    
     def final_text_repair(self, text_list):
-        """Nối địa danh bị gãy (T.P. Hồ Chí Minh)"""
         full_text = "\n".join(text_list)
+        
+        # Sửa lỗi ngắt dòng tên địa danh phổ biến (Tp., T.P.)
         full_text = re.sub(r'(T\.P\.)\s*[\n\r]+\s*(Hồ)', r'\1 \2', full_text)
         full_text = re.sub(r'(Hồ\s+Chí)\s*[\n\r]+\s*(Minh)', r'\1 \2', full_text)
         full_text = re.sub(r'(Hồ)\s*[\n\r]+\s*(Chí\s+Minh)', r'\1 \2', full_text)
+        
+        # Danh sách từ viết tắt địa chỉ
+        address_patterns = [r'p\.', r'q\.', r'tp\.', r'tx\.', r'k\.', r'v\.', r'đ\.']
+        
+        viet_upper = "A-ZÁÀẢÃẠÂẤẦẨẪẬĂẮẰẲẴẶÉÈẺẼẸÊẾỀỂỄỆÍÌỈĨỊÓÒỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÚÙỦŨỤƯỨỪỬỮỰÝỲỶỸỴĐ" 
+        
+        for pat in address_patterns:
+            regex = r'(?<!\w)(' + pat + r')\s*[\n\r]+\s*([' + viet_upper + r'])'
+            full_text = re.sub(regex, r'\1 \2', full_text)
+
         return full_text.split('\n')
-
-
+    
+    
     def process_hybrid_structure(self, all_lines, body_size):
         final_output = []
         text_buffer = []
@@ -169,7 +222,6 @@ class UltimatePDFCleaner:
             text = re.sub(r'\*{3,}', ' ', text)
             # Pattern 3: bất kỳ tổ hợp * nào
             text = re.sub(r'(?:\s*\*\s*){3,}', ' ', text)
-            
             text = text.strip()
             
             # Nếu dòng chỉ toàn dấu * thì bỏ qua
@@ -184,7 +236,8 @@ class UltimatePDFCleaner:
             is_bullet_char = re.match(r'^[-+]\s+', text) or re.match(r'^\d+\.\s+', text)
             is_meta_keyword = any(k in text for k in self.meta_keywords)
             is_library_code = re.match(r'^\d{3}\.\d+', text) or re.search(r'dc\s*22', text)
-            
+            is_physical_desc = re.match(r'^\d+\s*(tr\.|tr;|trang|p\.|cm)', text, re.IGNORECASE)
+
             # Xác định loại dòng
             current_type = 'TEXT'
             
@@ -194,12 +247,12 @@ class UltimatePDFCleaner:
             # 2. Font cỡ thường nhưng viết hoa toàn bộ cả dòng (Sub-header) và ngắn (dưới 20 từ)
             is_sub_header = (text.isupper() and size >= body_size and len(text.split()) < 20)
 
-            if is_bullet_char or is_meta_keyword or is_library_code:
+            if is_bullet_char or is_meta_keyword or is_library_code or is_physical_desc:
                 current_type = 'META'
             elif is_big_header or is_sub_header: 
                 current_type = 'HEADER'
 
-            # Gộp metadata
+            # Logic gộp/tách dòng
             should_merge_meta = False
             if prev_type == 'META' and final_output:
                 last_line = final_output[-1]
@@ -210,7 +263,6 @@ class UltimatePDFCleaner:
                 if text_buffer:
                     final_output.extend(self.split_sentences(" ".join(text_buffer)))
                     text_buffer = []
-                
                 prev_text = final_output.pop()
                 final_output.append(prev_text + " " + text)
                 prev_type = 'META'
@@ -241,19 +293,16 @@ class UltimatePDFCleaner:
                 last_header_size = size     
             else: # TEXT
                 should_merge = False
-                
                 if text_buffer:
                     prev_line = text_buffer[-1].strip()
                     
                     # Dòng hiện tại bắt đầu viết thường hoặc số
-                    if text[0].islower() or text[0].isdigit():
+                    if text[0].islower() or text[0].isdigit() or text.startswith('['):
                         should_merge = True
-                    
                     # Dòng trước kết thúc bằng tên viết tắt (Vd: H.L., T.P., A.)
-                    # Regex này bắt các trường hợp đuôi là: " L.", " H.L.", " A.B.C."
-                    elif re.search(r'(?:^|[\s.])([A-Z][a-zA-Z]{0,2}\.)$', prev_line):
+                    # Regex này bắt các trường hợp đuôi là: " L.", " H.L.", " A.B.C.", "p.", "q.", "tp."
+                    elif re.search(r'(?:^|[\s.])([a-zA-Z]{1,3}\.)$', prev_line):
                         should_merge = True
-
                     # Dòng trước kết thúc bằng dấu phẩy hoặc gạch nối
                     elif prev_line.endswith(',') or prev_line.endswith('-') or prev_line.endswith('–'):
                         should_merge = True
@@ -266,14 +315,13 @@ class UltimatePDFCleaner:
                          text_buffer[-1] = text_buffer[-1] + " " + text
                 else:
                     text_buffer.append(text)
-                
                 prev_type = 'TEXT'
             
         if text_buffer:
             final_output.extend(self.split_sentences(" ".join(text_buffer)))
 
         return self.final_text_repair(final_output)
-
+    
 
     def extract_and_clean(self, pdf_path, output_txt_path):
         print(f"Đang xử lý file: {pdf_path}")
@@ -284,7 +332,7 @@ class UltimatePDFCleaner:
                     print(f"Đang đọc: {i+1}/{len(pdf.pages)}", end='\r')
                     all_lines_with_meta.extend(self.get_lines_with_meta(page))
 
-            print("\nĐang làm sạch")
+            print("\nĐang làm sạch & Tái cấu trúc")
             body_size = self.analyze_font_structure(all_lines_with_meta)
             final_lines = self.process_hybrid_structure(all_lines_with_meta, body_size)
             
@@ -295,9 +343,8 @@ class UltimatePDFCleaner:
             print(f"\nLỗi: {e}")
 
 
-input_file = os.path.join("book", "Đồng Bằng sông Cửu Long Nét sinh hoạt xưa và văn minh miệt vườn.pdf") 
-output_file = "format_text.txt"
-
 if __name__ == "__main__":
+    input_file = os.path.join("book", "Đồng Bằng sông Cửu Long Nét sinh hoạt xưa và văn minh miệt vườn.pdf") 
+    output_file = "format_text.txt"
     cleaner = UltimatePDFCleaner()
     cleaner.extract_and_clean(input_file, output_file)
