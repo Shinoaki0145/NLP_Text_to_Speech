@@ -73,7 +73,7 @@ class UltimatePDFCleaner:
         def protect_match(match):
             return match.group().replace('.', '<PR_DOT>')
         
-        text = re.sub(r'(?<!\w)[A-Z][a-zA-Z]{0,2}\.(?=\s)', protect_match, text)
+        text = re.sub(r'(?<!\w)[A-Z][a-zA-Z]{0,1}\.(?=\s)', protect_match, text)
         
         viet_upper = "ÁÀẢÃẠÂẤẦẨẪẬĂẮẰẲẴẶÉÈẺẼẸÊẾỀỂỄỆÍÌỈĨỊÓÒỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÚÙỦŨỤƯỨỪỬỮỰÝỲỶỸỴĐ" 
         pattern = r'(?<=[.?!])\s+(?=[A-Z%s"\'\«\(\“\‘])' % viet_upper
