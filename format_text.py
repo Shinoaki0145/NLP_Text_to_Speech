@@ -344,7 +344,7 @@ class UltimatePDFCleaner:
 
 
 if __name__ == "__main__":
-    input_file = os.path.join("book", "Đồng Bằng sông Cửu Long Nét sinh hoạt xưa và văn minh miệt vườn.pdf") 
+    input_file = os.path.join("book", "Đồng Bằng sông Cửu Long – Nét sinh hoạt xưa và văn minh miệt vườn.pdf") 
     output_file = "format_text.txt"
     cleaner = UltimatePDFCleaner()
     cleaner.extract_and_clean(input_file, output_file)

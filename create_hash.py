@@ -34,5 +34,5 @@ def create_zip_and_hash(folder_name):
 
 
 if __name__ == "__main__":
-    target_folder = "Đồng Bằng sông Cửu Long Nét sinh hoạt xưa và văn minh miệt vườn.pdf"
+    target_folder = "Đồng Bằng sông Cửu Long – Nét sinh hoạt xưa và văn minh miệt vườn.pdf"
     create_zip_and_hash(target_folder)
