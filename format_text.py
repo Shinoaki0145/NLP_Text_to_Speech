@@ -33,8 +33,8 @@ class UltimatePDFCleaner:
         text = re.sub(r'^[\s•●_]+', '', text)
         
         # Xóa các cụm từ rác - Ví dụ như ở các title
-        for phrase in self.garbage_phrases:
-            text = text.replace(phrase, "")
+        if text in self.garbage_phrases:
+            return ""
 
         # Backup: Đảm bảo footnote [1] dính vào từ trước nếu bị tách
         text = re.sub(r'\s+(\[\d+\])', r'\1', text)
