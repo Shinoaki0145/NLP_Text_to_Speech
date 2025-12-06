@@ -1,0 +1,1178 @@
+<?xml version="1.0" ?>
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta name="dc:Title" content="Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa &amp; Văn Minh Miệt Vườn"/>
+    <meta name="dc:Creator" content="Sơn Nam"/>
+    <meta name="dc:Subject" content="Biên khảo"/>
+    <meta name="dc:Description" content="Tác phẩm biên khảo về đồng bằng sông Cửu Long, văn hóa và sinh hoạt truyền thống của vùng đất Nam Bộ"/>
+    <meta name="dc:Publisher" content="NXB Trẻ"/>
+    <meta name="dc:Date" content="2013"/>
+    <meta name="dc:Source" content="9786041266001"/>
+    <meta name="dc:Language" content="vi"/>
+    <meta name="thumb" content="Bìa sách.png"/>
+  </head>
+  <body>
+    <seq id="seq_10" epub:textref="10.html">
+      <par id="par_1">
+        <text src="10.html#s1"/>
+        <audio src="10.mp3" clipBegin="2.250s" clipEnd="4.630s"/>
+      </par>
+      <par id="par_2">
+        <text src="10.html#s2"/>
+        <audio src="10.mp3" clipBegin="4.630s" clipEnd="5.700s"/>
+      </par>
+      <par id="par_3">
+        <text src="10.html#s3"/>
+        <audio src="10.mp3" clipBegin="7.090s" clipEnd="8.030s"/>
+      </par>
+      <par id="par_4">
+        <text src="10.html#s4"/>
+        <audio src="10.mp3" clipBegin="10.810s" clipEnd="13.370s"/>
+      </par>
+      <par id="par_5">
+        <text src="10.html#s5"/>
+        <audio src="10.mp3" clipBegin="14.320s" clipEnd="26.940s"/>
+      </par>
+      <par id="par_6">
+        <text src="10.html#s6"/>
+        <audio src="10.mp3" clipBegin="28.170s" clipEnd="36.280s"/>
+      </par>
+      <par id="par_7">
+        <text src="10.html#s7"/>
+        <audio src="10.mp3" clipBegin="37.550s" clipEnd="50.540s"/>
+      </par>
+      <par id="par_8">
+        <text src="10.html#s8"/>
+        <audio src="10.mp3" clipBegin="51.400s" clipEnd="66.480s"/>
+      </par>
+      <par id="par_9">
+        <text src="10.html#s9"/>
+        <audio src="10.mp3" clipBegin="67.560s" clipEnd="79.550s"/>
+      </par>
+      <par id="par_10">
+        <text src="10.html#s10"/>
+        <audio src="10.mp3" clipBegin="80.350s" clipEnd="87.550s"/>
+      </par>
+      <par id="par_11">
+        <text src="10.html#s11"/>
+        <audio src="10.mp3" clipBegin="88.240s" clipEnd="98.590s"/>
+      </par>
+      <par id="par_12">
+        <text src="10.html#s12"/>
+        <audio src="10.mp3" clipBegin="99.150s" clipEnd="102.520s"/>
+      </par>
+      <par id="par_13">
+        <text src="10.html#s13"/>
+        <audio src="10.mp3" clipBegin="103.350s" clipEnd="109.580s"/>
+      </par>
+      <par id="par_14">
+        <text src="10.html#s14"/>
+        <audio src="10.mp3" clipBegin="110.480s" clipEnd="110.980s"/>
+      </par>
+      <par id="par_15">
+        <text src="10.html#s15"/>
+        <audio src="10.mp3" clipBegin="113.530s" clipEnd="114.850s"/>
+      </par>
+      <par id="par_16">
+        <text src="10.html#s16"/>
+        <audio src="10.mp3" clipBegin="117.130s" clipEnd="152.910s"/>
+      </par>
+      <par id="par_17">
+        <text src="10.html#s17"/>
+        <audio src="10.mp3" clipBegin="153.410s" clipEnd="157.210s"/>
+      </par>
+      <par id="par_18">
+        <text src="10.html#s18"/>
+        <audio src="10.mp3" clipBegin="158.430s" clipEnd="162.240s"/>
+      </par>
+      <par id="par_19">
+        <text src="10.html#s19"/>
+        <audio src="10.mp3" clipBegin="163.450s" clipEnd="166.240s"/>
+      </par>
+      <par id="par_20">
+        <text src="10.html#s20"/>
+        <audio src="10.mp3" clipBegin="167.510s" clipEnd="174.600s"/>
+      </par>
+      <par id="par_21">
+        <text src="10.html#s21"/>
+        <audio src="10.mp3" clipBegin="175.420s" clipEnd="181.870s"/>
+      </par>
+      <par id="par_22">
+        <text src="10.html#s22"/>
+        <audio src="10.mp3" clipBegin="182.940s" clipEnd="191.150s"/>
+      </par>
+      <par id="par_23">
+        <text src="10.html#s23"/>
+        <audio src="10.mp3" clipBegin="191.660s" clipEnd="201.880s"/>
+      </par>
+      <par id="par_24">
+        <text src="10.html#s24"/>
+        <audio src="10.mp3" clipBegin="203.160s" clipEnd="210.220s"/>
+      </par>
+      <par id="par_25">
+        <text src="10.html#s25"/>
+        <audio src="10.mp3" clipBegin="210.780s" clipEnd="216.370s"/>
+      </par>
+      <par id="par_26">
+        <text src="10.html#s26"/>
+        <audio src="10.mp3" clipBegin="216.950s" clipEnd="221.440s"/>
+      </par>
+      <par id="par_27">
+        <text src="10.html#s27"/>
+        <audio src="10.mp3" clipBegin="222.200s" clipEnd="227.490s"/>
+      </par>
+      <par id="par_28">
+        <text src="10.html#s28"/>
+        <audio src="10.mp3" clipBegin="227.550s" clipEnd="236.350s"/>
+      </par>
+      <par id="par_29">
+        <text src="10.html#s29"/>
+        <audio src="10.mp3" clipBegin="237.100s" clipEnd="241.400s"/>
+      </par>
+      <par id="par_30">
+        <text src="10.html#s30"/>
+        <audio src="10.mp3" clipBegin="241.400s" clipEnd="248.260s"/>
+      </par>
+      <par id="par_31">
+        <text src="10.html#s31"/>
+        <audio src="10.mp3" clipBegin="249.580s" clipEnd="259.380s"/>
+      </par>
+      <par id="par_32">
+        <text src="10.html#s32"/>
+        <audio src="10.mp3" clipBegin="260.500s" clipEnd="269.360s"/>
+      </par>
+      <par id="par_33">
+        <text src="10.html#s33"/>
+        <audio src="10.mp3" clipBegin="271.500s" clipEnd="286.570s"/>
+      </par>
+      <par id="par_34">
+        <text src="10.html#s34"/>
+        <audio src="10.mp3" clipBegin="287.360s" clipEnd="296.220s"/>
+      </par>
+      <par id="par_35">
+        <text src="10.html#s35"/>
+        <audio src="10.mp3" clipBegin="296.710s" clipEnd="298.550s"/>
+      </par>
+      <par id="par_36">
+        <text src="10.html#s36"/>
+        <audio src="10.mp3" clipBegin="299.360s" clipEnd="314.140s"/>
+      </par>
+      <par id="par_37">
+        <text src="10.html#s37"/>
+        <audio src="10.mp3" clipBegin="315.100s" clipEnd="330.780s"/>
+      </par>
+      <par id="par_38">
+        <text src="10.html#s38"/>
+        <audio src="10.mp3" clipBegin="331.750s" clipEnd="336.470s"/>
+      </par>
+      <par id="par_39">
+        <text src="10.html#s39"/>
+        <audio src="10.mp3" clipBegin="337.210s" clipEnd="344.190s"/>
+      </par>
+      <par id="par_40">
+        <text src="10.html#s40"/>
+        <audio src="10.mp3" clipBegin="345.230s" clipEnd="347.050s"/>
+      </par>
+      <par id="par_41">
+        <text src="10.html#s41"/>
+        <audio src="10.mp3" clipBegin="348.040s" clipEnd="352.020s"/>
+      </par>
+      <par id="par_42">
+        <text src="10.html#s42"/>
+        <audio src="10.mp3" clipBegin="353.140s" clipEnd="360.990s"/>
+      </par>
+      <par id="par_43">
+        <text src="10.html#s43"/>
+        <audio src="10.mp3" clipBegin="362.070s" clipEnd="368.220s"/>
+      </par>
+      <par id="par_44">
+        <text src="10.html#s44"/>
+        <audio src="10.mp3" clipBegin="368.950s" clipEnd="391.350s"/>
+      </par>
+      <par id="par_45">
+        <text src="10.html#s45"/>
+        <audio src="10.mp3" clipBegin="392.460s" clipEnd="395.420s"/>
+      </par>
+      <par id="par_46">
+        <text src="10.html#s46"/>
+        <audio src="10.mp3" clipBegin="396.050s" clipEnd="396.550s"/>
+      </par>
+      <par id="par_47">
+        <text src="10.html#s47"/>
+        <audio src="10.mp3" clipBegin="397.180s" clipEnd="409.110s"/>
+      </par>
+      <par id="par_48">
+        <text src="10.html#s48"/>
+        <audio src="10.mp3" clipBegin="410.310s" clipEnd="417.600s"/>
+      </par>
+      <par id="par_49">
+        <text src="10.html#s49"/>
+        <audio src="10.mp3" clipBegin="419.030s" clipEnd="432.210s"/>
+      </par>
+      <par id="par_50">
+        <text src="10.html#s50"/>
+        <audio src="10.mp3" clipBegin="433.260s" clipEnd="448.880s"/>
+      </par>
+      <par id="par_51">
+        <text src="10.html#s51"/>
+        <audio src="10.mp3" clipBegin="448.880s" clipEnd="464.060s"/>
+      </par>
+      <par id="par_52">
+        <text src="10.html#s52"/>
+        <audio src="10.mp3" clipBegin="464.750s" clipEnd="483.070s"/>
+      </par>
+      <par id="par_53">
+        <text src="10.html#s53"/>
+        <audio src="10.mp3" clipBegin="483.700s" clipEnd="518.760s"/>
+      </par>
+      <par id="par_54">
+        <text src="10.html#s54"/>
+        <audio src="10.mp3" clipBegin="519.340s" clipEnd="529.420s"/>
+      </par>
+      <par id="par_55">
+        <text src="10.html#s55"/>
+        <audio src="10.mp3" clipBegin="529.420s" clipEnd="533.190s"/>
+      </par>
+      <par id="par_56">
+        <text src="10.html#s56"/>
+        <audio src="10.mp3" clipBegin="533.740s" clipEnd="546.830s"/>
+      </par>
+      <par id="par_57">
+        <text src="10.html#s57"/>
+        <audio src="10.mp3" clipBegin="547.490s" clipEnd="554.250s"/>
+      </par>
+      <par id="par_58">
+        <text src="10.html#s58"/>
+        <audio src="10.mp3" clipBegin="555.230s" clipEnd="596.910s"/>
+      </par>
+      <par id="par_59">
+        <text src="10.html#s59"/>
+        <audio src="10.mp3" clipBegin="597.850s" clipEnd="606.490s"/>
+      </par>
+      <par id="par_60">
+        <text src="10.html#s60"/>
+        <audio src="10.mp3" clipBegin="607.480s" clipEnd="610.280s"/>
+      </par>
+      <par id="par_61">
+        <text src="10.html#s61"/>
+        <audio src="10.mp3" clipBegin="610.820s" clipEnd="613.170s"/>
+      </par>
+      <par id="par_62">
+        <text src="10.html#s62"/>
+        <audio src="10.mp3" clipBegin="613.580s" clipEnd="615.680s"/>
+      </par>
+      <par id="par_63">
+        <text src="10.html#s63"/>
+        <audio src="10.mp3" clipBegin="616.800s" clipEnd="622.390s"/>
+      </par>
+      <par id="par_64">
+        <text src="10.html#s64"/>
+        <audio src="10.mp3" clipBegin="623.160s" clipEnd="633.690s"/>
+      </par>
+      <par id="par_65">
+        <text src="10.html#s65"/>
+        <audio src="10.mp3" clipBegin="634.610s" clipEnd="662.670s"/>
+      </par>
+      <par id="par_66">
+        <text src="10.html#s66"/>
+        <audio src="10.mp3" clipBegin="663.200s" clipEnd="674.870s"/>
+      </par>
+      <par id="par_67">
+        <text src="10.html#s67"/>
+        <audio src="10.mp3" clipBegin="675.740s" clipEnd="679.370s"/>
+      </par>
+      <par id="par_68">
+        <text src="10.html#s68"/>
+        <audio src="10.mp3" clipBegin="681.000s" clipEnd="686.840s"/>
+      </par>
+      <par id="par_69">
+        <text src="10.html#s69"/>
+        <audio src="10.mp3" clipBegin="687.620s" clipEnd="698.580s"/>
+      </par>
+      <par id="par_70">
+        <text src="10.html#s70"/>
+        <audio src="10.mp3" clipBegin="699.880s" clipEnd="701.620s"/>
+      </par>
+      <par id="par_71">
+        <text src="10.html#s71"/>
+        <audio src="10.mp3" clipBegin="702.080s" clipEnd="705.290s"/>
+      </par>
+      <par id="par_72">
+        <text src="10.html#s72"/>
+        <audio src="10.mp3" clipBegin="706.690s" clipEnd="709.970s"/>
+      </par>
+      <par id="par_73">
+        <text src="10.html#s73"/>
+        <audio src="10.mp3" clipBegin="710.800s" clipEnd="719.590s"/>
+      </par>
+      <par id="par_74">
+        <text src="10.html#s74"/>
+        <audio src="10.mp3" clipBegin="720.640s" clipEnd="725.750s"/>
+      </par>
+      <par id="par_75">
+        <text src="10.html#s75"/>
+        <audio src="10.mp3" clipBegin="726.760s" clipEnd="734.200s"/>
+      </par>
+      <par id="par_76">
+        <text src="10.html#s76"/>
+        <audio src="10.mp3" clipBegin="734.990s" clipEnd="741.590s"/>
+      </par>
+      <par id="par_77">
+        <text src="10.html#s77"/>
+        <audio src="10.mp3" clipBegin="742.240s" clipEnd="743.100s"/>
+      </par>
+      <par id="par_78">
+        <text src="10.html#s78"/>
+        <audio src="10.mp3" clipBegin="743.540s" clipEnd="748.060s"/>
+      </par>
+      <par id="par_79">
+        <text src="10.html#s79"/>
+        <audio src="10.mp3" clipBegin="748.060s" clipEnd="748.320s"/>
+      </par>
+      <par id="par_80">
+        <text src="10.html#s80"/>
+        <audio src="10.mp3" clipBegin="749.160s" clipEnd="753.920s"/>
+      </par>
+      <par id="par_81">
+        <text src="10.html#s81"/>
+        <audio src="10.mp3" clipBegin="753.950s" clipEnd="754.360s"/>
+      </par>
+      <par id="par_82">
+        <text src="10.html#s82"/>
+        <audio src="10.mp3" clipBegin="755.080s" clipEnd="756.180s"/>
+      </par>
+      <par id="par_83">
+        <text src="10.html#s83"/>
+        <audio src="10.mp3" clipBegin="757.560s" clipEnd="760.420s"/>
+      </par>
+      <par id="par_84">
+        <text src="10.html#s84"/>
+        <audio src="10.mp3" clipBegin="760.840s" clipEnd="763.270s"/>
+      </par>
+      <par id="par_85">
+        <text src="10.html#s85"/>
+        <audio src="10.mp3" clipBegin="763.960s" clipEnd="771.110s"/>
+      </par>
+      <par id="par_86">
+        <text src="10.html#s86"/>
+        <audio src="10.mp3" clipBegin="772.300s" clipEnd="776.820s"/>
+      </par>
+      <par id="par_87">
+        <text src="10.html#s87"/>
+        <audio src="10.mp3" clipBegin="776.820s" clipEnd="777.040s"/>
+      </par>
+      <par id="par_88">
+        <text src="10.html#s88"/>
+        <audio src="10.mp3" clipBegin="777.660s" clipEnd="781.160s"/>
+      </par>
+      <par id="par_89">
+        <text src="10.html#s89"/>
+        <audio src="10.mp3" clipBegin="781.860s" clipEnd="792.010s"/>
+      </par>
+      <par id="par_90">
+        <text src="10.html#s90"/>
+        <audio src="10.mp3" clipBegin="793.300s" clipEnd="794.410s"/>
+      </par>
+      <par id="par_91">
+        <text src="10.html#s91"/>
+        <audio src="10.mp3" clipBegin="795.240s" clipEnd="797.180s"/>
+      </par>
+      <par id="par_92">
+        <text src="10.html#s92"/>
+        <audio src="10.mp3" clipBegin="797.760s" clipEnd="809.770s"/>
+      </par>
+      <par id="par_93">
+        <text src="10.html#s93"/>
+        <audio src="10.mp3" clipBegin="810.720s" clipEnd="825.440s"/>
+      </par>
+      <par id="par_94">
+        <text src="10.html#s94"/>
+        <audio src="10.mp3" clipBegin="826.390s" clipEnd="831.580s"/>
+      </par>
+      <par id="par_95">
+        <text src="10.html#s95"/>
+        <audio src="10.mp3" clipBegin="831.980s" clipEnd="834.090s"/>
+      </par>
+      <par id="par_96">
+        <text src="10.html#s96"/>
+        <audio src="10.mp3" clipBegin="834.520s" clipEnd="838.680s"/>
+      </par>
+      <par id="par_97">
+        <text src="10.html#s97"/>
+        <audio src="10.mp3" clipBegin="839.200s" clipEnd="846.730s"/>
+      </par>
+      <par id="par_98">
+        <text src="10.html#s98"/>
+        <audio src="10.mp3" clipBegin="847.650s" clipEnd="857.500s"/>
+      </par>
+      <par id="par_99">
+        <text src="10.html#s99"/>
+        <audio src="10.mp3" clipBegin="857.500s" clipEnd="871.770s"/>
+      </par>
+      <par id="par_100">
+        <text src="10.html#s100"/>
+        <audio src="10.mp3" clipBegin="872.750s" clipEnd="876.550s"/>
+      </par>
+      <par id="par_101">
+        <text src="10.html#s101"/>
+        <audio src="10.mp3" clipBegin="877.350s" clipEnd="894.900s"/>
+      </par>
+      <par id="par_102">
+        <text src="10.html#s102"/>
+        <audio src="10.mp3" clipBegin="896.100s" clipEnd="904.180s"/>
+      </par>
+      <par id="par_103">
+        <text src="10.html#s103"/>
+        <audio src="10.mp3" clipBegin="905.270s" clipEnd="914.520s"/>
+      </par>
+      <par id="par_104">
+        <text src="10.html#s104"/>
+        <audio src="10.mp3" clipBegin="915.390s" clipEnd="919.750s"/>
+      </par>
+      <par id="par_105">
+        <text src="10.html#s105"/>
+        <audio src="10.mp3" clipBegin="920.270s" clipEnd="928.550s"/>
+      </par>
+      <par id="par_106">
+        <text src="10.html#s106"/>
+        <audio src="10.mp3" clipBegin="929.080s" clipEnd="938.150s"/>
+      </par>
+      <par id="par_107">
+        <text src="10.html#s107"/>
+        <audio src="10.mp3" clipBegin="938.790s" clipEnd="943.930s"/>
+      </par>
+      <par id="par_108">
+        <text src="10.html#s108"/>
+        <audio src="10.mp3" clipBegin="944.960s" clipEnd="952.760s"/>
+      </par>
+      <par id="par_109">
+        <text src="10.html#s109"/>
+        <audio src="10.mp3" clipBegin="953.440s" clipEnd="983.990s"/>
+      </par>
+      <par id="par_110">
+        <text src="10.html#s110"/>
+        <audio src="10.mp3" clipBegin="985.410s" clipEnd="989.690s"/>
+      </par>
+      <par id="par_111">
+        <text src="10.html#s111"/>
+        <audio src="10.mp3" clipBegin="990.710s" clipEnd="1001.440s"/>
+      </par>
+      <par id="par_112">
+        <text src="10.html#s112"/>
+        <audio src="10.mp3" clipBegin="1002.190s" clipEnd="1011.370s"/>
+      </par>
+      <par id="par_113">
+        <text src="10.html#s113"/>
+        <audio src="10.mp3" clipBegin="1012.120s" clipEnd="1017.950s"/>
+      </par>
+      <par id="par_114">
+        <text src="10.html#s114"/>
+        <audio src="10.mp3" clipBegin="1018.810s" clipEnd="1021.450s"/>
+      </par>
+      <par id="par_115">
+        <text src="10.html#s115"/>
+        <audio src="10.mp3" clipBegin="1021.960s" clipEnd="1035.520s"/>
+      </par>
+      <par id="par_116">
+        <text src="10.html#s116"/>
+        <audio src="10.mp3" clipBegin="1036.580s" clipEnd="1040.660s"/>
+      </par>
+      <par id="par_117">
+        <text src="10.html#s117"/>
+        <audio src="10.mp3" clipBegin="1041.400s" clipEnd="1045.160s"/>
+      </par>
+      <par id="par_118">
+        <text src="10.html#s118"/>
+        <audio src="10.mp3" clipBegin="1045.820s" clipEnd="1047.990s"/>
+      </par>
+      <par id="par_119">
+        <text src="10.html#s119"/>
+        <audio src="10.mp3" clipBegin="1048.400s" clipEnd="1050.830s"/>
+      </par>
+      <par id="par_120">
+        <text src="10.html#s120"/>
+        <audio src="10.mp3" clipBegin="1051.300s" clipEnd="1053.010s"/>
+      </par>
+      <par id="par_121">
+        <text src="10.html#s121"/>
+        <audio src="10.mp3" clipBegin="1053.850s" clipEnd="1069.430s"/>
+      </par>
+      <par id="par_122">
+        <text src="10.html#s122"/>
+        <audio src="10.mp3" clipBegin="1072.200s" clipEnd="1075.660s"/>
+      </par>
+      <par id="par_123">
+        <text src="10.html#s123"/>
+        <audio src="10.mp3" clipBegin="1075.660s" clipEnd="1083.110s"/>
+      </par>
+      <par id="par_124">
+        <text src="10.html#s124"/>
+        <audio src="10.mp3" clipBegin="1083.830s" clipEnd="1090.640s"/>
+      </par>
+      <par id="par_125">
+        <text src="10.html#s125"/>
+        <audio src="10.mp3" clipBegin="1090.640s" clipEnd="1096.310s"/>
+      </par>
+      <par id="par_126">
+        <text src="10.html#s126"/>
+        <audio src="10.mp3" clipBegin="1097.200s" clipEnd="1100.840s"/>
+      </par>
+      <par id="par_127">
+        <text src="10.html#s127"/>
+        <audio src="10.mp3" clipBegin="1101.640s" clipEnd="1105.090s"/>
+      </par>
+      <par id="par_128">
+        <text src="10.html#s128"/>
+        <audio src="10.mp3" clipBegin="1105.770s" clipEnd="1108.240s"/>
+      </par>
+      <par id="par_129">
+        <text src="10.html#s129"/>
+        <audio src="10.mp3" clipBegin="1109.290s" clipEnd="1117.460s"/>
+      </par>
+      <par id="par_130">
+        <text src="10.html#s130"/>
+        <audio src="10.mp3" clipBegin="1117.970s" clipEnd="1124.090s"/>
+      </par>
+      <par id="par_131">
+        <text src="10.html#s131"/>
+        <audio src="10.mp3" clipBegin="1125.050s" clipEnd="1138.600s"/>
+      </par>
+      <par id="par_132">
+        <text src="10.html#s132"/>
+        <audio src="10.mp3" clipBegin="1139.390s" clipEnd="1143.690s"/>
+      </par>
+      <par id="par_133">
+        <text src="10.html#s133"/>
+        <audio src="10.mp3" clipBegin="1143.690s" clipEnd="1146.400s"/>
+      </par>
+      <par id="par_134">
+        <text src="10.html#s134"/>
+        <audio src="10.mp3" clipBegin="1147.400s" clipEnd="1150.280s"/>
+      </par>
+      <par id="par_135">
+        <text src="10.html#s135"/>
+        <audio src="10.mp3" clipBegin="1150.970s" clipEnd="1155.720s"/>
+      </par>
+      <par id="par_136">
+        <text src="10.html#s136"/>
+        <audio src="10.mp3" clipBegin="1156.410s" clipEnd="1162.270s"/>
+      </par>
+      <par id="par_137">
+        <text src="10.html#s137"/>
+        <audio src="10.mp3" clipBegin="1163.690s" clipEnd="1164.750s"/>
+      </par>
+      <par id="par_138">
+        <text src="10.html#s138"/>
+        <audio src="10.mp3" clipBegin="1165.620s" clipEnd="1168.230s"/>
+      </par>
+      <par id="par_139">
+        <text src="10.html#s139"/>
+        <audio src="10.mp3" clipBegin="1168.840s" clipEnd="1174.810s"/>
+      </par>
+      <par id="par_140">
+        <text src="10.html#s140"/>
+        <audio src="10.mp3" clipBegin="1176.380s" clipEnd="1178.450s"/>
+      </par>
+      <par id="par_141">
+        <text src="10.html#s141"/>
+        <audio src="10.mp3" clipBegin="1179.250s" clipEnd="1183.950s"/>
+      </par>
+      <par id="par_142">
+        <text src="10.html#s142"/>
+        <audio src="10.mp3" clipBegin="1184.680s" clipEnd="1196.740s"/>
+      </par>
+      <par id="par_143">
+        <text src="10.html#s143"/>
+        <audio src="10.mp3" clipBegin="1197.730s" clipEnd="1209.890s"/>
+      </par>
+      <par id="par_144">
+        <text src="10.html#s144"/>
+        <audio src="10.mp3" clipBegin="1210.960s" clipEnd="1223.910s"/>
+      </par>
+      <par id="par_145">
+        <text src="10.html#s145"/>
+        <audio src="10.mp3" clipBegin="1224.930s" clipEnd="1228.780s"/>
+      </par>
+      <par id="par_146">
+        <text src="10.html#s146"/>
+        <audio src="10.mp3" clipBegin="1229.110s" clipEnd="1238.000s"/>
+      </par>
+      <par id="par_147">
+        <text src="10.html#s147"/>
+        <audio src="10.mp3" clipBegin="1238.000s" clipEnd="1247.680s"/>
+      </par>
+      <par id="par_148">
+        <text src="10.html#s148"/>
+        <audio src="10.mp3" clipBegin="1248.740s" clipEnd="1261.520s"/>
+      </par>
+      <par id="par_149">
+        <text src="10.html#s149"/>
+        <audio src="10.mp3" clipBegin="1262.440s" clipEnd="1267.220s"/>
+      </par>
+      <par id="par_150">
+        <text src="10.html#s150"/>
+        <audio src="10.mp3" clipBegin="1267.900s" clipEnd="1275.180s"/>
+      </par>
+      <par id="par_151">
+        <text src="10.html#s151"/>
+        <audio src="10.mp3" clipBegin="1276.030s" clipEnd="1279.780s"/>
+      </par>
+      <par id="par_152">
+        <text src="10.html#s152"/>
+        <audio src="10.mp3" clipBegin="1280.340s" clipEnd="1285.250s"/>
+      </par>
+      <par id="par_153">
+        <text src="10.html#s153"/>
+        <audio src="10.mp3" clipBegin="1286.580s" clipEnd="1291.840s"/>
+      </par>
+      <par id="par_154">
+        <text src="10.html#s154"/>
+        <audio src="10.mp3" clipBegin="1291.840s" clipEnd="1292.860s"/>
+      </par>
+      <par id="par_155">
+        <text src="10.html#s155"/>
+        <audio src="10.mp3" clipBegin="1293.650s" clipEnd="1300.100s"/>
+      </par>
+      <par id="par_156">
+        <text src="10.html#s156"/>
+        <audio src="10.mp3" clipBegin="1300.800s" clipEnd="1311.550s"/>
+      </par>
+      <par id="par_157">
+        <text src="10.html#s157"/>
+        <audio src="10.mp3" clipBegin="1313.200s" clipEnd="1318.290s"/>
+      </par>
+      <par id="par_158">
+        <text src="10.html#s158"/>
+        <audio src="10.mp3" clipBegin="1319.100s" clipEnd="1324.300s"/>
+      </par>
+      <par id="par_159">
+        <text src="10.html#s159"/>
+        <audio src="10.mp3" clipBegin="1324.790s" clipEnd="1330.090s"/>
+      </par>
+      <par id="par_160">
+        <text src="10.html#s160"/>
+        <audio src="10.mp3" clipBegin="1331.110s" clipEnd="1334.190s"/>
+      </par>
+      <par id="par_161">
+        <text src="10.html#s161"/>
+        <audio src="10.mp3" clipBegin="1334.800s" clipEnd="1339.320s"/>
+      </par>
+      <par id="par_162">
+        <text src="10.html#s162"/>
+        <audio src="10.mp3" clipBegin="1339.660s" clipEnd="1346.280s"/>
+      </par>
+      <par id="par_163">
+        <text src="10.html#s163"/>
+        <audio src="10.mp3" clipBegin="1346.990s" clipEnd="1356.140s"/>
+      </par>
+      <par id="par_164">
+        <text src="10.html#s164"/>
+        <audio src="10.mp3" clipBegin="1357.060s" clipEnd="1363.260s"/>
+      </par>
+      <par id="par_165">
+        <text src="10.html#s165"/>
+        <audio src="10.mp3" clipBegin="1363.840s" clipEnd="1367.560s"/>
+      </par>
+      <par id="par_166">
+        <text src="10.html#s166"/>
+        <audio src="10.mp3" clipBegin="1368.560s" clipEnd="1375.710s"/>
+      </par>
+      <par id="par_167">
+        <text src="10.html#s167"/>
+        <audio src="10.mp3" clipBegin="1376.510s" clipEnd="1390.880s"/>
+      </par>
+      <par id="par_168">
+        <text src="10.html#s168"/>
+        <audio src="10.mp3" clipBegin="1391.910s" clipEnd="1401.310s"/>
+      </par>
+      <par id="par_169">
+        <text src="10.html#s169"/>
+        <audio src="10.mp3" clipBegin="1402.140s" clipEnd="1404.820s"/>
+      </par>
+      <par id="par_170">
+        <text src="10.html#s170"/>
+        <audio src="10.mp3" clipBegin="1405.410s" clipEnd="1410.360s"/>
+      </par>
+      <par id="par_171">
+        <text src="10.html#s171"/>
+        <audio src="10.mp3" clipBegin="1410.360s" clipEnd="1411.310s"/>
+      </par>
+      <par id="par_172">
+        <text src="10.html#s172"/>
+        <audio src="10.mp3" clipBegin="1411.900s" clipEnd="1419.120s"/>
+      </par>
+      <par id="par_173">
+        <text src="10.html#s173"/>
+        <audio src="10.mp3" clipBegin="1419.790s" clipEnd="1433.650s"/>
+      </par>
+      <par id="par_174">
+        <text src="10.html#s174"/>
+        <audio src="10.mp3" clipBegin="1434.630s" clipEnd="1444.030s"/>
+      </par>
+      <par id="par_175">
+        <text src="10.html#s175"/>
+        <audio src="10.mp3" clipBegin="1445.150s" clipEnd="1466.760s"/>
+      </par>
+      <par id="par_176">
+        <text src="10.html#s176"/>
+        <audio src="10.mp3" clipBegin="1467.220s" clipEnd="1483.120s"/>
+      </par>
+      <par id="par_177">
+        <text src="10.html#s177"/>
+        <audio src="10.mp3" clipBegin="1484.340s" clipEnd="1492.020s"/>
+      </par>
+      <par id="par_178">
+        <text src="10.html#s178"/>
+        <audio src="10.mp3" clipBegin="1492.850s" clipEnd="1496.840s"/>
+      </par>
+      <par id="par_179">
+        <text src="10.html#s179"/>
+        <audio src="10.mp3" clipBegin="1497.790s" clipEnd="1514.570s"/>
+      </par>
+      <par id="par_180">
+        <text src="10.html#s180"/>
+        <audio src="10.mp3" clipBegin="1515.120s" clipEnd="1523.210s"/>
+      </par>
+      <par id="par_181">
+        <text src="10.html#s181"/>
+        <audio src="10.mp3" clipBegin="1524.020s" clipEnd="1531.940s"/>
+      </par>
+      <par id="par_182">
+        <text src="10.html#s182"/>
+        <audio src="10.mp3" clipBegin="1532.400s" clipEnd="1539.130s"/>
+      </par>
+      <par id="par_183">
+        <text src="10.html#s183"/>
+        <audio src="10.mp3" clipBegin="1539.860s" clipEnd="1545.120s"/>
+      </par>
+      <par id="par_184">
+        <text src="10.html#s184"/>
+        <audio src="10.mp3" clipBegin="1545.950s" clipEnd="1553.810s"/>
+      </par>
+      <par id="par_185">
+        <text src="10.html#s185"/>
+        <audio src="10.mp3" clipBegin="1554.160s" clipEnd="1560.620s"/>
+      </par>
+      <par id="par_186">
+        <text src="10.html#s186"/>
+        <audio src="10.mp3" clipBegin="1561.540s" clipEnd="1569.550s"/>
+      </par>
+      <par id="par_187">
+        <text src="10.html#s187"/>
+        <audio src="10.mp3" clipBegin="1570.620s" clipEnd="1597.000s"/>
+      </par>
+      <par id="par_188">
+        <text src="10.html#s188"/>
+        <audio src="10.mp3" clipBegin="1598.100s" clipEnd="1606.920s"/>
+      </par>
+      <par id="par_189">
+        <text src="10.html#s189"/>
+        <audio src="10.mp3" clipBegin="1607.480s" clipEnd="1618.770s"/>
+      </par>
+      <par id="par_190">
+        <text src="10.html#s190"/>
+        <audio src="10.mp3" clipBegin="1621.750s" clipEnd="1622.850s"/>
+      </par>
+      <par id="par_191">
+        <text src="10.html#s191"/>
+        <audio src="10.mp3" clipBegin="1625.500s" clipEnd="1632.870s"/>
+      </par>
+      <par id="par_192">
+        <text src="10.html#s192"/>
+        <audio src="10.mp3" clipBegin="1633.490s" clipEnd="1636.030s"/>
+      </par>
+      <par id="par_193">
+        <text src="10.html#s193"/>
+        <audio src="10.mp3" clipBegin="1636.740s" clipEnd="1643.300s"/>
+      </par>
+      <par id="par_194">
+        <text src="10.html#s194"/>
+        <audio src="10.mp3" clipBegin="1643.920s" clipEnd="1646.060s"/>
+      </par>
+      <par id="par_195">
+        <text src="10.html#s195"/>
+        <audio src="10.mp3" clipBegin="1646.600s" clipEnd="1662.550s"/>
+      </par>
+      <par id="par_196">
+        <text src="10.html#s196"/>
+        <audio src="10.mp3" clipBegin="1663.290s" clipEnd="1669.040s"/>
+      </par>
+      <par id="par_197">
+        <text src="10.html#s197"/>
+        <audio src="10.mp3" clipBegin="1670.180s" clipEnd="1674.190s"/>
+      </par>
+      <par id="par_198">
+        <text src="10.html#s198"/>
+        <audio src="10.mp3" clipBegin="1674.870s" clipEnd="1692.250s"/>
+      </par>
+      <par id="par_199">
+        <text src="10.html#s199"/>
+        <audio src="10.mp3" clipBegin="1692.840s" clipEnd="1704.090s"/>
+      </par>
+      <par id="par_200">
+        <text src="10.html#s200"/>
+        <audio src="10.mp3" clipBegin="1705.080s" clipEnd="1712.590s"/>
+      </par>
+      <par id="par_201">
+        <text src="10.html#s201"/>
+        <audio src="10.mp3" clipBegin="1713.230s" clipEnd="1728.070s"/>
+      </par>
+      <par id="par_202">
+        <text src="10.html#s202"/>
+        <audio src="10.mp3" clipBegin="1729.320s" clipEnd="1737.340s"/>
+      </par>
+      <par id="par_203">
+        <text src="10.html#s203"/>
+        <audio src="10.mp3" clipBegin="1738.330s" clipEnd="1747.150s"/>
+      </par>
+      <par id="par_204">
+        <text src="10.html#s204"/>
+        <audio src="10.mp3" clipBegin="1748.100s" clipEnd="1749.980s"/>
+      </par>
+      <par id="par_205">
+        <text src="10.html#s205"/>
+        <audio src="10.mp3" clipBegin="1750.880s" clipEnd="1757.530s"/>
+      </par>
+      <par id="par_206">
+        <text src="10.html#s206"/>
+        <audio src="10.mp3" clipBegin="1758.040s" clipEnd="1767.100s"/>
+      </par>
+      <par id="par_207">
+        <text src="10.html#s207"/>
+        <audio src="10.mp3" clipBegin="1767.810s" clipEnd="1778.700s"/>
+      </par>
+      <par id="par_208">
+        <text src="10.html#s208"/>
+        <audio src="10.mp3" clipBegin="1779.170s" clipEnd="1781.390s"/>
+      </par>
+      <par id="par_209">
+        <text src="10.html#s209"/>
+        <audio src="10.mp3" clipBegin="1782.320s" clipEnd="1785.170s"/>
+      </par>
+      <par id="par_210">
+        <text src="10.html#s210"/>
+        <audio src="10.mp3" clipBegin="1786.130s" clipEnd="1830.380s"/>
+      </par>
+      <par id="par_211">
+        <text src="10.html#s211"/>
+        <audio src="10.mp3" clipBegin="1831.750s" clipEnd="1834.870s"/>
+      </par>
+      <par id="par_212">
+        <text src="10.html#s212"/>
+        <audio src="10.mp3" clipBegin="1835.780s" clipEnd="1846.770s"/>
+      </par>
+      <par id="par_213">
+        <text src="10.html#s213"/>
+        <audio src="10.mp3" clipBegin="1847.550s" clipEnd="1865.050s"/>
+      </par>
+      <par id="par_214">
+        <text src="10.html#s214"/>
+        <audio src="10.mp3" clipBegin="1866.510s" clipEnd="1877.880s"/>
+      </par>
+      <par id="par_215">
+        <text src="10.html#s215"/>
+        <audio src="10.mp3" clipBegin="1879.120s" clipEnd="1894.410s"/>
+      </par>
+      <par id="par_216">
+        <text src="10.html#s216"/>
+        <audio src="10.mp3" clipBegin="1894.980s" clipEnd="1896.870s"/>
+      </par>
+      <par id="par_217">
+        <text src="10.html#s217"/>
+        <audio src="10.mp3" clipBegin="1896.870s" clipEnd="1917.050s"/>
+      </par>
+      <par id="par_218">
+        <text src="10.html#s218"/>
+        <audio src="10.mp3" clipBegin="1917.740s" clipEnd="1920.540s"/>
+      </par>
+      <par id="par_219">
+        <text src="10.html#s219"/>
+        <audio src="10.mp3" clipBegin="1921.240s" clipEnd="1932.650s"/>
+      </par>
+      <par id="par_220">
+        <text src="10.html#s220"/>
+        <audio src="10.mp3" clipBegin="1933.160s" clipEnd="1934.780s"/>
+      </par>
+      <par id="par_221">
+        <text src="10.html#s221"/>
+        <audio src="10.mp3" clipBegin="1935.880s" clipEnd="1941.610s"/>
+      </par>
+      <par id="par_222">
+        <text src="10.html#s222"/>
+        <audio src="10.mp3" clipBegin="1942.800s" clipEnd="1954.630s"/>
+      </par>
+      <par id="par_223">
+        <text src="10.html#s223"/>
+        <audio src="10.mp3" clipBegin="1955.340s" clipEnd="1967.980s"/>
+      </par>
+      <par id="par_224">
+        <text src="10.html#s224"/>
+        <audio src="10.mp3" clipBegin="1968.410s" clipEnd="1974.280s"/>
+      </par>
+      <par id="par_225">
+        <text src="10.html#s225"/>
+        <audio src="10.mp3" clipBegin="1974.770s" clipEnd="1980.610s"/>
+      </par>
+      <par id="par_226">
+        <text src="10.html#s226"/>
+        <audio src="10.mp3" clipBegin="1981.490s" clipEnd="1984.860s"/>
+      </par>
+      <par id="par_227">
+        <text src="10.html#s227"/>
+        <audio src="10.mp3" clipBegin="1985.310s" clipEnd="1986.690s"/>
+      </par>
+      <par id="par_228">
+        <text src="10.html#s228"/>
+        <audio src="10.mp3" clipBegin="1986.990s" clipEnd="1988.800s"/>
+      </par>
+      <par id="par_229">
+        <text src="10.html#s229"/>
+        <audio src="10.mp3" clipBegin="1989.400s" clipEnd="1998.580s"/>
+      </par>
+      <par id="par_230">
+        <text src="10.html#s230"/>
+        <audio src="10.mp3" clipBegin="1999.260s" clipEnd="2010.130s"/>
+      </par>
+      <par id="par_231">
+        <text src="10.html#s231"/>
+        <audio src="10.mp3" clipBegin="2010.690s" clipEnd="2024.870s"/>
+      </par>
+      <par id="par_232">
+        <text src="10.html#s232"/>
+        <audio src="10.mp3" clipBegin="2025.310s" clipEnd="2026.980s"/>
+      </par>
+      <par id="par_233">
+        <text src="10.html#s233"/>
+        <audio src="10.mp3" clipBegin="2027.520s" clipEnd="2035.620s"/>
+      </par>
+      <par id="par_234">
+        <text src="10.html#s234"/>
+        <audio src="10.mp3" clipBegin="2036.350s" clipEnd="2045.620s"/>
+      </par>
+      <par id="par_235">
+        <text src="10.html#s235"/>
+        <audio src="10.mp3" clipBegin="2046.700s" clipEnd="2061.440s"/>
+      </par>
+      <par id="par_236">
+        <text src="10.html#s236"/>
+        <audio src="10.mp3" clipBegin="2062.040s" clipEnd="2091.760s"/>
+      </par>
+      <par id="par_237">
+        <text src="10.html#s237"/>
+        <audio src="10.mp3" clipBegin="2092.560s" clipEnd="2095.350s"/>
+      </par>
+      <par id="par_238">
+        <text src="10.html#s238"/>
+        <audio src="10.mp3" clipBegin="2095.920s" clipEnd="2104.110s"/>
+      </par>
+      <par id="par_239">
+        <text src="10.html#s239"/>
+        <audio src="10.mp3" clipBegin="2104.730s" clipEnd="2112.040s"/>
+      </par>
+      <par id="par_240">
+        <text src="10.html#s240"/>
+        <audio src="10.mp3" clipBegin="2112.900s" clipEnd="2122.540s"/>
+      </par>
+      <par id="par_241">
+        <text src="10.html#s241"/>
+        <audio src="10.mp3" clipBegin="2123.140s" clipEnd="2127.550s"/>
+      </par>
+      <par id="par_242">
+        <text src="10.html#s242"/>
+        <audio src="10.mp3" clipBegin="2128.050s" clipEnd="2132.610s"/>
+      </par>
+      <par id="par_243">
+        <text src="10.html#s243"/>
+        <audio src="10.mp3" clipBegin="2133.460s" clipEnd="2156.580s"/>
+      </par>
+      <par id="par_244">
+        <text src="10.html#s244"/>
+        <audio src="10.mp3" clipBegin="2158.220s" clipEnd="2163.870s"/>
+      </par>
+      <par id="par_245">
+        <text src="10.html#s245"/>
+        <audio src="10.mp3" clipBegin="2164.490s" clipEnd="2173.730s"/>
+      </par>
+      <par id="par_246">
+        <text src="10.html#s246"/>
+        <audio src="10.mp3" clipBegin="2175.650s" clipEnd="2186.070s"/>
+      </par>
+      <par id="par_247">
+        <text src="10.html#s247"/>
+        <audio src="10.mp3" clipBegin="2187.160s" clipEnd="2192.420s"/>
+      </par>
+      <par id="par_248">
+        <text src="10.html#s248"/>
+        <audio src="10.mp3" clipBegin="2193.160s" clipEnd="2214.480s"/>
+      </par>
+      <par id="par_249">
+        <text src="10.html#s249"/>
+        <audio src="10.mp3" clipBegin="2215.140s" clipEnd="2218.740s"/>
+      </par>
+      <par id="par_250">
+        <text src="10.html#s250"/>
+        <audio src="10.mp3" clipBegin="2219.120s" clipEnd="2221.170s"/>
+      </par>
+      <par id="par_251">
+        <text src="10.html#s251"/>
+        <audio src="10.mp3" clipBegin="2221.600s" clipEnd="2230.920s"/>
+      </par>
+      <par id="par_252">
+        <text src="10.html#s252"/>
+        <audio src="10.mp3" clipBegin="2231.620s" clipEnd="2232.980s"/>
+      </par>
+      <par id="par_253">
+        <text src="10.html#s253"/>
+        <audio src="10.mp3" clipBegin="2232.980s" clipEnd="2251.330s"/>
+      </par>
+      <par id="par_254">
+        <text src="10.html#s254"/>
+        <audio src="10.mp3" clipBegin="2252.570s" clipEnd="2257.050s"/>
+      </par>
+      <par id="par_255">
+        <text src="10.html#s255"/>
+        <audio src="10.mp3" clipBegin="2257.500s" clipEnd="2269.500s"/>
+      </par>
+      <par id="par_256">
+        <text src="10.html#s256"/>
+        <audio src="10.mp3" clipBegin="2270.440s" clipEnd="2289.780s"/>
+      </par>
+      <par id="par_257">
+        <text src="10.html#s257"/>
+        <audio src="10.mp3" clipBegin="2290.100s" clipEnd="2293.060s"/>
+      </par>
+      <par id="par_258">
+        <text src="10.html#s258"/>
+        <audio src="10.mp3" clipBegin="2294.310s" clipEnd="2302.180s"/>
+      </par>
+      <par id="par_259">
+        <text src="10.html#s259"/>
+        <audio src="10.mp3" clipBegin="2302.640s" clipEnd="2307.530s"/>
+      </par>
+      <par id="par_260">
+        <text src="10.html#s260"/>
+        <audio src="10.mp3" clipBegin="2308.280s" clipEnd="2319.920s"/>
+      </par>
+      <par id="par_261">
+        <text src="10.html#s261"/>
+        <audio src="10.mp3" clipBegin="2321.230s" clipEnd="2334.820s"/>
+      </par>
+      <par id="par_262">
+        <text src="10.html#s262"/>
+        <audio src="10.mp3" clipBegin="2335.240s" clipEnd="2342.510s"/>
+      </par>
+      <par id="par_263">
+        <text src="10.html#s263"/>
+        <audio src="10.mp3" clipBegin="2342.510s" clipEnd="2359.300s"/>
+      </par>
+      <par id="par_264">
+        <text src="10.html#s264"/>
+        <audio src="10.mp3" clipBegin="2360.450s" clipEnd="2369.260s"/>
+      </par>
+      <par id="par_265">
+        <text src="10.html#s265"/>
+        <audio src="10.mp3" clipBegin="2370.200s" clipEnd="2380.120s"/>
+      </par>
+      <par id="par_266">
+        <text src="10.html#s266"/>
+        <audio src="10.mp3" clipBegin="2380.840s" clipEnd="2392.800s"/>
+      </par>
+      <par id="par_267">
+        <text src="10.html#s267"/>
+        <audio src="10.mp3" clipBegin="2393.380s" clipEnd="2402.460s"/>
+      </par>
+      <par id="par_268">
+        <text src="10.html#s268"/>
+        <audio src="10.mp3" clipBegin="2403.360s" clipEnd="2409.370s"/>
+      </par>
+      <par id="par_269">
+        <text src="10.html#s269"/>
+        <audio src="10.mp3" clipBegin="2410.040s" clipEnd="2420.900s"/>
+      </par>
+      <par id="par_270">
+        <text src="10.html#s270"/>
+        <audio src="10.mp3" clipBegin="2421.840s" clipEnd="2425.030s"/>
+      </par>
+      <par id="par_271">
+        <text src="10.html#s271"/>
+        <audio src="10.mp3" clipBegin="2425.650s" clipEnd="2441.710s"/>
+      </par>
+      <par id="par_272">
+        <text src="10.html#s272"/>
+        <audio src="10.mp3" clipBegin="2442.320s" clipEnd="2450.400s"/>
+      </par>
+      <par id="par_273">
+        <text src="10.html#s273"/>
+        <audio src="10.mp3" clipBegin="2451.340s" clipEnd="2456.280s"/>
+      </par>
+      <par id="par_274">
+        <text src="10.html#s274"/>
+        <audio src="10.mp3" clipBegin="2456.660s" clipEnd="2457.550s"/>
+      </par>
+      <par id="par_275">
+        <text src="10.html#s275"/>
+        <audio src="10.mp3" clipBegin="2459.250s" clipEnd="2477.580s"/>
+      </par>
+      <par id="par_276">
+        <text src="10.html#s276"/>
+        <audio src="10.mp3" clipBegin="2478.190s" clipEnd="2484.420s"/>
+      </par>
+      <par id="par_277">
+        <text src="10.html#s277"/>
+        <audio src="10.mp3" clipBegin="2485.470s" clipEnd="2498.970s"/>
+      </par>
+      <par id="par_278">
+        <text src="10.html#s278"/>
+        <audio src="10.mp3" clipBegin="2499.760s" clipEnd="2503.890s"/>
+      </par>
+      <par id="par_279">
+        <text src="10.html#s279"/>
+        <audio src="10.mp3" clipBegin="2504.800s" clipEnd="2507.580s"/>
+      </par>
+      <par id="par_280">
+        <text src="10.html#s280"/>
+        <audio src="10.mp3" clipBegin="2508.320s" clipEnd="2514.890s"/>
+      </par>
+      <par id="par_281">
+        <text src="10.html#s281"/>
+        <audio src="10.mp3" clipBegin="2515.460s" clipEnd="2518.250s"/>
+      </par>
+      <par id="par_282">
+        <text src="10.html#s282"/>
+        <audio src="10.mp3" clipBegin="2519.210s" clipEnd="2521.670s"/>
+      </par>
+      <par id="par_283">
+        <text src="10.html#s283"/>
+        <audio src="10.mp3" clipBegin="2522.080s" clipEnd="2528.530s"/>
+      </par>
+      <par id="par_284">
+        <text src="10.html#s284"/>
+        <audio src="10.mp3" clipBegin="2529.740s" clipEnd="2534.280s"/>
+      </par>
+      <par id="par_285">
+        <text src="10.html#s285"/>
+        <audio src="10.mp3" clipBegin="2535.180s" clipEnd="2537.920s"/>
+      </par>
+      <par id="par_286">
+        <text src="10.html#s286"/>
+        <audio src="10.mp3" clipBegin="2538.480s" clipEnd="2547.030s"/>
+      </par>
+      <par id="par_287">
+        <text src="10.html#s287"/>
+        <audio src="10.mp3" clipBegin="2547.580s" clipEnd="2566.900s"/>
+      </par>
+      <par id="par_288">
+        <text src="10.html#s288"/>
+        <audio src="10.mp3" clipBegin="2567.480s" clipEnd="2578.910s"/>
+      </par>
+      <par id="par_289">
+        <text src="10.html#s289"/>
+        <audio src="10.mp3" clipBegin="2579.820s" clipEnd="2600.440s"/>
+      </par>
+      <par id="par_290">
+        <text src="10.html#s290"/>
+        <audio src="10.mp3" clipBegin="2601.200s" clipEnd="2608.320s"/>
+      </par>
+    </seq>
+  </body>
+</smil>
