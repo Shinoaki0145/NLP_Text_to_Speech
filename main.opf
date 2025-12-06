@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="uid"><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="2.0">
+
+  <metadata>	<metadata>
+
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">		<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+      <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>			<dc:Identifier id="uid">9786041266001</dc:Identifier>
+
+      <dc:Language>vi</dc:Language>			<dc:Title>Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa &amp; Văn Minh Miệt Vườn</dc:Title>
+
+      <dc:Date>2013</dc:Date>			<dc:Creator>Sơn Nam</dc:Creator>
+
+      <dc:Publisher>NXB Trẻ</dc:Publisher>			<dc:Subject>Văn học &amp; Tiểu thuyết</dc:Subject>
+
+      <dc:Title>Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa &amp; Văn Minh Miệt Vườn</dc:Title>			<dc:Description>Tác phẩm biên khảo về đồng bằng sông Cửu Long, văn hóa và sinh hoạt truyền thống của vùng đất Nam Bộ</dc:Description>
+
+      <dc:Creator>Sơn Nam</dc:Creator>			<dc:Publisher>NXB Trẻ</dc:Publisher>
+
+      <dc:Subject>Biên khảo</dc:Subject>			<dc:Date>2013</dc:Date>
+
+      <dc:Description>Tác phẩm biên khảo về đồng bằng sông Cửu Long, văn hóa và sinh hoạt truyền thống của vùng đất Nam Bộ</dc:Description>			<dc:Source>9786041266001</dc:Source>
+
+      <dc:Identifier id="uid">9786041266001</dc:Identifier>			<dc:Language>vi</dc:Language>
+
+      <dc:Source>9786041266001</dc:Source>		</dc-metadata>
+
+    </dc-metadata>
+
+    <x-metadata>		<x-metadata>
+
+      <meta name="dtb:multimediaType" content="audioFullText"/>			<meta name="thumb" content="link ảnh"/>
+
+      <meta name="dtb:multimediaContent" content="audio,text"/>		</x-metadata>
+
+      <meta name="dtb:totalTime" content="0:00:00"/>	</metadata>
+
+      <meta name="dtb:audioFormat" content="mp3"/>
+
+      <meta name="thumb" content="xml_smil_output/Bìa sách.png"/>	<manifest>
+
+    </x-metadata>		<!-- Main DTBook (text) -->
+
+  </metadata>		<item id="dtbook" href="main.xml" media-type="application/x-dtbook+xml"/>
+
+  
+
+  <manifest>		<!-- SMIL files -->
+
+    <!-- Resource file -->		<item id="smil_01" href="smil_output/01.smil" media-type="application/smil+xml"/>
+
+    <item id="resource" href="resource.res" media-type="application/x-dtbresource+xml"/>		<item id="smil_02" href="smil_output/02.smil" media-type="application/smil+xml"/>
+
+    		<item id="smil_03" href="smil_output/03.smil" media-type="application/smil+xml"/>
+
+    <!-- Cover image -->		<item id="smil_04" href="smil_output/04.smil" media-type="application/smil+xml"/>
+
+    <item id="cover" href="xml_smil_output/Bìa sách.png" media-type="image/png"/>		<item id="smil_05" href="smil_output/05.smil" media-type="application/smil+xml"/>
+
+    		<item id="smil_06" href="smil_output/06.smil" media-type="application/smil+xml"/>
+
+    <!-- SMIL files -->		<item id="smil_07" href="smil_output/07.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_01" href="xml_smil_output/01.smil" media-type="application/smil"/>		<item id="smil_08" href="smil_output/08.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_02" href="xml_smil_output/02.smil" media-type="application/smil"/>		<item id="smil_09" href="smil_output/09.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_03" href="xml_smil_output/03.smil" media-type="application/smil"/>		<item id="smil_10" href="smil_output/10.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_04" href="xml_smil_output/04.smil" media-type="application/smil"/>		<item id="smil_11" href="smil_output/11.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_05" href="xml_smil_output/05.smil" media-type="application/smil"/>		<item id="smil_12" href="smil_output/12.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_06" href="xml_smil_output/06.smil" media-type="application/smil"/>		<item id="smil_13" href="smil_output/13.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_07" href="xml_smil_output/07.smil" media-type="application/smil"/>		<item id="smil_14" href="smil_output/14.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_08" href="xml_smil_output/08.smil" media-type="application/smil"/>		<item id="smil_15" href="smil_output/15.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_09" href="xml_smil_output/09.smil" media-type="application/smil"/>		<item id="smil_16" href="smil_output/16.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_10" href="xml_smil_output/10.smil" media-type="application/smil"/>		<item id="smil_17" href="smil_output/17.smil" media-type="application/smil+xml"/>
+
+    <item id="smil_11" href="xml_smil_output/11.smil" media-type="application/smil"/>
+
+    <item id="smil_12" href="xml_smil_output/12.smil" media-type="application/smil"/>		<!-- Audio files -->
+
+    <item id="smil_13" href="xml_smil_output/13.smil" media-type="application/smil"/>		c
+
+    <item id="smil_14" href="xml_smil_output/14.smil" media-type="application/smil"/>		<item id="audio_06" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 06.mp3" media-type="audio/mpeg"/>
+
+    <item id="smil_15" href="xml_smil_output/15.smil" media-type="application/smil"/>		<item id="audio_07" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 07.mp3" media-type="audio/mpeg"/>
+
+    <item id="smil_16" href="xml_smil_output/16.smil" media-type="application/smil"/>		<item id="audio_08" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 08.mp3" media-type="audio/mpeg"/>
+
+    <item id="smil_17" href="xml_smil_output/17.smil" media-type="application/smil"/>		<item id="audio_09" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 09.mp3" media-type="audio/mpeg"/>
+
+    		<item id="audio_10" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 10.mp3" media-type="audio/mpeg"/>
+
+    <!-- XML text files -->		<item id="audio_11" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 11.mp3" media-type="audio/mpeg"/>
+
+    <item id="xml_01" href="xml_smil_output/01.xml" media-type="application/x-dtbook+xml"/>		<item id="audio_12" href="human_voice/Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 12.mp3" media-type="audio/mpeg"/>
+
+    <item id="xml_02" href="xml_smil_output/02.xml" media-type="application/x-dtbook+xml"/>		<item id="audio_13" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 13.mp3" media-type="audio/mpeg"/>
+
+    <item id="xml_03" href="xml_smil_output/03.xml" media-type="application/x-dtbook+xml"/>		<item id="audio_14" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 14.mp3" media-type="audio/mpeg"/>
+
+    <item id="xml_04" href="xml_smil_output/04.xml" media-type="application/x-dtbook+xml"/>		<item id="audio_15" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 15.mp3" media-type="audio/mpeg"/>
+
+    <item id="xml_05" href="xml_smil_output/05.xml" media-type="application/x-dtbook+xml"/>		<item id="audio_16" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 16.mp3" media-type="audio/mpeg"/>
+
+    <item id="xml_06" href="xml_smil_output/06.xml" media-type="application/x-dtbook+xml"/>		<item id="audio_17" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 17.mp3" media-type="audio/mpeg"/>
+
+    <item id="xml_07" href="xml_smil_output/07.xml" media-type="application/x-dtbook+xml"/>	</manifest>
+
+    <item id="xml_08" href="xml_smil_output/08.xml" media-type="application/x-dtbook+xml"/>
+
+    <item id="xml_09" href="xml_smil_output/09.xml" media-type="application/x-dtbook+xml"/>	<spine>
+
+    <item id="xml_10" href="xml_smil_output/10.xml" media-type="application/x-dtbook+xml"/>		<itemref idref="smil_01"/>
+
+    <item id="xml_11" href="xml_smil_output/11.xml" media-type="application/x-dtbook+xml"/>		<itemref idref="smil_02"/>
+
+    <item id="xml_12" href="xml_smil_output/12.xml" media-type="application/x-dtbook+xml"/>		<itemref idref="smil_03"/>
+
+    <item id="xml_13" href="xml_smil_output/13.xml" media-type="application/x-dtbook+xml"/>		<itemref idref="smil_04"/>
+
+    <item id="xml_14" href="xml_smil_output/14.xml" media-type="application/x-dtbook+xml"/>		<itemref idref="smil_05"/>
+
+    <item id="xml_15" href="xml_smil_output/15.xml" media-type="application/x-dtbook+xml"/>		<itemref idref="smil_06"/>
+
+    <item id="xml_16" href="xml_smil_output/16.xml" media-type="application/x-dtbook+xml"/>		<itemref idref="smil_07"/>
+
+    <item id="xml_17" href="xml_smil_output/17.xml" media-type="application/x-dtbook+xml"/>		<itemref idref="smil_08"/>
+
+    		<itemref idref="smil_09"/>
+
+    <!-- Audio files -->		<itemref idref="smil_10"/>
+
+    <item id="audio_01" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 01.mp3" media-type="audio/mpeg"/>		<itemref idref="smil_11"/>
+
+    <item id="audio_02" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 02.mp3" media-type="audio/mpeg"/>		<itemref idref="smil_12"/>
+
+    <item id="audio_03" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 03.mp3" media-type="audio/mpeg"/>		<itemref idref="smil_13"/>
+
+    <item id="audio_04" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 04.mp3" media-type="audio/mpeg"/>		<itemref idref="smil_14"/>
+
+    <item id="audio_05" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 05.mp3" media-type="audio/mpeg"/>		<itemref idref="smil_15"/>
+
+    <item id="audio_06" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 06.mp3" media-type="audio/mpeg"/>		<itemref idref="smil_16"/>
+
+    <item id="audio_07" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 07.mp3" media-type="audio/mpeg"/>		<itemref idref="smil_17"/>
+
+    <item id="audio_08" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 08.mp3" media-type="audio/mpeg"/>	</spine>
+
+    <item id="audio_09" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 09.mp3" media-type="audio/mpeg"/></package>
+
+    <item id="audio_10" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 10.mp3" media-type="audio/mpeg"/>
+
+    <item id="audio_11" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 11.mp3" media-type="audio/mpeg"/>
+    <item id="audio_12" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 12.mp3" media-type="audio/mpeg"/>
+    <item id="audio_13" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 13.mp3" media-type="audio/mpeg"/>
+    <item id="audio_14" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 14.mp3" media-type="audio/mpeg"/>
+    <item id="audio_15" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 15.mp3" media-type="audio/mpeg"/>
+    <item id="audio_16" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 16.mp3" media-type="audio/mpeg"/>
+    <item id="audio_17" href="human_voice/Đồng Bằng Sông Cửu Long – Nét Sinh Hoạt Xưa, Văn Minh Miệt Vườn - MP3 - 17.mp3" media-type="audio/mpeg"/>
+  </manifest>
+  
+  <spine>
+    <itemref idref="smil_01"/>
+    <itemref idref="smil_02"/>
+    <itemref idref="smil_03"/>
+    <itemref idref="smil_04"/>
+    <itemref idref="smil_05"/>
+    <itemref idref="smil_06"/>
+    <itemref idref="smil_07"/>
+    <itemref idref="smil_08"/>
+    <itemref idref="smil_09"/>
+    <itemref idref="smil_10"/>
+    <itemref idref="smil_11"/>
+    <itemref idref="smil_12"/>
+    <itemref idref="smil_13"/>
+    <itemref idref="smil_14"/>
+    <itemref idref="smil_15"/>
+    <itemref idref="smil_16"/>
+    <itemref idref="smil_17"/>
+  </spine>
+</package>
