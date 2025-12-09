@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    
+-->
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="vi">
+
+	<head>
+		<meta name="dtb:uid" content="9786041266001"/>
+		<meta name="dtb:depth" content="3"/> 
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+
+	<docTitle>
+		<text>Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa &amp; Văn Minh Miệt Vườn</text>
+	</docTitle>
+
+	<docAuthor>
+		<text>Sơn Nam</text>
+	</docAuthor>
+
+	<navMap>
+        
+        <!-- Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa Và Văn Minh Miệt Vườn -->
+        <navPoint id="navPoint-1" playOrder="1">
+            <navLabel><text>Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa Và Văn Minh Miệt Vườn</text></navLabel>
+            <content src="01.xml#s1"/> 
+            <smilref src="01.smil" class="smilref" />
+            
+            <!-- H1: LỜI GIỚI THIỆU -->
+            <navPoint id="navPoint-2" playOrder="2">
+                <navLabel><text>LỜI GIỚI THIỆU</text></navLabel>
+                <content src="01.xml#s7"/> 
+                <smilref src="01.smil" class="smilref" />
+            </navPoint>
+
+            <!-- ============================================== -->
+            <!-- PHẦN 1: ĐỒNG BẰNG SÔNG CỬU LONG - NÉT SINH HOẠT XƯA -->
+            <!-- ============================================== -->
+
+            <!-- H1: ĐỒNG BẰNG SÔNG CỬU LONG - NÉT SINH HOẠT XƯA -->
+            <navPoint id="navPoint-3" playOrder="3">
+                <navLabel><text>ĐỒNG BẰNG SÔNG CỬU LONG - NÉT SINH HOẠT XƯA</text></navLabel>
+                <content src="01.xml#s19"/>
+                <smilref src="01.smil" class="smilref" />
+
+                <!-- H2: LỜI GIỚI THIỆU -->
+                <navPoint id="navPoint-4" playOrder="4">
+                    <navLabel><text>LỜI GIỚI THIỆU</text></navLabel>
+                    <content src="01.xml#s21"/>
+                    <smilref src="01.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: VĂN HÓA TRUYỀN THỐNG ĐỒNG BẰNG SÔNG CỬU LONG -->
+                <navPoint id="navPoint-5" playOrder="5">
+                    <navLabel><text>VĂN HÓA TRUYỀN THỐNG ĐỒNG BẰNG SÔNG CỬU LONG</text></navLabel>
+                    <content src="01.xml#s41"/> 
+                    <smilref src="01.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: BUỔI BAN ĐẦU -->
+                <navPoint id="navPoint-6" playOrder="6">
+                    <navLabel><text>BUỔI BAN ĐẦU</text></navLabel>
+                    <content src="02.xml#s1"/>
+                    <smilref src="02.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: KHI THỰC DÂN CÒN DÒ DẪM -->
+                <navPoint id="navPoint-7" playOrder="7">
+                    <navLabel><text>KHI THỰC DÂN CÒN DÒ DẪM</text></navLabel>
+                    <content src="04.xml#s1"/>
+                    <smilref src="04.smil" class="smilref" />
+                </navPoint>
+                
+                <!-- H2: GIAI ĐOẠN KHAI THÁC LỚN CỦA PHÁP -->
+                <navPoint id="navPoint-8" playOrder="8">
+                    <navLabel><text>GIAI ĐOẠN KHAI THÁC LỚN CỦA PHÁP</text></navLabel>
+                    <content src="05.xml#s1"/>
+                    <smilref src="05.smil" class="smilref" />
+                    
+                    <!-- H3: ĐẢO LỘN TRONG XÃ HỘI -->
+                    <navPoint id="navPoint-9" playOrder="9">
+                        <navLabel><text>ĐẢO LỘN TRONG XÃ HỘI</text></navLabel>
+                        <content src="05.xml#s2"/> 
+                        <smilref src="05.smil" class="smilref" />
+                    </navPoint>
+
+                    <!-- H3: NÓI THƠ, NÓI TRUYỆN -->
+                    <navPoint id="navPoint-10" playOrder="10">
+                        <navLabel><text>NÓI THƠ, NÓI TRUYỆN</text></navLabel>
+                        <content src="05.xml#s244"/> 
+                        <smilref src="05.smil" class="smilref" />
+                    </navPoint>
+
+                    <!-- H3: ĐÀO THÊM KINH XÁNG, MỞ RỘNG ĐỒN ĐIỀN -->
+                    <navPoint id="navPoint-11" playOrder="11">
+                        <navLabel><text>ĐÀO THÊM KINH XÁNG, MỞ RỘNG ĐỒN ĐIỀN</text></navLabel>
+                        <content src="05.xml#s300"/> 
+                        <smilref src="05.smil" class="smilref" />
+                    </navPoint>
+                    
+                    <!-- H3: TIẾNG HÒ TRÊN SÔNG HẬU -->
+                    <navPoint id="navPoint-12" playOrder="12">
+                        <navLabel><text>TIẾNG HÒ TRÊN SÔNG HẬU</text></navLabel>
+                        <content src="06.xml#s1"/>
+                        <smilref src="06.smil" class="smilref" />
+                    </navPoint>
+                    
+                    <!-- H3: VĂN MINH TRÊN ĐẤT MỚI -->
+                    <navPoint id="navPoint-13" playOrder="13">
+                        <navLabel><text>VĂN MINH TRÊN ĐẤT MỚI</text></navLabel>
+                        <content src="06.xml#s145"/> 
+                        <smilref src="06.smil" class="smilref" />
+                    </navPoint>
+
+                    <!-- H3: CỐ GIỮ TRUYỀN THỐNG -->
+                    <navPoint id="navPoint-14" playOrder="14">
+                        <navLabel><text>CỐ GIỮ TRUYỀN THỐNG</text></navLabel>
+                        <content src="06.xml#s185"/> 
+                        <smilref src="06.smil" class="smilref" />
+                    </navPoint>
+                    
+                    <!-- H3: LẬP VƯỜN, XÂY CHỢ -->
+                    <navPoint id="navPoint-15" playOrder="15">
+                        <navLabel><text>LẬP VƯỜN, XÂY CHỢ</text></navLabel>
+                        <content src="06.xml#s248"/> 
+                        <smilref src="06.smil" class="smilref" />
+                    </navPoint>
+
+                    <!-- H3: CẢI LƯƠNG RA ĐỜI -->
+                    <navPoint id="navPoint-16" playOrder="16">
+                        <navLabel><text>CẢI LƯƠNG RA ĐỜI</text></navLabel>
+                        <content src="07.xml#s1"/>
+                        <smilref src="07.smil" class="smilref" />
+                    </navPoint>
+                    
+                    <!-- H3: ĐÌNH, CHÙA, MIẾU... (Giả định nằm trong 07.xml) -->
+                    <navPoint id="navPoint-17" playOrder="17">
+                        <navLabel><text>ĐÌNH, CHÙA, MIẾU...</text></navLabel>
+                        <content src="07.xml#s119"/> 
+                        <smilref src="07.smil" class="smilref" />
+                    </navPoint>
+
+                    <!-- H3: TIỂU THUYẾT HỒ BIỂU CHÁNH - BÁO PHỤ NỮ "TÂN VĂN" -->
+                    <navPoint id="navPoint-18" playOrder="18">
+                        <navLabel><text>TIỂU THUYẾT HỒ BIỂU CHÁNH - BÁO PHỤ NỮ "TÂN VĂN"</text></navLabel>
+                        <content src="07.xml#s238"/> 
+                        <smilref src="07.smil" class="smilref" />
+                    </navPoint>
+
+                    <!-- H3: THỂ THAO PHÁT TRIỂN -->
+                    <navPoint id="navPoint-19" playOrder="19">
+                        <navLabel><text>THỂ THAO PHÁT TRIỂN</text></navLabel>
+                        <content src="08.xml#s1"/>
+                        <smilref src="08.smil" class="smilref" />
+                    </navPoint>
+                    
+                    <!-- H3: VĂN HÓA TRONG BỮA ĂN -->
+                    <navPoint id="navPoint-20" playOrder="20">
+                        <navLabel><text>VĂN HÓA TRONG BỮA ĂN</text></navLabel>
+                        <content src="08.xml#s61"/> 
+                        <smilref src="08.smil" class="smilref" />
+                    </navPoint>
+                    
+                    <!-- H3: TRONG LÚC NGHỈ NGƠI -->
+                    <navPoint id="navPoint-21" playOrder="21">
+                        <navLabel><text>TRONG LÚC NGHỈ NGƠI</text></navLabel>
+                        <content src="08.xml#s138"/> 
+                        <smilref src="08.smil" class="smilref" />
+                    </navPoint>
+
+                </navPoint> <!-- Kết thúc H2 GIAI ĐOẠN KHAI THÁC LỚN CỦA PHÁP -->
+
+                <!-- H2: KẾT LUẬN -->
+                <navPoint id="navPoint-22" playOrder="22">
+                    <navLabel><text>KẾT LUẬN</text></navLabel>
+                    <content src="09.xml#s1"/>
+                    <smilref src="09.smil" class="smilref" />
+                </navPoint>
+
+            </navPoint> <!-- Kết thúc H1 Đồng bằng sông Cửu Long - Nét sinh hoạt xưa -->
+
+            <!-- ============================================== -->
+            <!-- PHẦN 2: VĂN MINH MIỆT VƯỜN -->
+            <!-- ============================================== -->
+            
+            <!-- H1: VĂN MINH MIỆT VƯỜN -->
+            <navPoint id="navPoint-23" playOrder="23">
+                <navLabel><text>PHẦN 2: VĂN MINH MIỆT VƯỜN</text></navLabel>
+                <content src="10.xml#s1"/>
+                <smilref src="10.smil" class="smilref" />
+
+                <!-- H2: THAY LỜI TỰA -->
+                <navPoint id="navPoint-24" playOrder="24">
+                    <navLabel><text>THAY LỜI TỰA</text></navLabel>
+                    <content src="10.xml#s3"/> 
+                    <smilref src="10.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: MỘT ĐỊA DANH -->
+                <navPoint id="navPoint-25" playOrder="25">
+                    <navLabel><text>MỘT ĐỊA DANH</text></navLabel>
+                    <content src="10.xml#s15"/> 
+                    <smilref src="10.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: KHU VỰC ĐỊA LÝ CỦA MIỆT VƯỜN -->
+                <navPoint id="navPoint-26" playOrder="26">
+                    <navLabel><text>KHU VỰC ĐỊA LÝ CỦA MIỆT VƯỜN</text></navLabel>
+                    <content src="10.xml#s122"/> 
+                    <smilref src="10.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: TỪ HỒI ĐẦU TÂY LỊCH -->
+                <navPoint id="navPoint-27" playOrder="27">
+                    <navLabel><text>TỪ HỒI ĐẦU TÂY LỊCH</text></navLabel>
+                    <content src="10.xml#s190"/>
+                    <smilref src="10.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: GIỮA HAI THẾ KỶ XIX VÀ XX -->
+                <navPoint id="navPoint-28" playOrder="28">
+                    <navLabel><text>GIỮA HAI THẾ KỶ XIX VÀ XX</text></navLabel>
+                    <content src="11.xml#s1"/>
+                    <smilref src="11.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: TÁNH CHẤT PHONG KIẾN -->
+                <navPoint id="navPoint-29" playOrder="29">
+                    <navLabel><text>TÁNH CHẤT PHONG KIẾN</text></navLabel>
+                    <content src="12.xml#s1"/>
+                    <smilref src="12.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: CƠN CHUYỂN MÌNH TRƯỚC VÀ SAU ÂU CHÂU ĐẠI CHIẾN -->
+                <navPoint id="navPoint-30" playOrder="30">
+                    <navLabel><text>CƠN CHUYỂN MÌNH TRƯỚC VÀ SAU ÂU CHÂU ĐẠI CHIẾN</text></navLabel>
+                    <content src="12.xml#s73"/>
+                    <smilref src="12.smil" class="smilref" />
+                </navPoint>
+                
+                <!-- H2: KHI MIỆT VƯỜN TRỖI DẬY -->
+                <navPoint id="navPoint-31" playOrder="31">
+                    <navLabel><text>KHI MIỆT VƯỜN TRỖI DẬY</text></navLabel>
+                    <content src="13.xml#s1"/>
+                    <smilref src="13.smil" class="smilref" />
+                </navPoint>
+
+                <!-- H2: VÀI CÂU HÒ... -->
+                <navPoint id="navPoint-32" playOrder="32">
+                    <navLabel><text>VÀI CÂU HÒ...</text></navLabel>
+                    <content src="15.xml#s107"/>
+                    <smilref src="15.smil" class="smilref" />
+                    
+                <!-- H2: VĂN MINH "MIỆT VƯỜN" QUA VÙNG ĐẤT PHÈN VỊNH XIÊM LA -->
+                <navPoint id="navPoint-33" playOrder="33">
+                    <navLabel><text>VĂN MINH "MIỆT VƯỜN" QUA VÙNG ĐẤT PHÈN VỊNH XIÊM LA</text></navLabel>
+                    <content src="16.xml#s1"/> 
+                    <smilref src="16.smil" class="smilref" />
+                </navPoint>
+                
+                <!-- H2: VÀI NHẬN XÉT ĐỂ KẾT LUẬN -->
+                <navPoint id="navPoint-34" playOrder="34">
+                    <navLabel><text>VÀI NHẬN XÉT ĐỂ KẾT LUẬN</text></navLabel>
+                    <content src="17.xml#s1"/>
+                    <smilref src="17.smil" class="smilref" />
+                </navPoint>
+            </navPoint> <!-- hết phần 2 -->
+
+        </navPoint> <!-- hết sách -->
+        
+	</navMap>
+
+</ncx>
