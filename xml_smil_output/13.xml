@@ -1,290 +1,872 @@
 <?xml version="1.0" ?>
-<sentences id="13">
-  <sentence id="s1" start="3.350" end="4.930">KHI MIỆT VƯỜN TRỖI DẬY</sentence>
-  <sentence id="s2" start="7.220" end="11.580">VỚI DIỆN TÍCH NHỎ, NGƯỜI MIỆT VƯỜN NẾU khai thác đúng mức thì đủ ăn, đủ mặc.</sentence>
-  <sentence id="s3" start="12.260" end="19.400">Để so sánh huê lợi vườn tược với huê lợi ruộng lúa, chúng ta tạm theo tỷ lệ sau đây, tuy là quá khái quát:</sentence>
-  <sentence id="s4" start="20.210" end="24.010">- Một mẫu vườn dừa đem huê lợi bằng năm mẫu ruộng.</sentence>
-  <sentence id="s5" start="24.820" end="29.930">- Một mẫu vườn cam, quít đem huê lợi bằng 10 mẫu vườn dừa.</sentence>
-  <sentence id="s6" start="30.430" end="37.130">Như vậy, một mẫu vườn cam, quít nếu săn sóc kỹ lưỡng thì đem lợi tức trị giá bằng 50 mẫu ruộng.</sentence>
-  <sentence id="s7" start="38.780" end="43.470">Với một mẫu vườn, người chủ nhà đủ sống thảnh thơi.</sentence>
-  <sentence id="s8" start="43.980" end="58.210">Trong năm, chủ nhà phải xuất ra tiền mướn nhân công làm cỏ, móc mương nhưng thâu huê lợi nhiều đợt, hết mùa cam quít đến xoài, chuối, không như người nông phu mỗi năm gặt lúa có một lần.</sentence>
-  <sentence id="s9" start="59.420" end="62.790">Người chủ vườn ít khi túng bấn đến mức vay nợ nặng lời.</sentence>
-  <sentence id="s10" start="63.500" end="65.440">Một ưu thế khác, đáng chú ý.</sentence>
-  <sentence id="s11" start="65.720" end="79.320">Hễ làm ruộng, gặp khi mùa màng bị thiệt hại đến mức 70 phần trăm hoặc hơn nữa thì người tá điền không còn dư một hột lúa, sau khi đóng địa tô hoặc sau khi trả tiền công gặt, công cấy.</sentence>
-  <sentence id="s12" start="80.320" end="82.740">Vườn tược đem huê lợi ổn định hơn.</sentence>
-  <sentence id="s13" start="83.360" end="90.880">Gặp khi thời tiết thay đổi thì huê lợi bị thiệt thòi ít, phỏng định trung bình là 30 phần trăm thất thâu.</sentence>
-  <sentence id="s14" start="91.620" end="95.230">Dẫu sao đi nữa, người chủ vườn vẫn còn chút ít huê lợi.</sentence>
-  <sentence id="s15" start="96.100" end="100.380">Người chủ vườn tậu thêm vài mẫu ruộng thì quả là ông tiên nho nhỏ.</sentence>
-  <sentence id="s16" start="100.660" end="107.030">Trong nhà, đủ lúa gạo; lá dừa bẹ dừa dùng làm củi, dưới sông dư cá tôm.</sentence>
-  <sentence id="s17" start="107.680" end="112.100">Sống bằng nghề vườn ít dầm mưa dãi nắng như nghề ruộng.</sentence>
-  <sentence id="s18" start="112.720" end="115.910">Gặp mưa to nắng cháy thì cứ vô nhà mà nghỉ.</sentence>
-  <sentence id="s19" start="116.460" end="123.370">Lá dừa che phủ, sân mát rượi, bầu không khí chung quanh nhà được điều hòa.</sentence>
-  <sentence id="s20" start="123.800" end="129.680">Buổi trưa nắng gắt, còn gì sung sướng cho bằng giăng võng mà nằm bên gốc mận, gốc ổi.</sentence>
-  <sentence id="s21" start="130.700" end="138.970">Mương vườn chảy ra sông Cái, theo nhịp nước lớn nước ròng, muỗi mòng không phát triển được như trường hợp nước ao tù.</sentence>
-  <sentence id="s22" start="139.570" end="140.510">Rác rến trôi đi.</sentence>
-  <sentence id="s23" start="141.230" end="146.010">Nơi sông sâu nước chảy, người ta dùng sông rạch làm nơi tắm rửa, phóng uế...</sentence>
-  <sentence id="s24" start="146.730" end="151.030">Nếu là nơi sông rộng, nhiều cá tôm thì không mất vệ sinh cho lắm.</sentence>
-  <sentence id="s25" start="151.700" end="156.160">Dưới bến, sau mương vườn có đủ thứ cầu: cầu tiêu, cầu tắm.</sentence>
-  <sentence id="s26" start="156.720" end="160.270">Mương vườn ăn ra sông là hệ thống cống rãnh khá tốt.</sentence>
-  <sentence id="s27" start="161.060" end="167.700">Miệt Vườn là nơi mà đất vườn được phân chia từng khoảnh nhỏ, theo chế độ tiểu điền chủ.</sentence>
-  <sentence id="s28" start="168.360" end="175.030">Đất khai thác từ lâu, dân chúng sống tập trung, ai cũng cố gắng tìm một khoảnh đất mà sống.</sentence>
-  <sentence id="s29" start="175.510" end="181.500">Ai chen lấn không được thì đã ly hương, đến vùng Rạch Giá, Cà Mau mà tìm đất mới.</sentence>
-  <sentence id="s30" start="182.180" end="196.040">Ở Miệt Vườn, còn lại những người đủ ăn, đủ mặc không giàu quá mức như điền chủ Bạc Liêu, cũng như không nghèo đến đỗi không một mái nhà, con cái trần truồng như ở vùng Bạc Liêu.</sentence>
-  <sentence id="s31" start="197.360" end="206.260">Vài con số sau đây do giáo sư P. Gourou nêu lên giúp chúng ta hiểu về hình thức phân chia điền địa ở Miệt Vườn:</sentence>
-  <sentence id="s32" start="207.080" end="212.180">- Diện tích trung bình một khoảnh ruộng ở Bắc Phần là 20 ares.</sentence>
-  <sentence id="s33" start="213.390" end="219.270">- Ở Nam Phần, nơi đất bị phân chia manh mún nhất là vùng Thủ Dầu</sentence>
-  <sentence id="s34" start="219.270" end="227.940">Một: mỗi khoảnh ruộng là một mẫu tây, tức là 5 lần lớn hơn một khoảnh ruộng ở Bắc Phần.</sentence>
-  <sentence id="s35" start="229.040" end="242.470">- Xuống phía Tây Nam, diện tích từng khoảnh càng thêm to. Tây Ninh, 1 mẫu 2; Chợ Lớn, 1 mẫu 6, Mỹ Tho, 2 mẫu 4; Long Xuyên, 6 mẫu 1; Bạc</sentence>
-  <sentence id="s36" start="242.470" end="243.630">Liêu, 9 mẫu 2.</sentence>
-  <sentence id="s37" start="244.500" end="264.490">Ở tổng Thuận Trị, tỉnh Mỹ Tho, tiểu điền chủ chiếm đến 73,2 phần trăm tổng số ruộng; ở tổng Long Thủy, tỉnh Bạc Liêu, tiểu điền chủ chỉ chiếm 0,42 phần trăm số ruộng trong tổng, nghĩa là không được một nửa phần trăm.</sentence>
-  <sentence id="s38" start="265.240" end="268.660">Người Miệt Vườn gồm khá nhiều tiểu điền chủ, tiểu nông.</sentence>
-  <sentence id="s39" start="269.440" end="274.070">Nhưng số người còn lại ở Miệt Vườn, làm sao có đất để làm chủ?</sentence>
-  <sentence id="s40" start="274.820" end="278.110">Miệt Vườn vẫn có nhiều ông đại điền chủ.</sentence>
-  <sentence id="s41" start="278.660" end="282.220">Ngoài ra, còn một số tá điền sống nghèo nàn!</sentence>
-  <sentence id="s42" start="284.120" end="289.560">Người không đất có thể mướn đất của điền chủ để lập vườn, hoặc là mướn đất công điền.</sentence>
-  <sentence id="s43" start="290.120" end="299.270">Mãn thời hạn là năm hoặc mười năm, người mướn xin ký giao kèo mới để triển hạn, hoặc mua đứt, nếu là đất đai của điền chủ.</sentence>
-  <sentence id="s44" start="300.420" end="308.380">Nếu đệ tam nhân nào muốn mướn tranh giành thì khó đưa ra một giá cao hơn giá của người mướn trước đó.</sentence>
-  <sentence id="s45" start="309.200" end="316.640">Tiền bạc dư giả chút ít, nhà cửa mát mẻ, công việc hàng ngày không nhọc nhằn là đặc điểm của sanh hoạt Miệt Vườn.</sentence>
-  <sentence id="s46" start="317.280" end="320.520">Thêm vào đó, còn một yếu tố quan trọng khác.</sentence>
-  <sentence id="s47" start="321.230" end="327.440">Đó là việc giao thông dễ dàng từ xóm này qua xóm kia, ra tỉnh lỵ, lên Sài Gòn.</sentence>
-  <sentence id="s48" start="328.110" end="346.770">Ông Học Lạc làm thơ ca ngợi sự phồn thịnh của chợ Mỹ Tho, vào khoảng trước năm 1919: Trên Sài Gòn, dưới Mỹ Tho, Đâu đâu phong cảnh cũng nhường cho, Lớn ròng chung rạch, chia đôi ngả, Cũ mới phân nhau cũng một đò.</sentence>
-  <sentence id="s49" start="347.560" end="353.190">Phố cất vẽ vời xanh tợ lục, Buồm dong lên xuống, trắng như cò.</sentence>
-  <sentence id="s50" start="354.000" end="359.610">Đắc tình trạo tử quên mưa nắng, Dắng dỏi đua nhau tiếng hát hò.</sentence>
-  <sentence id="s51" start="360.700" end="367.740">Chúng ta không quên câu hát đưa em nói đến sự quan trọng của tỉnh ly åMỹ Tho, chỉ thua Sài Gòn mà thôi.</sentence>
-  <sentence id="s52" start="368.360" end="371.950">- Cúc mọc dưới sông kêu là cúc thủy hoặc là</sentence>
-  <sentence id="s53" start="372.380" end="382.490">“Cách một khúc sông kêu bằng cách thủy”! Sài Gòn xa, chợ Mỹ cũng xa, Gởi thơ thăm hết mọi nhà, Trước thăm phụ mẫu, sau là thăm em.</sentence>
-  <sentence id="s54" start="383.310" end="391.600">Câu hát huê tình của bạn ghe thương hồ nhắc đến vài thành phố của Miệt Vườn: Cần Thơ là cảnh, Cao Lãnh là quê.</sentence>
-  <sentence id="s55" start="392.070" end="396.590">Anh đi khỏi xứ tào kê, Thoát vòng lao lý, đâu dè gặp em!</sentence>
-  <sentence id="s56" start="397.400" end="407.010">Hoặc là: Đời phải đời thạnh trị Cuộc phải cuộc văn minh Kìa là gió mát trăng thanh, Biết đâu nhơn đạo, bày tình cho vui?</sentence>
-  <sentence id="s57" start="407.700" end="412.340">- Gió mát trăng thanh, Người bạn lành khó kiếm, Tôi đây dạo chơi cũng hiếm</sentence>
-  <sentence id="s58" start="412.810" end="417.480">Chưa biết chọn người nào, Mảng lo mua bán ra vào Cần Thơ...</sentence>
-  <sentence id="s59" start="418.200" end="422.780">Dân Miệt Vườn phản ứng như thế nào, khi đón nhận luồng văn minh kỹ thuật của Tây phương.</sentence>
-  <sentence id="s60" start="423.310" end="445.670">Những hình thức văn nghệ cổ truyền đã biến đổi ra sao? a Một số nho sĩ dịch truyện Tàu ra Quốc ngữ, truyện Tàu in ở Sài Gòn phổ biến mạnh ở Miệt Vườn vì nơi đây nhiều người biết chữ Quốc ngữ, dân chúng đủ ăn đủ mặc, nhàn rỗi hơn ở những tỉnh mới, ngoài Miệt Vườn như Rạch Giá, Bạc Liêu.</sentence>
-  <sentence id="s61" start="446.480" end="456.040">Phong trào nói truyện giúp cho những người dốt nghe được truyện Tàu, nhờ chữ Quốc ngữ, một người đọc, năm bảy người nghe.</sentence>
-  <sentence id="s62" start="456.620" end="471.980">Nho sĩ trở thành ký giả, lên Sài Gòn làm báo. b Về thi phú, đa số thi sĩ khoảng đầu thế kỷ thứ hai mươi đều thuộc lứa già, làm thơ để thù tạc xướng họa.</sentence>
-  <sentence id="s63" start="472.500" end="518.240">Điều đáng chú ý là những bài còn lưu truyền đều là bát cú thơ Học Lạc, Nhiêu Tâm, bà Sương Nguyệt Anh, ông phủ Đước, bà Trần Ngọc Lầu, ông Cai tổng Lê Quang Chiểu; dường như hình thức lục bát mà ông Đồ Chiểu sử dụng rất thành công ít được nho sĩ miền Nam ưa thích ngoại trừ trường hợp những loại thơ bình dân Lâm Sanh Xuân Nương, Phạm Công Cúc Hoa, Sáu Trọng, Cậu Hai Miêng . c Hình thức hát bội được phổ biến, đứng về mặt sáng tác thì không tạo bổn tuồng nào mới, đáng lưu ý. d Ca nhạc là bộ môn phát triển mạnh và được người miền Nam hâm mộ nhất.</sentence>
-  <sentence id="s64" start="519.480" end="522.480">Đờn đi đôi với thi phú Cầm, Thi.</sentence>
-  <sentence id="s65" start="523.180" end="532.410">Nhờ phương tiện chữ Quốc ngữ, nhiều tập bài ca tài tử được ấn hành, từ năm 1909 đến 1915, tại Sài Gòn.</sentence>
-  <sentence id="s66" start="533.490" end="553.930">Nhan đề một tập sách nhạc ấy như sau: “Bản đờn tranh và bài ca Chủ bút: Phụng Hoàng Sang Edité par Đinh Thái Sơn dit Phát Toán” Một ông chủ tiệm bán và sửa xe đạp đứng ra in tập bài ca.</sentence>
-  <sentence id="s67" start="554.370" end="566.430">Thuở ấy, bán và sửa xe đạp là ngành kinh doanh quan trọng, ông chủ tiệm này khai thác luôn một nhà in, chiếm hai căn phố mặt tiền đường d’Ormay nay là Nguyễn Văn Thinh.</sentence>
-  <sentence id="s68" start="567.080" end="574.180">Nhà xuất bản này có vẻ quê mùa với lối xưng danh như một tiệm tạp hóa, dưới mắt của chúng ta ngày nay.</sentence>
-  <sentence id="s69" start="574.590" end="586.990">Nhưng xét kỹ lại, chúng ta thấy nhà xuất bản biết bắt mạch nhu cầu dân chúng lúc bấy giờ, khi chữ Quốc ngữ bắt đầu phổ biến rộng, khi dân chúng ở Lục Tỉnh đòi hỏi món ăn tinh thần.</sentence>
-  <sentence id="s70" start="587.740" end="595.380">Sách in đến lần thứ tư, vào năm 1910, chứng tỏ rằng sách bán chạy từ trước.</sentence>
-  <sentence id="s71" start="596.200" end="609.430">Trong tập sách mỏng vừa nói trên có những bản đờn và bài ca chắc là lúc bấy giờ được ưa thích: Lưu Thủy trường, Phú Lục, Nam Xuân, Nam Ai, nhứt là bản Tứ Đại.</sentence>
-  <sentence id="s72" start="609.940" end="620.480">Bài ca nhằm vào đề tài Chiêu Quân Cống Hồ, Tô Huệ chức cẩm hồi văn, mối tình Kim Trọng - Thúy Kiều, Chống tứ đổ tường, Nhớ tình nhân...</sentence>
-  <sentence id="s73" start="621.320" end="628.970">Lời văn rất sáo, dùng nhiều chữ Nho, phảng phất lối văn biền ngẫu, những câu nói lối của tuồng hát bội.</sentence>
-  <sentence id="s74" start="629.820" end="648.410">Theo ông Vương Hồng Sển  Hồi ký 50 năm mê hát, cơ sở Phạm Quang Khai, 1969, Sài Gòn  thì vào khoảng năm 1915, phong trào ca nhạc phát triển mạnh với những tập bài ca: Lục Tài Tử, Thập Tài Tử, Tứ Tài Tử, Bát Tài Tử.</sentence>
-  <sentence id="s75" start="649.420" end="653.760">Lúc bấy giờ không dùng danh từ cổ nhạc hoặc nhạc cổ điển.</sentence>
-  <sentence id="s76" start="654.430" end="657.430">Người chơi nhạc mặc nhiên là “tài tử” theo nghĩa rộng.</sentence>
-  <sentence id="s77" start="657.890" end="663.390">Tài tử là người phong lưu, không đặt vấn đề danh lợi trong lúc làm văn nghệ.</sentence>
-  <sentence id="s78" start="664.080" end="669.170">Đờn ca là để “di dưỡng tính tình”, giao cảm với bạn tri âm.</sentence>
-  <sentence id="s79" start="669.560" end="673.220">Tuyệt nhiên không dùng nghệ thuật để khai thác thương mãi.</sentence>
-  <sentence id="s80" start="674.240" end="683.300">Xin trích lại một đoạn trong “Hồi ký 50 năm mê hát”, ghi rõ ngày xuất bản, hình bìa và phớt qua nội dung mấy tập “tài tử” nói trên.</sentence>
-  <sentence id="s81" start="686.490" end="698.350">“- 12 Juin 1915 - “Lục Tài Tử” gồm 19 bài ca, ngoài bìa vẽ một độc huyền, một kép ôm cây kìm, một kép đờn cây cò và ba cô ca.</sentence>
-  <sentence id="s82" start="699.270" end="715.850">- 15 Juin 1915 - “Thập Tài Tử” gồm 19 bài ca, bìa vẽ một thổi tiêu, một cò, một gõ sanh, một gáo, một cô đờn tranh, một cô kìm, một cô đờn tỳ bà, một cô đờn độc huyền, hai cô ca.</sentence>
-  <sentence id="s83" start="717.030" end="734.120">- 16 Juin 1916 - “Tứ Tài Tử” với 21 bài ca, ngoài bìa vẽ hai cô ca và đờn tranh, hai đàn ông đờn kìm và cò. Hai mươi mốt bài gồm Trương Phi thủ</sentence>
-  <sentence id="s84" start="734.150" end="742.470">Cổ thành, tích Thoại Khanh Châu Tuấn, Tô Huệ chức cẩm hồi văn, Bá Nha Tử Kỳ, Đào viên kết nghĩa, chuyện Thúy Kiều...</sentence>
-  <sentence id="s85" start="743.270" end="764.100">- 29 Aout 1915 - “Bát Tài Tử” gồm 19 bài ca, bìa vẽ một kép đờn cò, một kép đờn gáo, một cô đờn kìm, một cô đờn tranh, một cô tỳ bà, một cô độc huyền và hai cô ca. Tập này ghi rõ người soạn là nhạc sĩ Nguyễn Tùng Bá.</sentence>
-  <sentence id="s86" start="765.250" end="787.230">Trong Bát Tài Tử này có những đề tài: tích Phi Long trả thù chồng, chuyện vợ Ngũ Vân Thiệu bị tên, Ngưu Cao tảo mộ khóc Cao Lũng, lại có đề tài dính dáng với xã hội đương thời: coi lễ Chánh chung gặp tình nhân, đàn bà ghen.</sentence>
-  <sentence id="s87" start="788.320" end="791.340">Đờn ca tài tử là bộ môn văn nghệ thịnh hành.</sentence>
-  <sentence id="s88" start="791.920" end="800.740">Nếu chúng tôi không lầm thì trước kia đờn ca tài tử chỉ phổ biến hẹp hòi, trong giới quan lại, phú hào từ Huế đô.</sentence>
-  <sentence id="s89" start="802.040" end="812.260">Với hoàn cảnh mới, đờn ca tài tử được người dân thuộc thành phần trung lưu đón nhận, nhờ phương tiện chữ Quốc ngữ sách in bài ca, nhờ mức sống dư giả ở Miệt Vườn.</sentence>
-  <sentence id="s90" start="812.910" end="835.480">Trong hoàn cảnh ngoại bang đô hộ, các chức vụ quan trọng về chánh quyền đều do người Pháp nắm giữ, việc kinh doanh, thương mãi nằm trong tay người Hoa kiều hoặc Ấn Độ thì kẻ sĩ, các ông điền chủ bổn xứ dù muốn hay không cũng phải bám vào giới trung lưu và giới bình dân mà nương tựa.</sentence>
-  <sentence id="s91" start="836.860" end="843.880">Đờn ca tài tử là dịp bạn bè gặp nhau, tiếng đờn và lời ca thay cho lời tâm sự.</sentence>
-  <sentence id="s92" start="844.380" end="858.550">Tụ họp lại để đờn ca là sinh hoạt thường lệ, không cần xin phép, khỏi bị nhà cầm quyền thực dân lưu ý - người đờn ca, người chủ nhà thường là thân hào, nhân sĩ hoặc hương chức hội tề.</sentence>
-  <sentence id="s93" start="859.180" end="864.360">Bài ca dùng những lời trừu tượng, kích thích lòng yêu nước qua điển tích xưa.</sentence>
-  <sentence id="s94" start="865.090" end="871.180">Phải chăng “đờn ca tài tử” có vai trò hơi giống với việc hát cô đầu ở Bắc Phần?</sentence>
-  <sentence id="s95" start="871.910" end="879.870">Sau buổi đờn ca, thường tổ chức ăn uống, và nào ai ngăn cấm việc yêu đương lãng mạn giữa người tài tử?</sentence>
-  <sentence id="s96" start="880.430" end="891.280">Chủ nhà lắm khi không biết đờn ca nhưng được xem là tài tử vì ông ta dám xuất tiền ra xài vô điều kiện để tìm những phút thoải mái cho tâm hồn!</sentence>
-  <sentence id="s97" start="892.470" end="898.460">Đờn ca tài tử liên quan đến việc thành hình ngành cải lương mà Miệt Vườn là lò đào tạo.</sentence>
-  <sentence id="s98" start="898.950" end="905.160">Đây không phải là thiên vị về tình cảm địa phương nhưng là sự khảo sát thực tế.</sentence>
-  <sentence id="s99" start="905.600" end="911.540">Các tỉnh miền Đông Nam Phần nói chung đều nghèo nàn về tiền bạc lúa gạo tuy giàu sĩ khí.</sentence>
-  <sentence id="s100" start="911.940" end="926.060">Các tỉnh mới thành lập ở miền Tây thì còn quá mới, dân chúng sống chưa ổn định, tiền bạc dư, lúa gạo thừa thãi nhưng thiếu một số trí thức, danh sĩ hướng dẫn thành thử ra tiền bạc chỉ đổ dồn vào sòng cờ bạc.</sentence>
-  <sentence id="s101" start="927.320" end="934.750">Nghiên cứu về xã hội, về văn hóa đòi hỏi một tinh thần rộng rãi, khách quan, gạt ra ngoài những thành kiến chánh trị vụn vặt.</sentence>
-  <sentence id="s102" start="935.500" end="942.710">Người đi khẩn hoang có thể là kẻ trốn xâu lậu thuế, nhưng việc làm của họ có tính cách xây dựng, không thể phủ nhận được.</sentence>
-  <sentence id="s103" start="943.160" end="945.890">Nhờ họ mà biên giới của tổ quốc chúng ta mở rộng.</sentence>
-  <sentence id="s104" start="946.820" end="956.240">Người đến cất chòi ở vàm rạch hoang vu lần đầu tiên có thể bị thúc đẩy vì động cơ ích kỷ, muốn trở thành đại điền chủ.</sentence>
-  <sentence id="s105" start="957.040" end="966.510">Người tổ chức đờn ca tài tử có thể là háo danh, háo sắc nhưng việc làm ấy nhứt định là bảo vệ nghệ thuật, nếu không là phát huy.</sentence>
-  <sentence id="s106" start="967.050" end="970.430">Ngoài ra, thưởng thức văn nghệ là vấn đề tế nhị, phức tạp.</sentence>
-  <sentence id="s107" start="970.910" end="975.630">Nhiều người rất cách mạng, chống thực dân nhưng lại ghét hội họa, thi phú.</sentence>
-  <sentence id="s108" start="976.140" end="980.640">Có người lạc hậu nhưng thích những quyển sách, những bài ca tiến bộ.</sentence>
-  <sentence id="s109" start="981.050" end="986.690">Ngược lại, nhiều người hô hào làm chuyện “quốc sự” nhưng chỉ thích những văn nghệ phẩm trụy lạc...</sentence>
-  <sentence id="s110" start="987.840" end="1000.800">Trong buổi đầu tiên từ đờn ca tài tử, ca ra bộ, đến việc tổ chức bạn hát cải lương, việc soạn tuồng tích, việc đào tạo đào kép... đều khởi nguồn từ Miệt Vườn.</sentence>
-  <sentence id="s111" start="1001.760" end="1005.070">Xin kể sau đây vài nhân vật, theo sách đã dẫn:</sentence>
-  <sentence id="s112" start="1005.760" end="1025.800">- Ông Tống Hữu Định, một người vừa giàu vừa sang ở Vĩnh Long, tục danh là thầy phó Mười Hai phó tổng, thứ Mười Hai trong gia đình. Tại nhà ông lần đầu tiên tổ chức đờn ca tài tử ra bộ, sau này gọi là ca ra bộ, người ca đứng trên bộ ván.</sentence>
-  <sentence id="s113" start="1026.920" end="1038.400">- Ông kinh lịch Hườn hay Quờn, kinh lịch là chức vụ xưa, ông Hườn làm ở tòa án Vĩnh Long, thường đặt bài ca, có sáng kiến cải cách nhạc cụ.</sentence>
-  <sentence id="s114" start="1039.100" end="1045.740">- Ông Phạm Đăng Đàng cũng ở Vĩnh Long là thầy đờn kỳ cựu, sở trường là sử dụng cây đờn độc huyền.</sentence>
-  <sentence id="s115" start="1046.550" end="1064.640">Ông Mạnh Tự Trương Duy Toản một soạn giả tiền phong về tuồng cải lương, giúp đắc lực cho bạn hát của thầy Năm Tú ở Mỹ Tho. Ông Mạnh Tự quê ở Vũng Liêm Vĩnh Long đã từng viết và làm chủ bút tờ báo Trung Lập.</sentence>
-  <sentence id="s116" start="1065.760" end="1078.940">Là một nho sĩ phóng khoáng, đề cao nhân vật Từ Hải của truyện Kiều từ hồi năm 1918-1922, bộc lộ được bao nhiêu căm hờn và khát vọng của người dân mất nước.</sentence>
-  <sentence id="s117" start="1080.500" end="1093.550">Đây là một đoạn, điệu Hành Vân: Mật yên hùng, mật yên hùng Giống Triệu Thường Sơn, Đường cung kiếm, cái chí nam nhi Núi sông là phận.</sentence>
-  <sentence id="s118" start="1093.970" end="1107.070">Từ đây quyết vẫy vùng cho sóng dậy trần ai Rền một trời, đùng đùng xao động, Tài oanh liệt, mấy ngọn gươm vàng Rạch một sơn hà, mặc dầu ngang dọc.</sentence>
-  <sentence id="s119" start="1108.220" end="1110.130">Giữa trời đây sợ ai?</sentence>
-  <sentence id="s120" start="1110.430" end="1118.580">Công hầu vương bá Thả giữa giang hồ, cây núi tưng bừng, Mặc sức tung hoành, chơi hoành chơi.</sentence>
-  <sentence id="s121" start="1119.360" end="1126.120">Ngang triều đình, đứng riêng một nơi Công hầu khanh tướng làm chi cho nhọc tấm thân.</sentence>
-  <sentence id="s122" start="1127.410" end="1143.520">Theo ông Trần Văn Khải Nghệ thuật sân khấu Việt Nam, bản Roméo thì ở Cái Thia Cái Bè - Mỹ Tho từ năm 1910 đã có ban tài tử của Nguyễn Tống Triều tục danh Tư Triều.</sentence>
-  <sentence id="s123" start="1144.460" end="1156.380">Ban này gồm Chín Quán độc huyền, Mười Lý tiêu, Bảy Vô đờn cò, Hai Nhiễu tranh, cô Ba Đắc ca, Tư Triều thủ cây đờn kìm.</sentence>
-  <sentence id="s124" start="1157.100" end="1163.150">“Phần nhiều tài tử này được chọn đi trình bày cổ nhạc Việt Nam tại cuộc triển lãm ở Pháp.</sentence>
-  <sentence id="s125" start="1163.520" end="1170.960">Khi về, họ cho biết rằng Ban tổ chức có cho họ đờn ca trên sân khấu được công chúng đến nghe đông đảo.</sentence>
-  <sentence id="s126" start="1172.280" end="1176.460">“Cái ý kiến đờn ca trên sân khấu đã phát sinh từ đó”.</sentence>
-  <sentence id="s127" start="1177.530" end="1202.690">Một vùng đất khác làm rạng danh cho Miệt Vườn là vùng Vĩnh Kim Đông chợ Giữa thuộc tỉnh Mỹ Tho. Vĩnh Kim Đông là nơi chôn nhau cắt rún của ông Phan Hiển Đạo, đậu tấn sĩ hồi cựu trào, vùng Vĩnh Kim là đất xưa, quan chưởng cơ Nguyễn Hữu Cảnh năm 1.700 đã đình binh và mất tại đây.</sentence>
-  <sentence id="s128" start="1203.410" end="1217.740">Theo ông Nguyễn Liên Phong  Điếu cổ hạ kim thi tập, xuất bản tại Sài Gòn năm 1915 thì Phan Hiển Đạo ra học ở Huế, ngoài việc học kinh sách thánh hiền, còn học nhiều điệu đờn Huế.</sentence>
-  <sentence id="s129" start="1218.660" end="1231.710">Vùng chợ Giữa Vĩnh Kim Đông còn một lò tài tử đáng kể nhứt là ông Bảy Triều, bà Trần Ngọc Viện, ông Nguyễn Tri Khương.</sentence>
-  <sentence id="s130" start="1232.840" end="1252.900">Miệt Vườn trải qua một thời kỳ sôi nổi với nhạc tài tử, ca ra bộ, gây tiếng vang đến Sài Gòn, trong khi ở vùng Hậu Giang ông Hai Khi người Minh Hương nổi danh là bực kỳ tài về âm nhạc, một mình biểu diễn một lượt ba bốn nhạc khí ở Bạc Liêu.</sentence>
-  <sentence id="s131" start="1253.300" end="1258.970">Sáng chế ra điệu Dạ Cổ Hoài Lang vọng cổ là ông Sáu Lầu.</sentence>
-  <sentence id="s132" start="1259.770" end="1262.760">Ông Hai Khị thuộc môn phái nhạc Triều Châu.</sentence>
-  <sentence id="s133" start="1263.480" end="1267.990">Năm 1917 đánh dấu một sự chuyển mình quan trọng của ca nhạc.</sentence>
-  <sentence id="s134" start="1268.570" end="1276.100">Ông André Thận ở Sa Đéc lập gánh hát xiếc, thêm ít màn ca ra bộ để thu hút khán giả.</sentence>
-  <sentence id="s135" start="1276.710" end="1286.270">Việc xây dựng ngành sân khấu cải lương là do nhiều người, nhiều yếu tố, nhiều địa phương nhưng gốc cội đầu tiên vẫn là Mỹ Tho, Vĩnh Long, Sa Đéc.</sentence>
-  <sentence id="s136" start="1286.950" end="1319.230">Đây là việc làm mang tính chất sáng tạo, phát huy văn hóa truyền thống trong hoàn cảnh mới, đón nhận cái hay, cái đẹp của văn hóa nước ngoài, không bài ngoại, không thủ cựu, biết thu nhận cách sắp xếp của sân khấu Tây phương tranh cảnh, sơn thủy thay đổi; màn, cảnh mạch lạc, phối hợp với nét đẹp cũ tuồng phải có hậu, dùng lời ca, nói lối, đón nhận những bài bản Quảng Đông, thiên về quảng đại dân chúng, gần với thực tế.</sentence>
-  <sentence id="s137" start="1320.670" end="1339.320">Lúa gạo bán có giá, cây trái được mùa, một tiểu điền chủ nếu khéo léo dành dụm tiền bạc có thể cho con du học bên Pháp để khi trở về trở thành ông bác vật, trạng sư, y sĩ hoặc là không đỗ đạt gì hết, cứ ăn chơi lêu lổng trở thành công tử.</sentence>
-  <sentence id="s138" start="1339.980" end="1359.360">Đường giao thông thủy bộ phát triển, người bực trung ở Miệt Vườn dư hoàn cảnh để đi chợ tỉnh hoặc đi Sài Gòn, Chợ Lớn một năm đôi ba lần, mua sắm những món cần thiết, luôn cả những xa xí phẩm; tiết kiệm năm bảy tháng, ăn xài đôi ngày cho thỏa thích.</sentence>
-  <sentence id="s139" start="1360.200" end="1372.650">Trong một tạp chí cũ, ấn hành vào năm 1925, thấy đăng tải lời quảng cáo của công ty chuyên chở đường sông, gọi nôm na là “tàu Nam Vang, tàu Mỹ Tho”.</sentence>
-  <sentence id="s140" start="1373.050" end="1376.970">Lộ trình này nối liền những vùng dọc sông Tiền, dọc sông Hậu.</sentence>
-  <sentence id="s141" start="1377.860" end="1399.400">Đây là lộ trình “Miệt Vườn” qua tất cả vị trí quan trọng của đồng bằng sông Cửu Long. 1 Đường Sài Gòn lên Nam Vang: chuyến đi và chuyến về giống nhau: Sài Gòn, Mỹ Lợi, Mỹ Tho, Vĩnh Long, Sa Đéc, Đất Sét, Cái Tàu, Cao Lãnh, Cù Lao Tây, Hồng Ngự, Tân Châu, Ba Nam, Nam Vang.</sentence>
-  <sentence id="s142" start="1400.620" end="1408.680">Câu ca dao gợi hứng, nhờ những chuyến tàu này: Tàu Nam Vang chạy ngang cồn cát, Xuồng câu tôm bơi sát mé nga.</sentence>
-  <sentence id="s143" start="1409.200" end="1420.450">Thấy em cha yếu, mẹ già, Muốn vô hoạn dưỡng, biết là được không? 2 Đường thủy từ Sài Gòn tới Đại Ngãi bờ Hậu Giang thuộc tỉnh Sóc Trăng qua Châu Đốc:</sentence>
-  <sentence id="s144" start="1421.000" end="1430.700">- Sài Gòn, Mỹ Tho, Cái Bè, Vĩnh Long, Sa Đéc, Cao Lãnh, Châu Đốc, Long Xuyên, Bò Hút, Lai Vung, Ô Môn, Cần Thơ, Trà Ôn, Cầu Kè, Đại</sentence>
-  <sentence id="s145" start="1430.700" end="1431.150">Ngãi.</sentence>
-  <sentence id="s146" start="1431.850" end="1444.450">Điền chủ Miệt Vườn đi Sài Gòn dễ dàng, họ ăn cao lầu, xem sở thú, mua máy hát, đèn măn sông, đèn tọa đăng, ly chén, rượu “cỏ nhác”, tủ sắt.</sentence>
-  <sentence id="s147" start="1445.580" end="1455.460">Người đi tỉnh lỵ, đi Sài Gòn về nhà thuật lại điều tai nghe mắt thấy cho bà con chòm xóm nghe, người chòm xóm cũng ráng dành dụm tiền bạc để mua sắm, cho kịp thời.</sentence>
-  <sentence id="s148" start="1456.110" end="1460.430">Lần hồi, người dân làm quen với chiếc xe máy, với cái máy hát.</sentence>
-  <sentence id="s149" start="1460.980" end="1463.220">Họ được chụp hình, thấy chiếc xe hơi.</sentence>
-  <sentence id="s150" start="1463.690" end="1472.830">Người Miệt Vườn tuy thua người Sài Gòn nhưng không hẳn là “quê rít quê rang” như dân ở vùng xa xuôi Cà Mau, Đồng Tháp Mười, hoặc Thất Sơn.</sentence>
-  <sentence id="s151" start="1473.220" end="1474.680">Họ đủ tiền để mua sắm.</sentence>
-  <sentence id="s152" start="1475.100" end="1480.850">Có lẽ về điểm này Miệt Vườn vượt hẳn những vùng đồng bằng ở miền Trung và miền Bắc.</sentence>
-  <sentence id="s153" start="1481.570" end="1487.850">Lẽ dĩ nhiên, vài chuyện khôi hài xảy ra, khi người nông dân mới bắt đầu làm quen với máy móc Tây phương.</sentence>
-  <sentence id="s154" start="1488.650" end="1517.320">Xin trích dẫn chi tiết do ông Việt Cúc biên soạn  Gò Công cảnh cũ người xưa  về cuộc đua xe máy ở Gò Công vào năm 1917: “Cách đây lối 50 năm 1917 chánh quyền Pháp đem về Gò Công 10 chiếc xe đạp, giao cho sở Bưu Chánh 6 chiếc, để phân phối cho 6 trạm, mỗi trạm có một người đi lấy công văn và thư tín, chạy việc hàng ngày, người ta gọi ấy là tuần giả.</sentence>
-  <sentence id="s155" start="1517.870" end="1529.930">“Sáu anh tuần giả lãnh mỗi người một chiếc, ông xếp bảo đem về nhà, ngày mai dẫn đến sân vận động sẽ có chuyên viên đến tập cho các anh, trong một tuần lễ thì cỡi được.</sentence>
-  <sentence id="s156" start="1530.510" end="1534.620">“Đến sân vận động, có hai chuyên viên ở Sài Gòn xuống tập cho mấy anh tuần giả...</sentence>
-  <sentence id="s157" start="1536.140" end="1544.440">“Thuở ấy có bài thi khen tặng rằng: Lên yên chân đạp phải tay ghì, Hai bánh tròn xoay chạy tít đi.</sentence>
-  <sentence id="s158" start="1544.920" end="1550.660">Thiên lý ruổi dung, tày vó ký Khá khen ngựa sắt với gan lì”.</sentence>
-  <sentence id="s159" start="1552.140" end="1560.600">Tết năm ấy 1917, ban tổ chức bày thêm cuộc đua xe máy, tám người dự cuộc, toàn là nhơn viên Bưu Chánh tham dự.</sentence>
-  <sentence id="s160" start="1561.360" end="1564.670">Ngoài ra chưa có ai biết đạp và sắm xe này.</sentence>
-  <sentence id="s161" start="1565.220" end="1577.250">Máy bay từ Sài Gòn bay xuống Gò Công năm 1913, đó là loại máy bay xưa với hai khuông cánh vuông dài, chằng chịt nhiều thanh sắt nhỏ.</sentence>
-  <sentence id="s162" start="1577.690" end="1590.440">“Người lạc quan thì luận rằng: Người ta sau này tự do thong thả, đi mây về gió, muốn đi đâu khắp thế giới, năm châu bốn biển, khỏi sợ non cao bể cả cách ngăn nữa, thật là có ích lắm”.</sentence>
-  <sentence id="s163" start="1591.510" end="1602.360">“Phái bi quan luận rằng: Hành thuyền, kỵ mã tam phân mạng, thuở đến giờ, cỡi ngựa đi thuyền có bị tai nạn rủi ro xảy ra.</sentence>
-  <sentence id="s164" start="1603.090" end="1614.020">Huống chi cái máy này bay trên trời xanh, làm sao tránh khỏi lúc hư hỏng máy móc, nó sa xuống đất, mới lấy gì mà đỡ nổi”.</sentence>
-  <sentence id="s165" start="1616.170" end="1627.370">Cái máy hát còn gọi là giàn hát máy, kiểu xưa với ống loa một bên, quả thật là một thứ kỳ quan đối với nông dân vào khoảng trước 1930.</sentence>
-  <sentence id="s166" start="1628.020" end="1633.810">Thoạt tiên, mấy ông điền chủ đi Sài Gòn mua về, dân lối xóm tới xem.</sentence>
-  <sentence id="s167" start="1634.370" end="1646.870">“Mỗi khi có tiệc tùng như tân hôn, tân gia, hoặc kỵ cơm ông bà, người ta đến thỉnh ông điền chủ và rước cái máy hát ấy về nhà để giúp vui, trả tiền cho ông rất hậu.</sentence>
-  <sentence id="s168" start="1648.440" end="1658.180">“Nơi nào có thỉnh máy hát thì thiên hạ đến xem và nghe hát quá đông, chật ních cả trong ngoài rồi bàn tán xôn xao.</sentence>
-  <sentence id="s169" start="1658.560" end="1667.170">“Người thì nói: Nó tom tiếng của người ta vào cái ống loa ấy, rồi cho máy chạy, đưa hơi ra nên mới hát được.</sentence>
-  <sentence id="s170" start="1667.660" end="1678.420">“Kẻ thì nói: Họ dùng cách mỵ thuật để trong cái thùng kín này, làm lòa mắt mình, như tụi Sơn Đông hát thuật đó chứ gì!</sentence>
-  <sentence id="s171" start="1679.200" end="1686.270">Lại có người mê tín cho là bắt hồn người ta để vào trong ấy, do bọn phù thủy cao tay ấn bày ra.</sentence>
-  <sentence id="s172" start="1687.110" end="1696.710">“Thuở ấy; có nhà Nho luận máy hát như vầy: Văn thinh bất đắc kiến kỳ hình, Sất sá, hô ca, tiếu khả kinh.</sentence>
-  <sentence id="s173" start="1698.360" end="1704.930">Huyễn hoặc thế gian, kỳ diệu thuật, Nhược phi thần xuất, diệc tà tinh.</sentence>
-  <sentence id="s174" start="1705.530" end="1711.530">Dịch nghĩa: Chỉ nghe hơi tiếng, thấy đâu hình, Phẫn nộ, hô ca, cười, đáng kinh.</sentence>
-  <sentence id="s175" start="1712.020" end="1715.870">Mỵ thuật trên đời nhiều phép lạ, Không là thần dị, cũng là tinh”.</sentence>
-  <sentence id="s176" start="1716.560" end="1720.550">Cái máy chụp hình nhiếp ảnh đã một lần khiến cho nông dân lo sợ.</sentence>
-  <sentence id="s177" start="1721.270" end="1732.410">Cũng theo ông Việt Cúc, năm 1916 ở Gò Công có lễ Khai Thị khánh thành chợ mới, quan to ở Sài Gòn xuống tham dự, quan địa phương cùng lính mã tà đón hầu.</sentence>
-  <sentence id="s178" start="1732.900" end="1736.030">Nhiếp ảnh viên đi theo phái đoàn, chụp hình làm kỷ niệm.</sentence>
-  <sentence id="s179" start="1736.580" end="1745.720">Dân chúng lo ngại: “Thật là quan Tây họ khôn khéo trật đời, họ đem máy ấy để chụp hình hết quan viên, hương chức tỉnh này.</sentence>
-  <sentence id="s180" start="1746.100" end="1757.410">Rồi họ thâu hình, thâu vía vào đó, khiến các người ấy sẽ mất hồn vía hết, đặng cho họ dễ sai khiến, rồi quan chức ta sẽ bệnh, xui xẻo cho mà coi”.</sentence>
-  <sentence id="s181" start="1758.320" end="1767.010">Sẵn đây, xin trích dẫn vài đoạn trong Vè Khai Thị Gò Công để chúng ta hình dung lại những trò chơi thuở ấy 1917.</sentence>
-  <sentence id="s182" start="1767.400" end="1781.000">Thuở ấy, phương tiện thông tin, thính thị còn chậm chạp nên giới bình dân còn hăng say sáng tác thi ca bình dân, gọi là để tường thuật, truyền khẩu: Tháng giêng năm Tỵ Khai thị Gò Công.</sentence>
-  <sentence id="s183" start="1781.290" end="1786.360">Thiên hạ rất đông, Các làng đều đủ Có mời huyện phủ, Lại với tổng làng.</sentence>
-  <sentence id="s184" start="1786.610" end="1794.700">Dự tiệc khách quan, Có mời Chánh soái, Chín giờ xe lại, Nhằm bữa mười hai, Các quan đội cai Đi ra lần đón...</sentence>
-  <sentence id="s185" start="1795.470" end="1800.660">Những cái cộ thấp, Sắp trước cộ cao, Cộ tốt hẳn hòi, Có rồng lân múa.</sentence>
-  <sentence id="s186" start="1800.920" end="1806.690">Có cộ bằng lúa, Nó khéo rõ ràng Trên cộ có tàn Treo cờ gắn chữ.</sentence>
-  <sentence id="s187" start="1807.020" end="1812.590">Chữ Tây, Quốc ngữ, Bằng gạo trắng không Có kẻ kết bông, Người thì kết phụng...</sentence>
-  <sentence id="s188" start="1813.940" end="1818.540">Dùng gạo trắng để kết chữ kết hình, hoặc dùng bông tươi.</sentence>
-  <sentence id="s189" start="1818.840" end="1821.330">Đó là nghệ thuật trang trí, khánh tiết khá độc đáo.</sentence>
-  <sentence id="s190" start="1821.670" end="1825.670">Ngoài ra còn dùng lá đủng đỉnh, lá dừa để kết cửa vòng nguyệt.</sentence>
-  <sentence id="s191" start="1826.850" end="1833.420">Hoặc dùng bông cau, mo nang, bẹ dừa mà cắt ra, bố trí như tranh sơn thủy.</sentence>
-  <sentence id="s192" start="1834.180" end="1846.340">Những kiểu cộ hoa, cộ đèn gợi hình ảnh ngày Nguyên Tiêu của Trung Hoa. “Trong dịp đám cưới, thăng quan dân chúng tha hồ biểu diễn nghề kết bông kết tụi, “bong rạp”.</sentence>
-  <sentence id="s193" start="1848.160" end="1852.580">Về phong thủy, người Miệt Vườn chọn nơi “sông sâu nước chảy” để cất nhà.</sentence>
-  <sentence id="s194" start="1853.080" end="1856.780">Sông sâu nước chảy nghĩa là không bùn lầy nước đọng.</sentence>
-  <sentence id="s195" start="1857.240" end="1862.710">Sông sâu nước chảy là nơi dễ liên lạc với xóm giềng, với mấy làng phụ cận.</sentence>
-  <sentence id="s196" start="1863.320" end="1868.850">Nước chảy là điều kiện tối cần thiết để giữ vệ sinh, gọi nôm na là “lấy nước làm sạch”.</sentence>
-  <sentence id="s197" start="1869.470" end="1874.670">Chúng tôi thử phác họa một ngôi nhà ở Miệt Vườn, chủ nhân là điền chủ bực trung.</sentence>
-  <sentence id="s198" start="1875.400" end="1880.780">Nhiều ngôi nhà cất sau này dùng hàng rào sắt, có xây hồ nước lộ thiên, có lầu.</sentence>
-  <sentence id="s199" start="1880.780" end="1899.350">Theo ý chúng tôi thì những ngôi nhà tân thời ấy, không tiêu biểu cho lắm, tốt hơn là nên chọn lựa một kiểu nhà hơi xưa, cất vào khoảng năm 1905-1910, lần hồi gia chủ mua sắm thêm bàn ghế bên trong, tu bổ lại.</sentence>
-  <sentence id="s200" start="1900.550" end="1907.420">Địa điểm chọn lựa là vùng Cái Bè, ở bờ sông Tiền, nơi nổi tiếng nhờ vườn cam và cũng là vùng đất xưa.</sentence>
-  <sentence id="s201" start="1907.900" end="1919.990">Hy vọng rằng kiểu nhà sau đây - nhà của điền chủ - nói lên được phần nào cách ăn ở của người Miệt Vườn hồi đầu thế kỷ, với nhiều tiểu dị nhưng cũng có nhiều nét đại đồng[73].</sentence>
-  <sentence id="s202" start="1921.400" end="1931.550">Những người phú nông, trung nông cất nhà theo quan niệm ăn ở và thẩm mỹ ấy, nhiều chi tiết được thay đổi tùy theo túi tiền của gia chủ.</sentence>
-  <sentence id="s203" start="1932.630" end="1940.380">Mỗi nhà là một cung điện bình dân, với nhà thủy tạ, với sân rộng, hòn non bộ, cây kiểng.</sentence>
-  <sentence id="s204" start="1940.700" end="1945.860">Sau nhà là vườn tược, trước sân và bên hông thì trồng cây để lấy bóng mát.</sentence>
-  <sentence id="s205" start="1946.620" end="1949.090">Nhà không quá kín đối với người ngoài.</sentence>
-  <sentence id="s206" start="1950.040" end="1957.040">Nhà mát cất ở mé sông, kiểu nhà thủy tạ, có “băng” bằng cây đóng chung quanh.</sentence>
-  <sentence id="s207" start="1957.560" end="1960.860">Đây là nơi lý tưởng để ngắm cảnh khi trăng lên, khi nước lớn.</sentence>
-  <sentence id="s208" start="1961.400" end="1976.080">Bên cầu mát là trại lá nhỏ để ghe xuồng đậu, từ chiếc ghe hầu, mui ghe chạm trổ phết vàng sơn son, đến chiếc ghe lường, xuồng be, xuồng vỏ gòn.</sentence>
-  <sentence id="s209" start="1977.020" end="1980.560">Rời nhà mát, gặp con đường cái, chạy dài theo mé rạch.</sentence>
-  <sentence id="s210" start="1980.890" end="1983.030">Qua lộ, đến cổng vào nhà.</sentence>
-  <sentence id="s211" start="1983.590" end="1986.680">Cổng ít khi đóng lại, nhiều khi không có cửa.</sentence>
-  <sentence id="s212" start="1987.020" end="1988.120">Cổng bằng cây, bằng gạch.</sentence>
-  <sentence id="s213" start="1988.580" end="2001.840">Nếu túng thiếu hoặc yêu mến thiên nhiên, cứ trồng cây, uốn cho nhánh giao lại theo hình vòng nguyệt, hai bên là hàng rào bằng cây khô hoặc cây tươi như dâm bụt, cây trà kiểng, cây kim quít.</sentence>
-  <sentence id="s214" start="2002.800" end="2012.290">Từ cổng vào nhà là con đường lót gạch tàu, bên đường viền cỏ dền tây, bông nở ngày, bông vạn thọ hoặc cây đinh lăng.</sentence>
-  <sentence id="s215" start="2013.300" end="2016.720">Bàn thờ ông thiên dựng giữa sân, gần đường cái.</sentence>
-  <sentence id="s216" start="2017.500" end="2027.180">Nhiều khi gia chủ bố trí thêm một cây trụ, trên chót là cái lồng cửa kiếng, ban đêm thắp ngọn đèn dầu lửa cho vui.</sentence>
-  <sentence id="s217" start="2028.480" end="2037.050">Hai bên đường, lắm khi xây bồn tròn, trồng một hai cây tùng hoặc cây trắc bá diệp, cây thiên tuế.</sentence>
-  <sentence id="s218" start="2038.420" end="2044.400">Đến gần hàng ba là gặp đôi ba cặp kiểng, một cái hòn non bộ.</sentence>
-  <sentence id="s219" start="2044.750" end="2071.960">Kiểng ở Miệt Vườn là sự sáng tạo đáng lưu ý, nuôi và uốn với đường nét, quan niệm thẩm mỹ khá độc đáo, khác lối uốn kiểng của người Trung Hoa, của miền Trung hoặc Bắc Phần; nào là kiểng uốn theo kiểu xuy phong, mẫu tử, với những tàn tiêu biểu cho tam tùng, tứ đức hoặc tam cang ngũ thường, trên chót là ba nhánh nhỏ, tiêu biểu cho nhựt, nguyệt, tinh.</sentence>
-  <sentence id="s220" start="2072.690" end="2078.260">Nhánh kiểng phải “hô, ứng”, nhánh này nghinh thiên, nhánh kia yểm địa.</sentence>
-  <sentence id="s221" start="2079.840" end="2085.930">Chúng ta đến trước hàng ba, nhà ba căn với một hoặc hai chái.</sentence>
-  <sentence id="s222" start="2086.890" end="2092.350">Từ trước đến sau, có ba phần rõ rệt: 1 Phần thứ nhứt là hàng ba và phòng khách.</sentence>
-  <sentence id="s223" start="2092.960" end="2094.490">Hàng ba lót gạch tàu.</sentence>
-  <sentence id="s224" start="2094.740" end="2100.310">Phòng khách thì ít khi lót gạch, nếu có thì chỉ là một phần ở phía trước mà thôi.</sentence>
-  <sentence id="s225" start="2101.090" end="2106.730">Theo quan niệm cổ truyền, ông già bà cả thích nền đất hơn nền lót gạch.</sentence>
-  <sentence id="s226" start="2107.340" end="2112.210">Đi chân trên đất là hợp theo sự hòa hợp âm dương.</sentence>
-  <sentence id="s227" start="2112.960" end="2113.790">Nhà có ba căn.</sentence>
-  <sentence id="s228" start="2114.210" end="2123.360">Căn giữa dành để tiếp khách quí, thường là bộ trường kỷ, hai chiếc ghế dài để hai bên một cái bàn dài.</sentence>
-  <sentence id="s229" start="2124.630" end="2137.440">Ghế bằng cây danh mộc, chạm trổ tùng lộc, mai điểu, mặt và đai ghế lót đá cẩm thạch Vân Nam, những gân đá gợi bóng dáng mây núi, mặt trời, mặt trăng.</sentence>
-  <sentence id="s230" start="2139.130" end="2142.590">Hai căn bên dành cho hai bộ ván gõ.</sentence>
-  <sentence id="s231" start="2144.060" end="2158.550">Bộ ván bên trái từ bên ngoài nhìn vào dành cho các bà, có ống nhổ, một cái bàn nhỏ ở đầu bộ ván, trên bàn là khay trầu, bình vôi, ô trầu, tô lớn để súc miệng trước khi ăn trầu.</sentence>
-  <sentence id="s232" start="2159.520" end="2167.080">Mỗi gốc cột đều treo liễn thếp vàng, cẩn xa cừ, hoặc liễn kè bằng cây kè.</sentence>
-  <sentence id="s233" start="2168.240" end="2174.870">Bộ ván bên tay phải từ bên ngoài nhìn vào dành cho khách nằm nghỉ trưa, hoặc để dọn cơm đãi khách.</sentence>
-  <sentence id="s234" start="2175.720" end="2180.140">Trên bộ ván, thường trải chiếu bóng, hai ba cái gối vuông.</sentence>
-  <sentence id="s235" start="2180.580" end="2188.330">Mùa nóng nực, khách đến nhà là cứ nằm cho khỏe, không bắt buộc phải ngồi thòng chân để ra vẻ trang nghiêm.</sentence>
-  <sentence id="s236" start="2189.500" end="2194.560">Đối với bạn thân, chủ nhà mời bạn nằm nghỉ giây lát, đưa quạt cho bạn phe phẩy.</sentence>
-  <sentence id="s237" start="2194.900" end="2199.190">Sau đó, bạn mới ngồi dậy để uống trà hoặc uống nước dừa tươi.</sentence>
-  <sentence id="s238" start="2199.630" end="2204.020">Nói chung thì thời xưa, đàn ông quen và thích ngồi xếp bằng.</sentence>
-  <sentence id="s239" start="2204.500" end="2210.210">Ngồi ghế trường kỷ mà rút chân lên theo kiểu xếp bằng thì không có gì là vô phép cả.</sentence>
-  <sentence id="s240" start="2211.130" end="2217.070">Nhiều khi chủ nhà giăng sẵn một hai cái võng để nằm lúc mỏi lưng, khi trời nực.</sentence>
-  <sentence id="s241" start="2218.140" end="2228.020">Sau bộ ghế trường kỷ là cái bàn nhỏ tròn hoặc vuông để một mớ đèn tọa đăng, đèn chong hoặc đèn măng sông.</sentence>
-  <sentence id="s242" start="2228.890" end="2236.950">Mỗi buổi chiều, con cái trong nhà lo dầu đèn, châm dầu cho đầy bình, chùi ống khói, rất tốn kém thì giờ.</sentence>
-  <sentence id="s243" start="2237.940" end="2241.590">Sau cái bàn ấy còn một bộ ván khác.</sentence>
-  <sentence id="s244" start="2243.210" end="2263.460">Bên tay mặt, sau cái bộ ván dành cho khách nằm nghỉ trưa, là cái tủ kiếng khá to đựng năm ba cái gối thêu ở ngăn dưới, ngăn trên để rượu thuốc, rượu tây thông dụng nhứt là rượu ắp-xanh, cỏ-nhác, dùng để đãi khách một ly nhỏ, rượu mạnh cũng là thuốc trị đau bụng, thiên thời.</sentence>
-  <sentence id="s245" start="2264.160" end="2275.790">Ở phòng khách, nói đúng hơn là phần dành để tiếp rước bạn bè, chúng ta thấy ba bốn bộ ván dành khi đám giỗ, khi con cháu về thăm ông bà.</sentence>
-  <sentence id="s246" start="2276.080" end="2285.670">Tại đây, không có vách ngăn, bên này ăn thẳng qua bên kia, khoảng khoát. 2 Hết phần trước, đến phần giữa ngôi nhà.</sentence>
-  <sentence id="s247" start="2286.160" end="2290.040">Đây là khu vực dành riêng cho gia chủ, dùng làm nơi thờ phụng ông bà.</sentence>
-  <sentence id="s248" start="2291.020" end="2305.640">Trên là tấm biển, nêu rõ “Hồ phủ” hoặc “Trần phủ đường”, sát hai bên cột có khung chạm lọng thếp vàng, nào là tùng lộc, bát tiên gắn vào khung này dường như có tên là “bao lam”.</sentence>
-  <sentence id="s249" start="2306.880" end="2311.100">Bước vào khu vực này, ngay ở căn giữa, chúng ta gặp một bộ ván.</sentence>
-  <sentence id="s250" start="2311.600" end="2318.270">Căn bên phải, từ ngoài nhìn vào là cái giường ngủ, dành cho người lớn tuổi nhứt trong gia đình ông, bà.</sentence>
-  <sentence id="s251" start="2319.460" end="2323.820">Căn bên trái là chỗ dành cho cái rương to, rương xe.</sentence>
-  <sentence id="s252" start="2324.490" end="2327.750">Bàn thờ ông bà gồm ba bàn, một ở giữa, hai ở hai bên.</sentence>
-  <sentence id="s253" start="2328.530" end="2346.060">Ngay trên bàn thờ giữa, hơi thụt về phía sau và ở trên cao thường có cái khám để thờ ông Quan Công. 3 Sau bàn thờ là phần thứ ba của ngôi nhà, với hai khung treo màn.</sentence>
-  <sentence id="s254" start="2347.830" end="2352.020">Bên trái từ ngoài nhìn vào là phòng the, dành cho đàn bà, con gái.</sentence>
-  <sentence id="s255" start="2352.370" end="2361.150">Bên mặt là khu vực để lu gạo và sóng chén; hàng năm bảy chục cái chén, tô, dành khi ngày giỗ thì đem ra.</sentence>
-  <sentence id="s256" start="2361.870" end="2364.000">Đến đây là dứt ngôi nhà trên.</sentence>
-  <sentence id="s257" start="2364.450" end="2368.810">Thuở xưa, ít có nhà cầu, nối nhà trên xuống nhà dưới.</sentence>
-  <sentence id="s258" start="2370.110" end="2374.700">Trong nhà dưới là bộ ván, giàn bếp, bộ vạc dành cho bạn bè tôi tớ.</sentence>
-  <sentence id="s259" start="2375.330" end="2384.580">Một bên dành cho cái xe gió để giê lúa, sau khi xay, cối xay lúa, cối giã gạo, cối quết chuối heo ăn.</sentence>
-  <sentence id="s260" start="2385.380" end="2399.740">Phía sau nhà dưới còn vài cái trại nhỏ, nơi vựa củi, lại còn chuồng heo, chuồng gà, giáp ranh với khu vườn là mương nhỏ, ăn thông ra sông rạch trước nhà.</sentence>
-  <sentence id="s261" start="2401.410" end="2409.510">Chái bên hông nhà trên là nơi dự trữ nước mưa, gồm một hàng năm bảy cái lu to, kiểu lu mái đầm bốn vú.</sentence>
-  <sentence id="s262" start="2410.020" end="2414.010">Nhìn chung, chúng ta thấy quá nhiều bộ ván, bốn năm bộ.</sentence>
-  <sentence id="s263" start="2414.490" end="2419.380">Nhiều khi mấy bộ ván này để dành đóng quan tài, khi trong nhà có người qua đời.</sentence>
-  <sentence id="s264" start="2420.760" end="2423.590">Nhà thấp không cửa sổ nên tối om om.</sentence>
-  <sentence id="s265" start="2423.870" end="2428.400">Công việc nặng nhọc nhất trong nhà vẫn là quét dọn, lau chùi bàn ghế và mấy bộ ván.</sentence>
-  <sentence id="s266" start="2428.940" end="2442.270">Bộ ván phải lau chùi thường xuyên cho sạch bụi, chủ nhà đốc thúc con cháu đánh bóng cho ván “lên nước”, dùng trái dừa khô đẹt, cắt làm hai mà chùi, mà dồi.</sentence>
-  <sentence id="s267" start="2443.580" end="2448.890">Kiểu nhà trên đây lần hồi được cải cách, thay vì vách ván thì đổi ra vách tường.</sentence>
-  <sentence id="s268" start="2449.530" end="2451.920">Nền nhà xây thật cao, cao ngang ngực.</sentence>
-  <sentence id="s269" start="2453.060" end="2456.280">Và nguyên lý “âm dương” lần hồi không còn được tôn trọng nữa.</sentence>
-  <sentence id="s270" start="2457.080" end="2461.720">Cứ dùng gạch tàu hoặc gạch bông mà lót suốt từ trước tới sau.</sentence>
-  <sentence id="s271" start="2463.340" end="2477.010">Phía trước nhà, người ta xây hai phía thang gạch, từ bên trái hoặc từ bên mặt, khách vào nhà đi ngang, từ góc nhà vào căn giữa.</sentence>
-  <sentence id="s272" start="2477.880" end="2483.480">Trên bực lan can, nhiều chậu kiểng sắp hàng, tăng thêm phần mát mẻ, vui tươi.</sentence>
-  <sentence id="s273" start="2483.480" end="2487.760">Nhiều nhà bố trí hai chái hai bên, nhờ vậy ngôi nhà được cân đối.</sentence>
-  <sentence id="s274" start="2488.860" end="2493.320">Bên vách, đôi ba cửa sổ lá sách đem ánh nắng vào trong.</sentence>
-  <sentence id="s275" start="2494.220" end="2498.550">Trước kia ít ai tra cửa sổ, e rằng quân gian dễ dòm ngó, cưa cạy.</sentence>
-  <sentence id="s276" start="2499.160" end="2514.020">Trong nhà, mấy bộ trường kỷ, bộ ván, bàn thờ, buồng ngủ vẫn bố trí theo tứ tự cổ điển, từ trước đến sau: 1.- Nơi tiếp khách 2.- Nơi thờ phượng ông bà 3.- Buồng che kín, dành cho vợ chồng hoặc con cái.</sentence>
-  <sentence id="s277" start="2514.680" end="2520.950">Nhà bếp cất rời, nếu dư nhiều lúa thì bồ lúa để riêng ở nhà lẫm.</sentence>
-  <sentence id="s278" start="2521.660" end="2526.390">Những gia đình nghèo túng thường chỉ có bộ vạt để ngồi tiếp khách, một cái buồng.</sentence>
-  <sentence id="s279" start="2527.740" end="2538.350">Về cầu thang dưới bến, tùy theo nước lớn nước ròng mà người ngồi trên bậc thang cao hay thấp rửa chén, làm cá, giặt quần áo, tắm rửa.</sentence>
-  <sentence id="s280" start="2538.690" end="2543.690">Cầu vệ sinh cũng cất gần đó, vật ô uế trôi theo dòng nước.</sentence>
-  <sentence id="s281" start="2544.760" end="2559.250">Nhiều gia đình theo “tân thời” thích bày biện những món hàng nhập cảng: ghế mây “tô-nê”, bàn mặt cẩm thạch Ý Đại Lợi, tủ sắt, trên vách treo đồng hồ “con ngựa”, những bức tranh Thụy Sĩ với hồ xanh, núi tuyết.</sentence>
-  <sentence id="s282" start="2559.680" end="2565.450">Hoặc những tĩnh vật “quả tử” với cá thu, tôm hùm hoặc trái nho, trái lê.</sentence>
-  <sentence id="s283" start="2565.990" end="2575.800">Ngoài ra còn tranh in nhiều màu, mua từ Sài Gòn, vẽ cảnh săn sấu lửa ở Phi Châu, săn cá nược, cá ông ở miền Bắc Cực.</sentence>
-  <sentence id="s284" start="2576.760" end="2588.680">Nhiều gia chủ thích liễn cẩn, biển thếp vàng hoặc thích những kiểu đèn treo có chụp bằng sành, bằng pha lê, muốn hạ cây đèn hoặc rút lên thì cứ nắm sợi dây xích mà kéo.</sentence>
-  <sentence id="s285" start="2589.800" end="2599.050">Nhà thuộc từng lớp nghèo hoặc tiểu chủ thì xài đồ nội hóa: bàn ghế, tranh thờ theo kiểu sản xuất hàng loạt từ Lái Thiêu, Thủ Dầu Một.</sentence>
-  <sentence id="s286" start="2599.430" end="2616.210">Tranh thờ tiêu biểu nhứt là “sơn thủy” với con sông, trên bờ là nhà ngói, sông chảy ra biển, ngoài khơi là ba hòn đảo với vài cánh chim bay, liễn đối ghi là: Sơn thủy hữu tình thiên lý ngoại...</sentence>
-  <sentence id="s287" start="2616.980" end="2628.980">Mấy bộ ván, bộ cột nhà ở Miệt Vườn thường là mua từ trên Lèo, trên Cao Miên, cây thả bè đem về, gọi là cây ở Sông Lớn Cửu Long.</sentence>
-</sentences>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="vi">
+  <head/>
+  <book>
+    <body>
+      <level1>
+        <p>
+          <sent id="s1">KHI MIỆT VƯỜN TRỖI DẬY</sent>
+        </p>
+        <p>
+          <sent id="s2">VỚI DIỆN TÍCH NHỎ, NGƯỜI MIỆT VƯỜN NẾU khai thác đúng mức thì đủ ăn, đủ mặc.</sent>
+        </p>
+        <p>
+          <sent id="s3">Để so sánh huê lợi vườn tược với huê lợi ruộng lúa, chúng ta tạm theo tỷ lệ sau đây, tuy là quá khái quát:</sent>
+        </p>
+        <p>
+          <sent id="s4">- Một mẫu vườn dừa đem huê lợi bằng năm mẫu ruộng.</sent>
+        </p>
+        <p>
+          <sent id="s5">- Một mẫu vườn cam, quít đem huê lợi bằng 10 mẫu vườn dừa.</sent>
+        </p>
+        <p>
+          <sent id="s6">Như vậy, một mẫu vườn cam, quít nếu săn sóc kỹ lưỡng thì đem lợi tức trị giá bằng 50 mẫu ruộng.</sent>
+        </p>
+        <p>
+          <sent id="s7">Với một mẫu vườn, người chủ nhà đủ sống thảnh thơi.</sent>
+        </p>
+        <p>
+          <sent id="s8">Trong năm, chủ nhà phải xuất ra tiền mướn nhân công làm cỏ, móc mương nhưng thâu huê lợi nhiều đợt, hết mùa cam quít đến xoài, chuối, không như người nông phu mỗi năm gặt lúa có một lần.</sent>
+        </p>
+        <p>
+          <sent id="s9">Người chủ vườn ít khi túng bấn đến mức vay nợ nặng lời.</sent>
+        </p>
+        <p>
+          <sent id="s10">Một ưu thế khác, đáng chú ý.</sent>
+        </p>
+        <p>
+          <sent id="s11">Hễ làm ruộng, gặp khi mùa màng bị thiệt hại đến mức 70 phần trăm hoặc hơn nữa thì người tá điền không còn dư một hột lúa, sau khi đóng địa tô hoặc sau khi trả tiền công gặt, công cấy.</sent>
+        </p>
+        <p>
+          <sent id="s12">Vườn tược đem huê lợi ổn định hơn.</sent>
+        </p>
+        <p>
+          <sent id="s13">Gặp khi thời tiết thay đổi thì huê lợi bị thiệt thòi ít, phỏng định trung bình là 30 phần trăm thất thâu.</sent>
+        </p>
+        <p>
+          <sent id="s14">Dẫu sao đi nữa, người chủ vườn vẫn còn chút ít huê lợi.</sent>
+        </p>
+        <p>
+          <sent id="s15">Người chủ vườn tậu thêm vài mẫu ruộng thì quả là ông tiên nho nhỏ.</sent>
+        </p>
+        <p>
+          <sent id="s16">Trong nhà, đủ lúa gạo; lá dừa bẹ dừa dùng làm củi, dưới sông dư cá tôm.</sent>
+        </p>
+        <p>
+          <sent id="s17">Sống bằng nghề vườn ít dầm mưa dãi nắng như nghề ruộng.</sent>
+        </p>
+        <p>
+          <sent id="s18">Gặp mưa to nắng cháy thì cứ vô nhà mà nghỉ.</sent>
+        </p>
+        <p>
+          <sent id="s19">Lá dừa che phủ, sân mát rượi, bầu không khí chung quanh nhà được điều hòa.</sent>
+        </p>
+        <p>
+          <sent id="s20">Buổi trưa nắng gắt, còn gì sung sướng cho bằng giăng võng mà nằm bên gốc mận, gốc ổi.</sent>
+        </p>
+        <p>
+          <sent id="s21">Mương vườn chảy ra sông Cái, theo nhịp nước lớn nước ròng, muỗi mòng không phát triển được như trường hợp nước ao tù.</sent>
+        </p>
+        <p>
+          <sent id="s22">Rác rến trôi đi.</sent>
+        </p>
+        <p>
+          <sent id="s23">Nơi sông sâu nước chảy, người ta dùng sông rạch làm nơi tắm rửa, phóng uế...</sent>
+        </p>
+        <p>
+          <sent id="s24">Nếu là nơi sông rộng, nhiều cá tôm thì không mất vệ sinh cho lắm.</sent>
+        </p>
+        <p>
+          <sent id="s25">Dưới bến, sau mương vườn có đủ thứ cầu: cầu tiêu, cầu tắm.</sent>
+        </p>
+        <p>
+          <sent id="s26">Mương vườn ăn ra sông là hệ thống cống rãnh khá tốt.</sent>
+        </p>
+        <p>
+          <sent id="s27">Miệt Vườn là nơi mà đất vườn được phân chia từng khoảnh nhỏ, theo chế độ tiểu điền chủ.</sent>
+        </p>
+        <p>
+          <sent id="s28">Đất khai thác từ lâu, dân chúng sống tập trung, ai cũng cố gắng tìm một khoảnh đất mà sống.</sent>
+        </p>
+        <p>
+          <sent id="s29">Ai chen lấn không được thì đã ly hương, đến vùng Rạch Giá, Cà Mau mà tìm đất mới.</sent>
+        </p>
+        <p>
+          <sent id="s30">Ở Miệt Vườn, còn lại những người đủ ăn, đủ mặc không giàu quá mức như điền chủ Bạc Liêu, cũng như không nghèo đến đỗi không một mái nhà, con cái trần truồng như ở vùng Bạc Liêu.</sent>
+        </p>
+        <p>
+          <sent id="s31">Vài con số sau đây do giáo sư P. Gourou nêu lên giúp chúng ta hiểu về hình thức phân chia điền địa ở Miệt Vườn:</sent>
+        </p>
+        <p>
+          <sent id="s32">- Diện tích trung bình một khoảnh ruộng ở Bắc Phần là 20 ares.</sent>
+        </p>
+        <p>
+          <sent id="s33">- Ở Nam Phần, nơi đất bị phân chia manh mún nhất là vùng Thủ Dầu</sent>
+        </p>
+        <p>
+          <sent id="s34">Một: mỗi khoảnh ruộng là một mẫu tây, tức là 5 lần lớn hơn một khoảnh ruộng ở Bắc Phần.</sent>
+        </p>
+        <p>
+          <sent id="s35">- Xuống phía Tây Nam, diện tích từng khoảnh càng thêm to. Tây Ninh, 1 mẫu 2; Chợ Lớn, 1 mẫu 6, Mỹ Tho, 2 mẫu 4; Long Xuyên, 6 mẫu 1; Bạc</sent>
+        </p>
+        <p>
+          <sent id="s36">Liêu, 9 mẫu 2.</sent>
+        </p>
+        <p>
+          <sent id="s37">Ở tổng Thuận Trị, tỉnh Mỹ Tho, tiểu điền chủ chiếm đến 73,2 phần trăm tổng số ruộng; ở tổng Long Thủy, tỉnh Bạc Liêu, tiểu điền chủ chỉ chiếm 0,42 phần trăm số ruộng trong tổng, nghĩa là không được một nửa phần trăm.</sent>
+        </p>
+        <p>
+          <sent id="s38">Người Miệt Vườn gồm khá nhiều tiểu điền chủ, tiểu nông.</sent>
+        </p>
+        <p>
+          <sent id="s39">Nhưng số người còn lại ở Miệt Vườn, làm sao có đất để làm chủ?</sent>
+        </p>
+        <p>
+          <sent id="s40">Miệt Vườn vẫn có nhiều ông đại điền chủ.</sent>
+        </p>
+        <p>
+          <sent id="s41">Ngoài ra, còn một số tá điền sống nghèo nàn!</sent>
+        </p>
+        <p>
+          <sent id="s42">Người không đất có thể mướn đất của điền chủ để lập vườn, hoặc là mướn đất công điền.</sent>
+        </p>
+        <p>
+          <sent id="s43">Mãn thời hạn là năm hoặc mười năm, người mướn xin ký giao kèo mới để triển hạn, hoặc mua đứt, nếu là đất đai của điền chủ.</sent>
+        </p>
+        <p>
+          <sent id="s44">Nếu đệ tam nhân nào muốn mướn tranh giành thì khó đưa ra một giá cao hơn giá của người mướn trước đó.</sent>
+        </p>
+        <p>
+          <sent id="s45">Tiền bạc dư giả chút ít, nhà cửa mát mẻ, công việc hàng ngày không nhọc nhằn là đặc điểm của sanh hoạt Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s46">Thêm vào đó, còn một yếu tố quan trọng khác.</sent>
+        </p>
+        <p>
+          <sent id="s47">Đó là việc giao thông dễ dàng từ xóm này qua xóm kia, ra tỉnh lỵ, lên Sài Gòn.</sent>
+        </p>
+        <p>
+          <sent id="s48">Ông Học Lạc làm thơ ca ngợi sự phồn thịnh của chợ Mỹ Tho, vào khoảng trước năm 1919: Trên Sài Gòn, dưới Mỹ Tho, Đâu đâu phong cảnh cũng nhường cho, Lớn ròng chung rạch, chia đôi ngả, Cũ mới phân nhau cũng một đò.</sent>
+        </p>
+        <p>
+          <sent id="s49">Phố cất vẽ vời xanh tợ lục, Buồm dong lên xuống, trắng như cò.</sent>
+        </p>
+        <p>
+          <sent id="s50">Đắc tình trạo tử quên mưa nắng, Dắng dỏi đua nhau tiếng hát hò.</sent>
+        </p>
+        <p>
+          <sent id="s51">Chúng ta không quên câu hát đưa em nói đến sự quan trọng của tỉnh ly åMỹ Tho, chỉ thua Sài Gòn mà thôi.</sent>
+        </p>
+        <p>
+          <sent id="s52">- Cúc mọc dưới sông kêu là cúc thủy hoặc là</sent>
+        </p>
+        <p>
+          <sent id="s53">“Cách một khúc sông kêu bằng cách thủy”! Sài Gòn xa, chợ Mỹ cũng xa, Gởi thơ thăm hết mọi nhà, Trước thăm phụ mẫu, sau là thăm em.</sent>
+        </p>
+        <p>
+          <sent id="s54">Câu hát huê tình của bạn ghe thương hồ nhắc đến vài thành phố của Miệt Vườn: Cần Thơ là cảnh, Cao Lãnh là quê.</sent>
+        </p>
+        <p>
+          <sent id="s55">Anh đi khỏi xứ tào kê, Thoát vòng lao lý, đâu dè gặp em!</sent>
+        </p>
+        <p>
+          <sent id="s56">Hoặc là: Đời phải đời thạnh trị Cuộc phải cuộc văn minh Kìa là gió mát trăng thanh, Biết đâu nhơn đạo, bày tình cho vui?</sent>
+        </p>
+        <p>
+          <sent id="s57">- Gió mát trăng thanh, Người bạn lành khó kiếm, Tôi đây dạo chơi cũng hiếm</sent>
+        </p>
+        <p>
+          <sent id="s58">Chưa biết chọn người nào, Mảng lo mua bán ra vào Cần Thơ...</sent>
+        </p>
+        <p>
+          <sent id="s59">Dân Miệt Vườn phản ứng như thế nào, khi đón nhận luồng văn minh kỹ thuật của Tây phương.</sent>
+        </p>
+        <p>
+          <sent id="s60">Những hình thức văn nghệ cổ truyền đã biến đổi ra sao? a Một số nho sĩ dịch truyện Tàu ra Quốc ngữ, truyện Tàu in ở Sài Gòn phổ biến mạnh ở Miệt Vườn vì nơi đây nhiều người biết chữ Quốc ngữ, dân chúng đủ ăn đủ mặc, nhàn rỗi hơn ở những tỉnh mới, ngoài Miệt Vườn như Rạch Giá, Bạc Liêu.</sent>
+        </p>
+        <p>
+          <sent id="s61">Phong trào nói truyện giúp cho những người dốt nghe được truyện Tàu, nhờ chữ Quốc ngữ, một người đọc, năm bảy người nghe.</sent>
+        </p>
+        <p>
+          <sent id="s62">Nho sĩ trở thành ký giả, lên Sài Gòn làm báo. b Về thi phú, đa số thi sĩ khoảng đầu thế kỷ thứ hai mươi đều thuộc lứa già, làm thơ để thù tạc xướng họa.</sent>
+        </p>
+        <p>
+          <sent id="s63">Điều đáng chú ý là những bài còn lưu truyền đều là bát cú thơ Học Lạc, Nhiêu Tâm, bà Sương Nguyệt Anh, ông phủ Đước, bà Trần Ngọc Lầu, ông Cai tổng Lê Quang Chiểu; dường như hình thức lục bát mà ông Đồ Chiểu sử dụng rất thành công ít được nho sĩ miền Nam ưa thích ngoại trừ trường hợp những loại thơ bình dân Lâm Sanh Xuân Nương, Phạm Công Cúc Hoa, Sáu Trọng, Cậu Hai Miêng . c Hình thức hát bội được phổ biến, đứng về mặt sáng tác thì không tạo bổn tuồng nào mới, đáng lưu ý. d Ca nhạc là bộ môn phát triển mạnh và được người miền Nam hâm mộ nhất.</sent>
+        </p>
+        <p>
+          <sent id="s64">Đờn đi đôi với thi phú Cầm, Thi.</sent>
+        </p>
+        <p>
+          <sent id="s65">Nhờ phương tiện chữ Quốc ngữ, nhiều tập bài ca tài tử được ấn hành, từ năm 1909 đến 1915, tại Sài Gòn.</sent>
+        </p>
+        <p>
+          <sent id="s66">Nhan đề một tập sách nhạc ấy như sau: “Bản đờn tranh và bài ca Chủ bút: Phụng Hoàng Sang Edité par Đinh Thái Sơn dit Phát Toán” Một ông chủ tiệm bán và sửa xe đạp đứng ra in tập bài ca.</sent>
+        </p>
+        <p>
+          <sent id="s67">Thuở ấy, bán và sửa xe đạp là ngành kinh doanh quan trọng, ông chủ tiệm này khai thác luôn một nhà in, chiếm hai căn phố mặt tiền đường d’Ormay nay là Nguyễn Văn Thinh.</sent>
+        </p>
+        <p>
+          <sent id="s68">Nhà xuất bản này có vẻ quê mùa với lối xưng danh như một tiệm tạp hóa, dưới mắt của chúng ta ngày nay.</sent>
+        </p>
+        <p>
+          <sent id="s69">Nhưng xét kỹ lại, chúng ta thấy nhà xuất bản biết bắt mạch nhu cầu dân chúng lúc bấy giờ, khi chữ Quốc ngữ bắt đầu phổ biến rộng, khi dân chúng ở Lục Tỉnh đòi hỏi món ăn tinh thần.</sent>
+        </p>
+        <p>
+          <sent id="s70">Sách in đến lần thứ tư, vào năm 1910, chứng tỏ rằng sách bán chạy từ trước.</sent>
+        </p>
+        <p>
+          <sent id="s71">Trong tập sách mỏng vừa nói trên có những bản đờn và bài ca chắc là lúc bấy giờ được ưa thích: Lưu Thủy trường, Phú Lục, Nam Xuân, Nam Ai, nhứt là bản Tứ Đại.</sent>
+        </p>
+        <p>
+          <sent id="s72">Bài ca nhằm vào đề tài Chiêu Quân Cống Hồ, Tô Huệ chức cẩm hồi văn, mối tình Kim Trọng - Thúy Kiều, Chống tứ đổ tường, Nhớ tình nhân...</sent>
+        </p>
+        <p>
+          <sent id="s73">Lời văn rất sáo, dùng nhiều chữ Nho, phảng phất lối văn biền ngẫu, những câu nói lối của tuồng hát bội.</sent>
+        </p>
+        <p>
+          <sent id="s74">Theo ông Vương Hồng Sển  Hồi ký 50 năm mê hát, cơ sở Phạm Quang Khai, 1969, Sài Gòn  thì vào khoảng năm 1915, phong trào ca nhạc phát triển mạnh với những tập bài ca: Lục Tài Tử, Thập Tài Tử, Tứ Tài Tử, Bát Tài Tử.</sent>
+        </p>
+        <p>
+          <sent id="s75">Lúc bấy giờ không dùng danh từ cổ nhạc hoặc nhạc cổ điển.</sent>
+        </p>
+        <p>
+          <sent id="s76">Người chơi nhạc mặc nhiên là “tài tử” theo nghĩa rộng.</sent>
+        </p>
+        <p>
+          <sent id="s77">Tài tử là người phong lưu, không đặt vấn đề danh lợi trong lúc làm văn nghệ.</sent>
+        </p>
+        <p>
+          <sent id="s78">Đờn ca là để “di dưỡng tính tình”, giao cảm với bạn tri âm.</sent>
+        </p>
+        <p>
+          <sent id="s79">Tuyệt nhiên không dùng nghệ thuật để khai thác thương mãi.</sent>
+        </p>
+        <p>
+          <sent id="s80">Xin trích lại một đoạn trong “Hồi ký 50 năm mê hát”, ghi rõ ngày xuất bản, hình bìa và phớt qua nội dung mấy tập “tài tử” nói trên.</sent>
+        </p>
+        <p>
+          <sent id="s81">“- 12 Juin 1915 - “Lục Tài Tử” gồm 19 bài ca, ngoài bìa vẽ một độc huyền, một kép ôm cây kìm, một kép đờn cây cò và ba cô ca.</sent>
+        </p>
+        <p>
+          <sent id="s82">- 15 Juin 1915 - “Thập Tài Tử” gồm 19 bài ca, bìa vẽ một thổi tiêu, một cò, một gõ sanh, một gáo, một cô đờn tranh, một cô kìm, một cô đờn tỳ bà, một cô đờn độc huyền, hai cô ca.</sent>
+        </p>
+        <p>
+          <sent id="s83">- 16 Juin 1916 - “Tứ Tài Tử” với 21 bài ca, ngoài bìa vẽ hai cô ca và đờn tranh, hai đàn ông đờn kìm và cò. Hai mươi mốt bài gồm Trương Phi thủ</sent>
+        </p>
+        <p>
+          <sent id="s84">Cổ thành, tích Thoại Khanh Châu Tuấn, Tô Huệ chức cẩm hồi văn, Bá Nha Tử Kỳ, Đào viên kết nghĩa, chuyện Thúy Kiều...</sent>
+        </p>
+        <p>
+          <sent id="s85">- 29 Aout 1915 - “Bát Tài Tử” gồm 19 bài ca, bìa vẽ một kép đờn cò, một kép đờn gáo, một cô đờn kìm, một cô đờn tranh, một cô tỳ bà, một cô độc huyền và hai cô ca. Tập này ghi rõ người soạn là nhạc sĩ Nguyễn Tùng Bá.</sent>
+        </p>
+        <p>
+          <sent id="s86">Trong Bát Tài Tử này có những đề tài: tích Phi Long trả thù chồng, chuyện vợ Ngũ Vân Thiệu bị tên, Ngưu Cao tảo mộ khóc Cao Lũng, lại có đề tài dính dáng với xã hội đương thời: coi lễ Chánh chung gặp tình nhân, đàn bà ghen.</sent>
+        </p>
+        <p>
+          <sent id="s87">Đờn ca tài tử là bộ môn văn nghệ thịnh hành.</sent>
+        </p>
+        <p>
+          <sent id="s88">Nếu chúng tôi không lầm thì trước kia đờn ca tài tử chỉ phổ biến hẹp hòi, trong giới quan lại, phú hào từ Huế đô.</sent>
+        </p>
+        <p>
+          <sent id="s89">Với hoàn cảnh mới, đờn ca tài tử được người dân thuộc thành phần trung lưu đón nhận, nhờ phương tiện chữ Quốc ngữ sách in bài ca, nhờ mức sống dư giả ở Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s90">Trong hoàn cảnh ngoại bang đô hộ, các chức vụ quan trọng về chánh quyền đều do người Pháp nắm giữ, việc kinh doanh, thương mãi nằm trong tay người Hoa kiều hoặc Ấn Độ thì kẻ sĩ, các ông điền chủ bổn xứ dù muốn hay không cũng phải bám vào giới trung lưu và giới bình dân mà nương tựa.</sent>
+        </p>
+        <p>
+          <sent id="s91">Đờn ca tài tử là dịp bạn bè gặp nhau, tiếng đờn và lời ca thay cho lời tâm sự.</sent>
+        </p>
+        <p>
+          <sent id="s92">Tụ họp lại để đờn ca là sinh hoạt thường lệ, không cần xin phép, khỏi bị nhà cầm quyền thực dân lưu ý - người đờn ca, người chủ nhà thường là thân hào, nhân sĩ hoặc hương chức hội tề.</sent>
+        </p>
+        <p>
+          <sent id="s93">Bài ca dùng những lời trừu tượng, kích thích lòng yêu nước qua điển tích xưa.</sent>
+        </p>
+        <p>
+          <sent id="s94">Phải chăng “đờn ca tài tử” có vai trò hơi giống với việc hát cô đầu ở Bắc Phần?</sent>
+        </p>
+        <p>
+          <sent id="s95">Sau buổi đờn ca, thường tổ chức ăn uống, và nào ai ngăn cấm việc yêu đương lãng mạn giữa người tài tử?</sent>
+        </p>
+        <p>
+          <sent id="s96">Chủ nhà lắm khi không biết đờn ca nhưng được xem là tài tử vì ông ta dám xuất tiền ra xài vô điều kiện để tìm những phút thoải mái cho tâm hồn!</sent>
+        </p>
+        <p>
+          <sent id="s97">Đờn ca tài tử liên quan đến việc thành hình ngành cải lương mà Miệt Vườn là lò đào tạo.</sent>
+        </p>
+        <p>
+          <sent id="s98">Đây không phải là thiên vị về tình cảm địa phương nhưng là sự khảo sát thực tế.</sent>
+        </p>
+        <p>
+          <sent id="s99">Các tỉnh miền Đông Nam Phần nói chung đều nghèo nàn về tiền bạc lúa gạo tuy giàu sĩ khí.</sent>
+        </p>
+        <p>
+          <sent id="s100">Các tỉnh mới thành lập ở miền Tây thì còn quá mới, dân chúng sống chưa ổn định, tiền bạc dư, lúa gạo thừa thãi nhưng thiếu một số trí thức, danh sĩ hướng dẫn thành thử ra tiền bạc chỉ đổ dồn vào sòng cờ bạc.</sent>
+        </p>
+        <p>
+          <sent id="s101">Nghiên cứu về xã hội, về văn hóa đòi hỏi một tinh thần rộng rãi, khách quan, gạt ra ngoài những thành kiến chánh trị vụn vặt.</sent>
+        </p>
+        <p>
+          <sent id="s102">Người đi khẩn hoang có thể là kẻ trốn xâu lậu thuế, nhưng việc làm của họ có tính cách xây dựng, không thể phủ nhận được.</sent>
+        </p>
+        <p>
+          <sent id="s103">Nhờ họ mà biên giới của tổ quốc chúng ta mở rộng.</sent>
+        </p>
+        <p>
+          <sent id="s104">Người đến cất chòi ở vàm rạch hoang vu lần đầu tiên có thể bị thúc đẩy vì động cơ ích kỷ, muốn trở thành đại điền chủ.</sent>
+        </p>
+        <p>
+          <sent id="s105">Người tổ chức đờn ca tài tử có thể là háo danh, háo sắc nhưng việc làm ấy nhứt định là bảo vệ nghệ thuật, nếu không là phát huy.</sent>
+        </p>
+        <p>
+          <sent id="s106">Ngoài ra, thưởng thức văn nghệ là vấn đề tế nhị, phức tạp.</sent>
+        </p>
+        <p>
+          <sent id="s107">Nhiều người rất cách mạng, chống thực dân nhưng lại ghét hội họa, thi phú.</sent>
+        </p>
+        <p>
+          <sent id="s108">Có người lạc hậu nhưng thích những quyển sách, những bài ca tiến bộ.</sent>
+        </p>
+        <p>
+          <sent id="s109">Ngược lại, nhiều người hô hào làm chuyện “quốc sự” nhưng chỉ thích những văn nghệ phẩm trụy lạc...</sent>
+        </p>
+        <p>
+          <sent id="s110">Trong buổi đầu tiên từ đờn ca tài tử, ca ra bộ, đến việc tổ chức bạn hát cải lương, việc soạn tuồng tích, việc đào tạo đào kép... đều khởi nguồn từ Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s111">Xin kể sau đây vài nhân vật, theo sách đã dẫn:</sent>
+        </p>
+        <p>
+          <sent id="s112">- Ông Tống Hữu Định, một người vừa giàu vừa sang ở Vĩnh Long, tục danh là thầy phó Mười Hai phó tổng, thứ Mười Hai trong gia đình. Tại nhà ông lần đầu tiên tổ chức đờn ca tài tử ra bộ, sau này gọi là ca ra bộ, người ca đứng trên bộ ván.</sent>
+        </p>
+        <p>
+          <sent id="s113">- Ông kinh lịch Hườn hay Quờn, kinh lịch là chức vụ xưa, ông Hườn làm ở tòa án Vĩnh Long, thường đặt bài ca, có sáng kiến cải cách nhạc cụ.</sent>
+        </p>
+        <p>
+          <sent id="s114">- Ông Phạm Đăng Đàng cũng ở Vĩnh Long là thầy đờn kỳ cựu, sở trường là sử dụng cây đờn độc huyền.</sent>
+        </p>
+        <p>
+          <sent id="s115">Ông Mạnh Tự Trương Duy Toản một soạn giả tiền phong về tuồng cải lương, giúp đắc lực cho bạn hát của thầy Năm Tú ở Mỹ Tho. Ông Mạnh Tự quê ở Vũng Liêm Vĩnh Long đã từng viết và làm chủ bút tờ báo Trung Lập.</sent>
+        </p>
+        <p>
+          <sent id="s116">Là một nho sĩ phóng khoáng, đề cao nhân vật Từ Hải của truyện Kiều từ hồi năm 1918-1922, bộc lộ được bao nhiêu căm hờn và khát vọng của người dân mất nước.</sent>
+        </p>
+        <p>
+          <sent id="s117">Đây là một đoạn, điệu Hành Vân: Mật yên hùng, mật yên hùng Giống Triệu Thường Sơn, Đường cung kiếm, cái chí nam nhi Núi sông là phận.</sent>
+        </p>
+        <p>
+          <sent id="s118">Từ đây quyết vẫy vùng cho sóng dậy trần ai Rền một trời, đùng đùng xao động, Tài oanh liệt, mấy ngọn gươm vàng Rạch một sơn hà, mặc dầu ngang dọc.</sent>
+        </p>
+        <p>
+          <sent id="s119">Giữa trời đây sợ ai?</sent>
+        </p>
+        <p>
+          <sent id="s120">Công hầu vương bá Thả giữa giang hồ, cây núi tưng bừng, Mặc sức tung hoành, chơi hoành chơi.</sent>
+        </p>
+        <p>
+          <sent id="s121">Ngang triều đình, đứng riêng một nơi Công hầu khanh tướng làm chi cho nhọc tấm thân.</sent>
+        </p>
+        <p>
+          <sent id="s122">Theo ông Trần Văn Khải Nghệ thuật sân khấu Việt Nam, bản Roméo thì ở Cái Thia Cái Bè - Mỹ Tho từ năm 1910 đã có ban tài tử của Nguyễn Tống Triều tục danh Tư Triều.</sent>
+        </p>
+        <p>
+          <sent id="s123">Ban này gồm Chín Quán độc huyền, Mười Lý tiêu, Bảy Vô đờn cò, Hai Nhiễu tranh, cô Ba Đắc ca, Tư Triều thủ cây đờn kìm.</sent>
+        </p>
+        <p>
+          <sent id="s124">“Phần nhiều tài tử này được chọn đi trình bày cổ nhạc Việt Nam tại cuộc triển lãm ở Pháp.</sent>
+        </p>
+        <p>
+          <sent id="s125">Khi về, họ cho biết rằng Ban tổ chức có cho họ đờn ca trên sân khấu được công chúng đến nghe đông đảo.</sent>
+        </p>
+        <p>
+          <sent id="s126">“Cái ý kiến đờn ca trên sân khấu đã phát sinh từ đó”.</sent>
+        </p>
+        <p>
+          <sent id="s127">Một vùng đất khác làm rạng danh cho Miệt Vườn là vùng Vĩnh Kim Đông chợ Giữa thuộc tỉnh Mỹ Tho. Vĩnh Kim Đông là nơi chôn nhau cắt rún của ông Phan Hiển Đạo, đậu tấn sĩ hồi cựu trào, vùng Vĩnh Kim là đất xưa, quan chưởng cơ Nguyễn Hữu Cảnh năm 1.700 đã đình binh và mất tại đây.</sent>
+        </p>
+        <p>
+          <sent id="s128">Theo ông Nguyễn Liên Phong  Điếu cổ hạ kim thi tập, xuất bản tại Sài Gòn năm 1915 thì Phan Hiển Đạo ra học ở Huế, ngoài việc học kinh sách thánh hiền, còn học nhiều điệu đờn Huế.</sent>
+        </p>
+        <p>
+          <sent id="s129">Vùng chợ Giữa Vĩnh Kim Đông còn một lò tài tử đáng kể nhứt là ông Bảy Triều, bà Trần Ngọc Viện, ông Nguyễn Tri Khương.</sent>
+        </p>
+        <p>
+          <sent id="s130">Miệt Vườn trải qua một thời kỳ sôi nổi với nhạc tài tử, ca ra bộ, gây tiếng vang đến Sài Gòn, trong khi ở vùng Hậu Giang ông Hai Khi người Minh Hương nổi danh là bực kỳ tài về âm nhạc, một mình biểu diễn một lượt ba bốn nhạc khí ở Bạc Liêu.</sent>
+        </p>
+        <p>
+          <sent id="s131">Sáng chế ra điệu Dạ Cổ Hoài Lang vọng cổ là ông Sáu Lầu.</sent>
+        </p>
+        <p>
+          <sent id="s132">Ông Hai Khị thuộc môn phái nhạc Triều Châu.</sent>
+        </p>
+        <p>
+          <sent id="s133">Năm 1917 đánh dấu một sự chuyển mình quan trọng của ca nhạc.</sent>
+        </p>
+        <p>
+          <sent id="s134">Ông André Thận ở Sa Đéc lập gánh hát xiếc, thêm ít màn ca ra bộ để thu hút khán giả.</sent>
+        </p>
+        <p>
+          <sent id="s135">Việc xây dựng ngành sân khấu cải lương là do nhiều người, nhiều yếu tố, nhiều địa phương nhưng gốc cội đầu tiên vẫn là Mỹ Tho, Vĩnh Long, Sa Đéc.</sent>
+        </p>
+        <p>
+          <sent id="s136">Đây là việc làm mang tính chất sáng tạo, phát huy văn hóa truyền thống trong hoàn cảnh mới, đón nhận cái hay, cái đẹp của văn hóa nước ngoài, không bài ngoại, không thủ cựu, biết thu nhận cách sắp xếp của sân khấu Tây phương tranh cảnh, sơn thủy thay đổi; màn, cảnh mạch lạc, phối hợp với nét đẹp cũ tuồng phải có hậu, dùng lời ca, nói lối, đón nhận những bài bản Quảng Đông, thiên về quảng đại dân chúng, gần với thực tế.</sent>
+        </p>
+        <p>
+          <sent id="s137">Lúa gạo bán có giá, cây trái được mùa, một tiểu điền chủ nếu khéo léo dành dụm tiền bạc có thể cho con du học bên Pháp để khi trở về trở thành ông bác vật, trạng sư, y sĩ hoặc là không đỗ đạt gì hết, cứ ăn chơi lêu lổng trở thành công tử.</sent>
+        </p>
+        <p>
+          <sent id="s138">Đường giao thông thủy bộ phát triển, người bực trung ở Miệt Vườn dư hoàn cảnh để đi chợ tỉnh hoặc đi Sài Gòn, Chợ Lớn một năm đôi ba lần, mua sắm những món cần thiết, luôn cả những xa xí phẩm; tiết kiệm năm bảy tháng, ăn xài đôi ngày cho thỏa thích.</sent>
+        </p>
+        <p>
+          <sent id="s139">Trong một tạp chí cũ, ấn hành vào năm 1925, thấy đăng tải lời quảng cáo của công ty chuyên chở đường sông, gọi nôm na là “tàu Nam Vang, tàu Mỹ Tho”.</sent>
+        </p>
+        <p>
+          <sent id="s140">Lộ trình này nối liền những vùng dọc sông Tiền, dọc sông Hậu.</sent>
+        </p>
+        <p>
+          <sent id="s141">Đây là lộ trình “Miệt Vườn” qua tất cả vị trí quan trọng của đồng bằng sông Cửu Long. 1 Đường Sài Gòn lên Nam Vang: chuyến đi và chuyến về giống nhau: Sài Gòn, Mỹ Lợi, Mỹ Tho, Vĩnh Long, Sa Đéc, Đất Sét, Cái Tàu, Cao Lãnh, Cù Lao Tây, Hồng Ngự, Tân Châu, Ba Nam, Nam Vang.</sent>
+        </p>
+        <p>
+          <sent id="s142">Câu ca dao gợi hứng, nhờ những chuyến tàu này: Tàu Nam Vang chạy ngang cồn cát, Xuồng câu tôm bơi sát mé nga.</sent>
+        </p>
+        <p>
+          <sent id="s143">Thấy em cha yếu, mẹ già, Muốn vô hoạn dưỡng, biết là được không? 2 Đường thủy từ Sài Gòn tới Đại Ngãi bờ Hậu Giang thuộc tỉnh Sóc Trăng qua Châu Đốc:</sent>
+        </p>
+        <p>
+          <sent id="s144">- Sài Gòn, Mỹ Tho, Cái Bè, Vĩnh Long, Sa Đéc, Cao Lãnh, Châu Đốc, Long Xuyên, Bò Hút, Lai Vung, Ô Môn, Cần Thơ, Trà Ôn, Cầu Kè, Đại</sent>
+        </p>
+        <p>
+          <sent id="s145">Ngãi.</sent>
+        </p>
+        <p>
+          <sent id="s146">Điền chủ Miệt Vườn đi Sài Gòn dễ dàng, họ ăn cao lầu, xem sở thú, mua máy hát, đèn măn sông, đèn tọa đăng, ly chén, rượu “cỏ nhác”, tủ sắt.</sent>
+        </p>
+        <p>
+          <sent id="s147">Người đi tỉnh lỵ, đi Sài Gòn về nhà thuật lại điều tai nghe mắt thấy cho bà con chòm xóm nghe, người chòm xóm cũng ráng dành dụm tiền bạc để mua sắm, cho kịp thời.</sent>
+        </p>
+        <p>
+          <sent id="s148">Lần hồi, người dân làm quen với chiếc xe máy, với cái máy hát.</sent>
+        </p>
+        <p>
+          <sent id="s149">Họ được chụp hình, thấy chiếc xe hơi.</sent>
+        </p>
+        <p>
+          <sent id="s150">Người Miệt Vườn tuy thua người Sài Gòn nhưng không hẳn là “quê rít quê rang” như dân ở vùng xa xuôi Cà Mau, Đồng Tháp Mười, hoặc Thất Sơn.</sent>
+        </p>
+        <p>
+          <sent id="s151">Họ đủ tiền để mua sắm.</sent>
+        </p>
+        <p>
+          <sent id="s152">Có lẽ về điểm này Miệt Vườn vượt hẳn những vùng đồng bằng ở miền Trung và miền Bắc.</sent>
+        </p>
+        <p>
+          <sent id="s153">Lẽ dĩ nhiên, vài chuyện khôi hài xảy ra, khi người nông dân mới bắt đầu làm quen với máy móc Tây phương.</sent>
+        </p>
+        <p>
+          <sent id="s154">Xin trích dẫn chi tiết do ông Việt Cúc biên soạn  Gò Công cảnh cũ người xưa  về cuộc đua xe máy ở Gò Công vào năm 1917: “Cách đây lối 50 năm 1917 chánh quyền Pháp đem về Gò Công 10 chiếc xe đạp, giao cho sở Bưu Chánh 6 chiếc, để phân phối cho 6 trạm, mỗi trạm có một người đi lấy công văn và thư tín, chạy việc hàng ngày, người ta gọi ấy là tuần giả.</sent>
+        </p>
+        <p>
+          <sent id="s155">“Sáu anh tuần giả lãnh mỗi người một chiếc, ông xếp bảo đem về nhà, ngày mai dẫn đến sân vận động sẽ có chuyên viên đến tập cho các anh, trong một tuần lễ thì cỡi được.</sent>
+        </p>
+        <p>
+          <sent id="s156">“Đến sân vận động, có hai chuyên viên ở Sài Gòn xuống tập cho mấy anh tuần giả...</sent>
+        </p>
+        <p>
+          <sent id="s157">“Thuở ấy có bài thi khen tặng rằng: Lên yên chân đạp phải tay ghì, Hai bánh tròn xoay chạy tít đi.</sent>
+        </p>
+        <p>
+          <sent id="s158">Thiên lý ruổi dung, tày vó ký Khá khen ngựa sắt với gan lì”.</sent>
+        </p>
+        <p>
+          <sent id="s159">Tết năm ấy 1917, ban tổ chức bày thêm cuộc đua xe máy, tám người dự cuộc, toàn là nhơn viên Bưu Chánh tham dự.</sent>
+        </p>
+        <p>
+          <sent id="s160">Ngoài ra chưa có ai biết đạp và sắm xe này.</sent>
+        </p>
+        <p>
+          <sent id="s161">Máy bay từ Sài Gòn bay xuống Gò Công năm 1913, đó là loại máy bay xưa với hai khuông cánh vuông dài, chằng chịt nhiều thanh sắt nhỏ.</sent>
+        </p>
+        <p>
+          <sent id="s162">“Người lạc quan thì luận rằng: Người ta sau này tự do thong thả, đi mây về gió, muốn đi đâu khắp thế giới, năm châu bốn biển, khỏi sợ non cao bể cả cách ngăn nữa, thật là có ích lắm”.</sent>
+        </p>
+        <p>
+          <sent id="s163">“Phái bi quan luận rằng: Hành thuyền, kỵ mã tam phân mạng, thuở đến giờ, cỡi ngựa đi thuyền có bị tai nạn rủi ro xảy ra.</sent>
+        </p>
+        <p>
+          <sent id="s164">Huống chi cái máy này bay trên trời xanh, làm sao tránh khỏi lúc hư hỏng máy móc, nó sa xuống đất, mới lấy gì mà đỡ nổi”.</sent>
+        </p>
+        <p>
+          <sent id="s165">Cái máy hát còn gọi là giàn hát máy, kiểu xưa với ống loa một bên, quả thật là một thứ kỳ quan đối với nông dân vào khoảng trước 1930.</sent>
+        </p>
+        <p>
+          <sent id="s166">Thoạt tiên, mấy ông điền chủ đi Sài Gòn mua về, dân lối xóm tới xem.</sent>
+        </p>
+        <p>
+          <sent id="s167">“Mỗi khi có tiệc tùng như tân hôn, tân gia, hoặc kỵ cơm ông bà, người ta đến thỉnh ông điền chủ và rước cái máy hát ấy về nhà để giúp vui, trả tiền cho ông rất hậu.</sent>
+        </p>
+        <p>
+          <sent id="s168">“Nơi nào có thỉnh máy hát thì thiên hạ đến xem và nghe hát quá đông, chật ních cả trong ngoài rồi bàn tán xôn xao.</sent>
+        </p>
+        <p>
+          <sent id="s169">“Người thì nói: Nó tom tiếng của người ta vào cái ống loa ấy, rồi cho máy chạy, đưa hơi ra nên mới hát được.</sent>
+        </p>
+        <p>
+          <sent id="s170">“Kẻ thì nói: Họ dùng cách mỵ thuật để trong cái thùng kín này, làm lòa mắt mình, như tụi Sơn Đông hát thuật đó chứ gì!</sent>
+        </p>
+        <p>
+          <sent id="s171">Lại có người mê tín cho là bắt hồn người ta để vào trong ấy, do bọn phù thủy cao tay ấn bày ra.</sent>
+        </p>
+        <p>
+          <sent id="s172">“Thuở ấy; có nhà Nho luận máy hát như vầy: Văn thinh bất đắc kiến kỳ hình, Sất sá, hô ca, tiếu khả kinh.</sent>
+        </p>
+        <p>
+          <sent id="s173">Huyễn hoặc thế gian, kỳ diệu thuật, Nhược phi thần xuất, diệc tà tinh.</sent>
+        </p>
+        <p>
+          <sent id="s174">Dịch nghĩa: Chỉ nghe hơi tiếng, thấy đâu hình, Phẫn nộ, hô ca, cười, đáng kinh.</sent>
+        </p>
+        <p>
+          <sent id="s175">Mỵ thuật trên đời nhiều phép lạ, Không là thần dị, cũng là tinh”.</sent>
+        </p>
+        <p>
+          <sent id="s176">Cái máy chụp hình nhiếp ảnh đã một lần khiến cho nông dân lo sợ.</sent>
+        </p>
+        <p>
+          <sent id="s177">Cũng theo ông Việt Cúc, năm 1916 ở Gò Công có lễ Khai Thị khánh thành chợ mới, quan to ở Sài Gòn xuống tham dự, quan địa phương cùng lính mã tà đón hầu.</sent>
+        </p>
+        <p>
+          <sent id="s178">Nhiếp ảnh viên đi theo phái đoàn, chụp hình làm kỷ niệm.</sent>
+        </p>
+        <p>
+          <sent id="s179">Dân chúng lo ngại: “Thật là quan Tây họ khôn khéo trật đời, họ đem máy ấy để chụp hình hết quan viên, hương chức tỉnh này.</sent>
+        </p>
+        <p>
+          <sent id="s180">Rồi họ thâu hình, thâu vía vào đó, khiến các người ấy sẽ mất hồn vía hết, đặng cho họ dễ sai khiến, rồi quan chức ta sẽ bệnh, xui xẻo cho mà coi”.</sent>
+        </p>
+        <p>
+          <sent id="s181">Sẵn đây, xin trích dẫn vài đoạn trong Vè Khai Thị Gò Công để chúng ta hình dung lại những trò chơi thuở ấy 1917.</sent>
+        </p>
+        <p>
+          <sent id="s182">Thuở ấy, phương tiện thông tin, thính thị còn chậm chạp nên giới bình dân còn hăng say sáng tác thi ca bình dân, gọi là để tường thuật, truyền khẩu: Tháng giêng năm Tỵ Khai thị Gò Công.</sent>
+        </p>
+        <p>
+          <sent id="s183">Thiên hạ rất đông, Các làng đều đủ Có mời huyện phủ, Lại với tổng làng.</sent>
+        </p>
+        <p>
+          <sent id="s184">Dự tiệc khách quan, Có mời Chánh soái, Chín giờ xe lại, Nhằm bữa mười hai, Các quan đội cai Đi ra lần đón...</sent>
+        </p>
+        <p>
+          <sent id="s185">Những cái cộ thấp, Sắp trước cộ cao, Cộ tốt hẳn hòi, Có rồng lân múa.</sent>
+        </p>
+        <p>
+          <sent id="s186">Có cộ bằng lúa, Nó khéo rõ ràng Trên cộ có tàn Treo cờ gắn chữ.</sent>
+        </p>
+        <p>
+          <sent id="s187">Chữ Tây, Quốc ngữ, Bằng gạo trắng không Có kẻ kết bông, Người thì kết phụng...</sent>
+        </p>
+        <p>
+          <sent id="s188">Dùng gạo trắng để kết chữ kết hình, hoặc dùng bông tươi.</sent>
+        </p>
+        <p>
+          <sent id="s189">Đó là nghệ thuật trang trí, khánh tiết khá độc đáo.</sent>
+        </p>
+        <p>
+          <sent id="s190">Ngoài ra còn dùng lá đủng đỉnh, lá dừa để kết cửa vòng nguyệt.</sent>
+        </p>
+        <p>
+          <sent id="s191">Hoặc dùng bông cau, mo nang, bẹ dừa mà cắt ra, bố trí như tranh sơn thủy.</sent>
+        </p>
+        <p>
+          <sent id="s192">Những kiểu cộ hoa, cộ đèn gợi hình ảnh ngày Nguyên Tiêu của Trung Hoa. “Trong dịp đám cưới, thăng quan dân chúng tha hồ biểu diễn nghề kết bông kết tụi, “bong rạp”.</sent>
+        </p>
+        <p>
+          <sent id="s193">Về phong thủy, người Miệt Vườn chọn nơi “sông sâu nước chảy” để cất nhà.</sent>
+        </p>
+        <p>
+          <sent id="s194">Sông sâu nước chảy nghĩa là không bùn lầy nước đọng.</sent>
+        </p>
+        <p>
+          <sent id="s195">Sông sâu nước chảy là nơi dễ liên lạc với xóm giềng, với mấy làng phụ cận.</sent>
+        </p>
+        <p>
+          <sent id="s196">Nước chảy là điều kiện tối cần thiết để giữ vệ sinh, gọi nôm na là “lấy nước làm sạch”.</sent>
+        </p>
+        <p>
+          <sent id="s197">Chúng tôi thử phác họa một ngôi nhà ở Miệt Vườn, chủ nhân là điền chủ bực trung.</sent>
+        </p>
+        <p>
+          <sent id="s198">Nhiều ngôi nhà cất sau này dùng hàng rào sắt, có xây hồ nước lộ thiên, có lầu.</sent>
+        </p>
+        <p>
+          <sent id="s199">Theo ý chúng tôi thì những ngôi nhà tân thời ấy, không tiêu biểu cho lắm, tốt hơn là nên chọn lựa một kiểu nhà hơi xưa, cất vào khoảng năm 1905-1910, lần hồi gia chủ mua sắm thêm bàn ghế bên trong, tu bổ lại.</sent>
+        </p>
+        <p>
+          <sent id="s200">Địa điểm chọn lựa là vùng Cái Bè, ở bờ sông Tiền, nơi nổi tiếng nhờ vườn cam và cũng là vùng đất xưa.</sent>
+        </p>
+        <p>
+          <sent id="s201">Hy vọng rằng kiểu nhà sau đây - nhà của điền chủ - nói lên được phần nào cách ăn ở của người Miệt Vườn hồi đầu thế kỷ, với nhiều tiểu dị nhưng cũng có nhiều nét đại đồng[73].</sent>
+        </p>
+        <p>
+          <sent id="s202">Những người phú nông, trung nông cất nhà theo quan niệm ăn ở và thẩm mỹ ấy, nhiều chi tiết được thay đổi tùy theo túi tiền của gia chủ.</sent>
+        </p>
+        <p>
+          <sent id="s203">Mỗi nhà là một cung điện bình dân, với nhà thủy tạ, với sân rộng, hòn non bộ, cây kiểng.</sent>
+        </p>
+        <p>
+          <sent id="s204">Sau nhà là vườn tược, trước sân và bên hông thì trồng cây để lấy bóng mát.</sent>
+        </p>
+        <p>
+          <sent id="s205">Nhà không quá kín đối với người ngoài.</sent>
+        </p>
+        <p>
+          <sent id="s206">Nhà mát cất ở mé sông, kiểu nhà thủy tạ, có “băng” bằng cây đóng chung quanh.</sent>
+        </p>
+        <p>
+          <sent id="s207">Đây là nơi lý tưởng để ngắm cảnh khi trăng lên, khi nước lớn.</sent>
+        </p>
+        <p>
+          <sent id="s208">Bên cầu mát là trại lá nhỏ để ghe xuồng đậu, từ chiếc ghe hầu, mui ghe chạm trổ phết vàng sơn son, đến chiếc ghe lường, xuồng be, xuồng vỏ gòn.</sent>
+        </p>
+        <p>
+          <sent id="s209">Rời nhà mát, gặp con đường cái, chạy dài theo mé rạch.</sent>
+        </p>
+        <p>
+          <sent id="s210">Qua lộ, đến cổng vào nhà.</sent>
+        </p>
+        <p>
+          <sent id="s211">Cổng ít khi đóng lại, nhiều khi không có cửa.</sent>
+        </p>
+        <p>
+          <sent id="s212">Cổng bằng cây, bằng gạch.</sent>
+        </p>
+        <p>
+          <sent id="s213">Nếu túng thiếu hoặc yêu mến thiên nhiên, cứ trồng cây, uốn cho nhánh giao lại theo hình vòng nguyệt, hai bên là hàng rào bằng cây khô hoặc cây tươi như dâm bụt, cây trà kiểng, cây kim quít.</sent>
+        </p>
+        <p>
+          <sent id="s214">Từ cổng vào nhà là con đường lót gạch tàu, bên đường viền cỏ dền tây, bông nở ngày, bông vạn thọ hoặc cây đinh lăng.</sent>
+        </p>
+        <p>
+          <sent id="s215">Bàn thờ ông thiên dựng giữa sân, gần đường cái.</sent>
+        </p>
+        <p>
+          <sent id="s216">Nhiều khi gia chủ bố trí thêm một cây trụ, trên chót là cái lồng cửa kiếng, ban đêm thắp ngọn đèn dầu lửa cho vui.</sent>
+        </p>
+        <p>
+          <sent id="s217">Hai bên đường, lắm khi xây bồn tròn, trồng một hai cây tùng hoặc cây trắc bá diệp, cây thiên tuế.</sent>
+        </p>
+        <p>
+          <sent id="s218">Đến gần hàng ba là gặp đôi ba cặp kiểng, một cái hòn non bộ.</sent>
+        </p>
+        <p>
+          <sent id="s219">Kiểng ở Miệt Vườn là sự sáng tạo đáng lưu ý, nuôi và uốn với đường nét, quan niệm thẩm mỹ khá độc đáo, khác lối uốn kiểng của người Trung Hoa, của miền Trung hoặc Bắc Phần; nào là kiểng uốn theo kiểu xuy phong, mẫu tử, với những tàn tiêu biểu cho tam tùng, tứ đức hoặc tam cang ngũ thường, trên chót là ba nhánh nhỏ, tiêu biểu cho nhựt, nguyệt, tinh.</sent>
+        </p>
+        <p>
+          <sent id="s220">Nhánh kiểng phải “hô, ứng”, nhánh này nghinh thiên, nhánh kia yểm địa.</sent>
+        </p>
+        <p>
+          <sent id="s221">Chúng ta đến trước hàng ba, nhà ba căn với một hoặc hai chái.</sent>
+        </p>
+        <p>
+          <sent id="s222">Từ trước đến sau, có ba phần rõ rệt: 1 Phần thứ nhứt là hàng ba và phòng khách.</sent>
+        </p>
+        <p>
+          <sent id="s223">Hàng ba lót gạch tàu.</sent>
+        </p>
+        <p>
+          <sent id="s224">Phòng khách thì ít khi lót gạch, nếu có thì chỉ là một phần ở phía trước mà thôi.</sent>
+        </p>
+        <p>
+          <sent id="s225">Theo quan niệm cổ truyền, ông già bà cả thích nền đất hơn nền lót gạch.</sent>
+        </p>
+        <p>
+          <sent id="s226">Đi chân trên đất là hợp theo sự hòa hợp âm dương.</sent>
+        </p>
+        <p>
+          <sent id="s227">Nhà có ba căn.</sent>
+        </p>
+        <p>
+          <sent id="s228">Căn giữa dành để tiếp khách quí, thường là bộ trường kỷ, hai chiếc ghế dài để hai bên một cái bàn dài.</sent>
+        </p>
+        <p>
+          <sent id="s229">Ghế bằng cây danh mộc, chạm trổ tùng lộc, mai điểu, mặt và đai ghế lót đá cẩm thạch Vân Nam, những gân đá gợi bóng dáng mây núi, mặt trời, mặt trăng.</sent>
+        </p>
+        <p>
+          <sent id="s230">Hai căn bên dành cho hai bộ ván gõ.</sent>
+        </p>
+        <p>
+          <sent id="s231">Bộ ván bên trái từ bên ngoài nhìn vào dành cho các bà, có ống nhổ, một cái bàn nhỏ ở đầu bộ ván, trên bàn là khay trầu, bình vôi, ô trầu, tô lớn để súc miệng trước khi ăn trầu.</sent>
+        </p>
+        <p>
+          <sent id="s232">Mỗi gốc cột đều treo liễn thếp vàng, cẩn xa cừ, hoặc liễn kè bằng cây kè.</sent>
+        </p>
+        <p>
+          <sent id="s233">Bộ ván bên tay phải từ bên ngoài nhìn vào dành cho khách nằm nghỉ trưa, hoặc để dọn cơm đãi khách.</sent>
+        </p>
+        <p>
+          <sent id="s234">Trên bộ ván, thường trải chiếu bóng, hai ba cái gối vuông.</sent>
+        </p>
+        <p>
+          <sent id="s235">Mùa nóng nực, khách đến nhà là cứ nằm cho khỏe, không bắt buộc phải ngồi thòng chân để ra vẻ trang nghiêm.</sent>
+        </p>
+        <p>
+          <sent id="s236">Đối với bạn thân, chủ nhà mời bạn nằm nghỉ giây lát, đưa quạt cho bạn phe phẩy.</sent>
+        </p>
+        <p>
+          <sent id="s237">Sau đó, bạn mới ngồi dậy để uống trà hoặc uống nước dừa tươi.</sent>
+        </p>
+        <p>
+          <sent id="s238">Nói chung thì thời xưa, đàn ông quen và thích ngồi xếp bằng.</sent>
+        </p>
+        <p>
+          <sent id="s239">Ngồi ghế trường kỷ mà rút chân lên theo kiểu xếp bằng thì không có gì là vô phép cả.</sent>
+        </p>
+        <p>
+          <sent id="s240">Nhiều khi chủ nhà giăng sẵn một hai cái võng để nằm lúc mỏi lưng, khi trời nực.</sent>
+        </p>
+        <p>
+          <sent id="s241">Sau bộ ghế trường kỷ là cái bàn nhỏ tròn hoặc vuông để một mớ đèn tọa đăng, đèn chong hoặc đèn măng sông.</sent>
+        </p>
+        <p>
+          <sent id="s242">Mỗi buổi chiều, con cái trong nhà lo dầu đèn, châm dầu cho đầy bình, chùi ống khói, rất tốn kém thì giờ.</sent>
+        </p>
+        <p>
+          <sent id="s243">Sau cái bàn ấy còn một bộ ván khác.</sent>
+        </p>
+        <p>
+          <sent id="s244">Bên tay mặt, sau cái bộ ván dành cho khách nằm nghỉ trưa, là cái tủ kiếng khá to đựng năm ba cái gối thêu ở ngăn dưới, ngăn trên để rượu thuốc, rượu tây thông dụng nhứt là rượu ắp-xanh, cỏ-nhác, dùng để đãi khách một ly nhỏ, rượu mạnh cũng là thuốc trị đau bụng, thiên thời.</sent>
+        </p>
+        <p>
+          <sent id="s245">Ở phòng khách, nói đúng hơn là phần dành để tiếp rước bạn bè, chúng ta thấy ba bốn bộ ván dành khi đám giỗ, khi con cháu về thăm ông bà.</sent>
+        </p>
+        <p>
+          <sent id="s246">Tại đây, không có vách ngăn, bên này ăn thẳng qua bên kia, khoảng khoát. 2 Hết phần trước, đến phần giữa ngôi nhà.</sent>
+        </p>
+        <p>
+          <sent id="s247">Đây là khu vực dành riêng cho gia chủ, dùng làm nơi thờ phụng ông bà.</sent>
+        </p>
+        <p>
+          <sent id="s248">Trên là tấm biển, nêu rõ “Hồ phủ” hoặc “Trần phủ đường”, sát hai bên cột có khung chạm lọng thếp vàng, nào là tùng lộc, bát tiên gắn vào khung này dường như có tên là “bao lam”.</sent>
+        </p>
+        <p>
+          <sent id="s249">Bước vào khu vực này, ngay ở căn giữa, chúng ta gặp một bộ ván.</sent>
+        </p>
+        <p>
+          <sent id="s250">Căn bên phải, từ ngoài nhìn vào là cái giường ngủ, dành cho người lớn tuổi nhứt trong gia đình ông, bà.</sent>
+        </p>
+        <p>
+          <sent id="s251">Căn bên trái là chỗ dành cho cái rương to, rương xe.</sent>
+        </p>
+        <p>
+          <sent id="s252">Bàn thờ ông bà gồm ba bàn, một ở giữa, hai ở hai bên.</sent>
+        </p>
+        <p>
+          <sent id="s253">Ngay trên bàn thờ giữa, hơi thụt về phía sau và ở trên cao thường có cái khám để thờ ông Quan Công. 3 Sau bàn thờ là phần thứ ba của ngôi nhà, với hai khung treo màn.</sent>
+        </p>
+        <p>
+          <sent id="s254">Bên trái từ ngoài nhìn vào là phòng the, dành cho đàn bà, con gái.</sent>
+        </p>
+        <p>
+          <sent id="s255">Bên mặt là khu vực để lu gạo và sóng chén; hàng năm bảy chục cái chén, tô, dành khi ngày giỗ thì đem ra.</sent>
+        </p>
+        <p>
+          <sent id="s256">Đến đây là dứt ngôi nhà trên.</sent>
+        </p>
+        <p>
+          <sent id="s257">Thuở xưa, ít có nhà cầu, nối nhà trên xuống nhà dưới.</sent>
+        </p>
+        <p>
+          <sent id="s258">Trong nhà dưới là bộ ván, giàn bếp, bộ vạc dành cho bạn bè tôi tớ.</sent>
+        </p>
+        <p>
+          <sent id="s259">Một bên dành cho cái xe gió để giê lúa, sau khi xay, cối xay lúa, cối giã gạo, cối quết chuối heo ăn.</sent>
+        </p>
+        <p>
+          <sent id="s260">Phía sau nhà dưới còn vài cái trại nhỏ, nơi vựa củi, lại còn chuồng heo, chuồng gà, giáp ranh với khu vườn là mương nhỏ, ăn thông ra sông rạch trước nhà.</sent>
+        </p>
+        <p>
+          <sent id="s261">Chái bên hông nhà trên là nơi dự trữ nước mưa, gồm một hàng năm bảy cái lu to, kiểu lu mái đầm bốn vú.</sent>
+        </p>
+        <p>
+          <sent id="s262">Nhìn chung, chúng ta thấy quá nhiều bộ ván, bốn năm bộ.</sent>
+        </p>
+        <p>
+          <sent id="s263">Nhiều khi mấy bộ ván này để dành đóng quan tài, khi trong nhà có người qua đời.</sent>
+        </p>
+        <p>
+          <sent id="s264">Nhà thấp không cửa sổ nên tối om om.</sent>
+        </p>
+        <p>
+          <sent id="s265">Công việc nặng nhọc nhất trong nhà vẫn là quét dọn, lau chùi bàn ghế và mấy bộ ván.</sent>
+        </p>
+        <p>
+          <sent id="s266">Bộ ván phải lau chùi thường xuyên cho sạch bụi, chủ nhà đốc thúc con cháu đánh bóng cho ván “lên nước”, dùng trái dừa khô đẹt, cắt làm hai mà chùi, mà dồi.</sent>
+        </p>
+        <p>
+          <sent id="s267">Kiểu nhà trên đây lần hồi được cải cách, thay vì vách ván thì đổi ra vách tường.</sent>
+        </p>
+        <p>
+          <sent id="s268">Nền nhà xây thật cao, cao ngang ngực.</sent>
+        </p>
+        <p>
+          <sent id="s269">Và nguyên lý “âm dương” lần hồi không còn được tôn trọng nữa.</sent>
+        </p>
+        <p>
+          <sent id="s270">Cứ dùng gạch tàu hoặc gạch bông mà lót suốt từ trước tới sau.</sent>
+        </p>
+        <p>
+          <sent id="s271">Phía trước nhà, người ta xây hai phía thang gạch, từ bên trái hoặc từ bên mặt, khách vào nhà đi ngang, từ góc nhà vào căn giữa.</sent>
+        </p>
+        <p>
+          <sent id="s272">Trên bực lan can, nhiều chậu kiểng sắp hàng, tăng thêm phần mát mẻ, vui tươi.</sent>
+        </p>
+        <p>
+          <sent id="s273">Nhiều nhà bố trí hai chái hai bên, nhờ vậy ngôi nhà được cân đối.</sent>
+        </p>
+        <p>
+          <sent id="s274">Bên vách, đôi ba cửa sổ lá sách đem ánh nắng vào trong.</sent>
+        </p>
+        <p>
+          <sent id="s275">Trước kia ít ai tra cửa sổ, e rằng quân gian dễ dòm ngó, cưa cạy.</sent>
+        </p>
+        <p>
+          <sent id="s276">Trong nhà, mấy bộ trường kỷ, bộ ván, bàn thờ, buồng ngủ vẫn bố trí theo tứ tự cổ điển, từ trước đến sau: 1.- Nơi tiếp khách 2.- Nơi thờ phượng ông bà 3.- Buồng che kín, dành cho vợ chồng hoặc con cái.</sent>
+        </p>
+        <p>
+          <sent id="s277">Nhà bếp cất rời, nếu dư nhiều lúa thì bồ lúa để riêng ở nhà lẫm.</sent>
+        </p>
+        <p>
+          <sent id="s278">Những gia đình nghèo túng thường chỉ có bộ vạt để ngồi tiếp khách, một cái buồng.</sent>
+        </p>
+        <p>
+          <sent id="s279">Về cầu thang dưới bến, tùy theo nước lớn nước ròng mà người ngồi trên bậc thang cao hay thấp rửa chén, làm cá, giặt quần áo, tắm rửa.</sent>
+        </p>
+        <p>
+          <sent id="s280">Cầu vệ sinh cũng cất gần đó, vật ô uế trôi theo dòng nước.</sent>
+        </p>
+        <p>
+          <sent id="s281">Nhiều gia đình theo “tân thời” thích bày biện những món hàng nhập cảng: ghế mây “tô-nê”, bàn mặt cẩm thạch Ý Đại Lợi, tủ sắt, trên vách treo đồng hồ “con ngựa”, những bức tranh Thụy Sĩ với hồ xanh, núi tuyết.</sent>
+        </p>
+        <p>
+          <sent id="s282">Hoặc những tĩnh vật “quả tử” với cá thu, tôm hùm hoặc trái nho, trái lê.</sent>
+        </p>
+        <p>
+          <sent id="s283">Ngoài ra còn tranh in nhiều màu, mua từ Sài Gòn, vẽ cảnh săn sấu lửa ở Phi Châu, săn cá nược, cá ông ở miền Bắc Cực.</sent>
+        </p>
+        <p>
+          <sent id="s284">Nhiều gia chủ thích liễn cẩn, biển thếp vàng hoặc thích những kiểu đèn treo có chụp bằng sành, bằng pha lê, muốn hạ cây đèn hoặc rút lên thì cứ nắm sợi dây xích mà kéo.</sent>
+        </p>
+        <p>
+          <sent id="s285">Nhà thuộc từng lớp nghèo hoặc tiểu chủ thì xài đồ nội hóa: bàn ghế, tranh thờ theo kiểu sản xuất hàng loạt từ Lái Thiêu, Thủ Dầu Một.</sent>
+        </p>
+        <p>
+          <sent id="s286">Tranh thờ tiêu biểu nhứt là “sơn thủy” với con sông, trên bờ là nhà ngói, sông chảy ra biển, ngoài khơi là ba hòn đảo với vài cánh chim bay, liễn đối ghi là: Sơn thủy hữu tình thiên lý ngoại...</sent>
+        </p>
+        <p>
+          <sent id="s287">Mấy bộ ván, bộ cột nhà ở Miệt Vườn thường là mua từ trên Lèo, trên Cao Miên, cây thả bè đem về, gọi là cây ở Sông Lớn Cửu Long.</sent>
+        </p>
+      </level1>
+    </body>
+  </book>
+</dtbook>

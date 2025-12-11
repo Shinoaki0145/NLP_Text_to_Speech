@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="2.0">
+
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:Identifier id="uid">978-604-1-12853-8</dc:Identifier>
+      <dc:Title>Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa &amp; Văn Minh Miệt Vườn</dc:Title>
+      <dc:Creator>Sơn Nam</dc:Creator>
+      <dc:Publisher>NXB Trẻ</dc:Publisher>
+      <dc:Subject>Văn học &amp; Tiểu thuyết</dc:Subject>
+      <dc:Subject>Biên khảo</dc:Subject>
+      <dc:Description>Tác phẩm biên khảo về đồng bằng sông Cửu Long, văn hóa và sinh hoạt truyền thống của vùng đất Nam Bộ</dc:Description>
+      <dc:Date>2013</dc:Date>
+      <dc:Source>978-604-1-12853-8</dc:Source>
+      <dc:Language>vi</dc:Language>
+      <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+    </dc-metadata>
+
+    <x-metadata>
+      <meta name="dtb:multimediaContent" content="audio,text"/>
+      <meta name="dtb:audioFormat" content="wav"/>
+      <meta name="dtb:narrator" content="Quang Điền" />
+      <meta name="thumb" content="xml_smil_output/Bìa sách.png"/>
+      <meta name="dtb:producer" content="Thư viện sách nói dành cho người mù" />
+      <meta name="dtb:sourceRights" content="NHÀ XUẤT BẢN TRẺ GIỮ BẢN QUYỀN. Copyright © 2003, 2009 Tre Publishing House Co.Ltd"/>
+      <meta name="dtb:totalTime" content="11:49:02" />
+      <meta name="dtb:multimediaType" content="textAndAudio" />
+    </x-metadata>
+  </metadata>
+
+  <manifest>
+    <!-- File ncx -->
+    <item id="toc" href="main.ncx" media-type="application/x-dtbncx+xml"/>
+    <!-- Cover image -->
+    <item id="cover" href="xml_smil_output/Bìa sách.png" media-type="image/png"/>
+
+    <!-- SMIL files -->
+    <item id="smil_01" href="xml_smil_output/01.smil" media-type="application/smil"/>
+    <item id="smil_02" href="xml_smil_output/02.smil" media-type="application/smil"/>
+    <item id="smil_03" href="xml_smil_output/03.smil" media-type="application/smil"/>
+    <item id="smil_04" href="xml_smil_output/04.smil" media-type="application/smil"/>
+    <item id="smil_05" href="xml_smil_output/05.smil" media-type="application/smil"/>
+    <item id="smil_06" href="xml_smil_output/06.smil" media-type="application/smil"/>
+    <item id="smil_07" href="xml_smil_output/07.smil" media-type="application/smil"/>
+    <item id="smil_08" href="xml_smil_output/08.smil" media-type="application/smil"/>
+    <item id="smil_09" href="xml_smil_output/09.smil" media-type="application/smil"/>
+    <item id="smil_10" href="xml_smil_output/10.smil" media-type="application/smil"/>
+    <item id="smil_11" href="xml_smil_output/11.smil" media-type="application/smil"/>
+    <item id="smil_12" href="xml_smil_output/12.smil" media-type="application/smil"/>
+    <item id="smil_13" href="xml_smil_output/13.smil" media-type="application/smil"/>
+    <item id="smil_14" href="xml_smil_output/14.smil" media-type="application/smil"/>
+    <item id="smil_15" href="xml_smil_output/15.smil" media-type="application/smil"/>
+    <item id="smil_16" href="xml_smil_output/16.smil" media-type="application/smil"/>
+    <item id="smil_17" href="xml_smil_output/17.smil" media-type="application/smil"/>
+
+    <!-- XML text files -->
+    <item id="xml_01" href="xml_smil_output/01.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_02" href="xml_smil_output/02.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_03" href="xml_smil_output/03.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_04" href="xml_smil_output/04.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_05" href="xml_smil_output/05.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_06" href="xml_smil_output/06.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_07" href="xml_smil_output/07.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_08" href="xml_smil_output/08.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_09" href="xml_smil_output/09.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_10" href="xml_smil_output/10.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_11" href="xml_smil_output/11.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_12" href="xml_smil_output/12.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_13" href="xml_smil_output/13.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_14" href="xml_smil_output/14.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_15" href="xml_smil_output/15.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_16" href="xml_smil_output/16.xml" media-type="application/x-dtbook+xml"/>
+    <item id="xml_17" href="xml_smil_output/17.xml" media-type="application/x-dtbook+xml"/>
+
+    <!-- Audio files -->
+    <item id="audio_01" href="corpus/01.wav" media-type="audio/"x-wav"/>
+    <item id="audio_02" href="corpus/02.wav" media-type="audio/"x-wav"/>
+    <item id="audio_03" href="corpus/03.wav" media-type="audio/"x-wav"/>
+    <item id="audio_04" href="corpus/04.wav" media-type="audio/"x-wav"/>
+    <item id="audio_05" href="corpus/05.wav" media-type="audio/"x-wav"/>
+    <item id="audio_06" href="corpus/06.wav" media-type="audio/"x-wav"/>
+    <item id="audio_07" href="corpus/07.wav" media-type="audio/"x-wav"/>
+    <item id="audio_08" href="corpus/08.wav" media-type="audio/"x-wav"/>
+    <item id="audio_09" href="corpus/09.wav" media-type="audio/"x-wav"/>
+    <item id="audio_10" href="corpus/10.wav" media-type="audio/"x-wav"/>
+    <item id="audio_11" href="corpus/11.wav" media-type="audio/"x-wav"/>
+    <item id="audio_12" href="corpus/12.wav" media-type="audio/"x-wav"/>
+    <item id="audio_13" href="corpus/13.wav" media-type="audio/"x-wav"/>
+    <item id="audio_14" href="corpus/14.wav" media-type="audio/"x-wav"/>
+    <item id="audio_15" href="corpus/15.wav" media-type="audio/"x-wav"/>
+    <item id="audio_16" href="corpus/16.wav" media-type="audio/"x-wav"/>
+    <item id="audio_17" href="corpus/17.wav" media-type="audio/"x-wav"/>
+  </manifest>
+
+  <spine>
+    <itemref idref="smil_01"/>
+    <itemref idref="smil_02"/>
+    <itemref idref="smil_03"/>
+    <itemref idref="smil_04"/>
+    <itemref idref="smil_05"/>
+    <itemref idref="smil_06"/>
+    <itemref idref="smil_07"/>
+    <itemref idref="smil_08"/>
+    <itemref idref="smil_09"/>
+    <itemref idref="smil_10"/>
+    <itemref idref="smil_11"/>
+    <itemref idref="smil_12"/>
+    <itemref idref="smil_13"/>
+    <itemref idref="smil_14"/>
+    <itemref idref="smil_15"/>
+    <itemref idref="smil_16"/>
+    <itemref idref="smil_17"/>
+  </spine>
+
+</package>

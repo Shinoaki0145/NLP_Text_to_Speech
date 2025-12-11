@@ -1,184 +1,554 @@
 <?xml version="1.0" ?>
-<sentences id="14">
-  <sentence id="s1" start="2.510" end="4.840">Nhà có rào, sân, vườn tược, ao.</sentence>
-  <sentence id="s2" start="5.250" end="8.670">Đó là quan niệm về cư trú không riêng gì của người Miệt Vườn.</sentence>
-  <sentence id="s3" start="9.410" end="16.220">Nhưng chúng ta thấy cái ao mất hẳn, trước nhà có sông, sau nhà đã có mương vườn rồi.</sentence>
-  <sentence id="s4" start="16.890" end="27.220">Nói chung thì rào trước nhà hơi thấp, trống trải, chủ nhà không cố ý che giấu, không xem nhà là một cõi riêng quá bưng bít, kín cổng cao tường.</sentence>
-  <sentence id="s5" start="28.210" end="38.060">Với tình hình kinh tế khả quan, nhứt là sau trận Âu Châu đại chiến 19141918, Miệt Vườn trải qua thời kỳ phồn thịnh.</sentence>
-  <sentence id="s6" start="38.890" end="52.260">Những tỷ dụ về chiếc xe máy, về cái máy chụp hình nêu ra ở phần trên chỉ đánh dấu một giai đoạn chuyển tiếp ngắn ngủi vì đa số dân Miệt Vườn đón nhận kỹ thuật Tây phương với tinh thần cởi mở.</sentence>
-  <sentence id="s7" start="53.060" end="64.910">Tiểu điền chủ sắm máy hát, mấy thầy giáo ở chợ làng, chợ quận dành dụm tiền bạc để mua xe máy; hàng ngày họ sung sướng làm công việc lau chùi, bơm bánh xe.</sentence>
-  <sentence id="s8" start="65.890" end="75.360">Việc hớt tóc ngắn không gặp trở ngại nào đáng kể và không cần cổ động “phen này cắt tóc đi tu, tụng kinh độc lập, ở chùa Duy Tân”.</sentence>
-  <sentence id="s9" start="76.380" end="82.030">Con cháu trong gia đình lo chụp hình khi cha mẹ già yếu để sau này thờ phụng.</sentence>
-  <sentence id="s10" start="82.790" end="85.220">Thờ hình người là bước tiến quan trọng.</sentence>
-  <sentence id="s11" start="85.710" end="89.470">Nhiều bức hình tiêu biểu cho cách ăn mặc, cách phối trí lúc bấy giờ.</sentence>
-  <sentence id="s12" start="90.450" end="98.200">Ông lão đội khăn đóng, mặc áo dài đen, quần trắng, mang dép da, ngồi trên cái ghế có đai.</sentence>
-  <sentence id="s13" start="98.820" end="113.290">Tay ông lão cầm quạt, hoặc buông xuôi để trên cái bàn vuông hoặc tròn, trải tấm “náp” thêu ren, trên bàn là bình chưng bông, nhứt là phải có một cái đồng hồ reo.</sentence>
-  <sentence id="s14" start="114.220" end="132.690">Ông lão hoặc bà lão ngồi ngay ngắn, nhìn thẳng, đáng chú ý nhứt là mấy ngón tay, xòe ra đủ năm ngón để phô bày đủ hai mắt, hai tay... vì mất hoặc bị che khuất là xui xẻo sau này gặp tai nạn thì thây thi không toàn vẹn.</sentence>
-  <sentence id="s15" start="133.350" end="140.230">Trên mặt, ánh sáng đều đặn, không có bóng đen, đen là màu xui xẻo, mặt mày bị nám.</sentence>
-  <sentence id="s16" start="141.270" end="145.070">Thuở ấy, kỹ thuật nhiếp ảnh, rọi hình không được tinh vi cho lắm.</sentence>
-  <sentence id="s17" start="145.620" end="150.790">Mỗi lần chụp hình là nhiếp ảnh viên điều chỉnh máy móc suốt mười lăm, hai chục phút.</sentence>
-  <sentence id="s18" start="151.550" end="157.290">Vì thiếu ánh sáng nên nóc tiệm lót kiếng, cho ánh sáng rọi xuống.</sentence>
-  <sentence id="s19" start="158.080" end="160.630">Ảnh chụp ra, rửa theo khổ nhỏ.</sentence>
-  <sentence id="s20" start="161.150" end="167.700">Muốn có kiểu lớn thì phải nhờ thợ họa hình, căn cứ theo ảnh nhỏ ấy mà vẽ ra lớn.</sentence>
-  <sentence id="s21" start="168.830" end="172.740">Mỗi nhà khá giả đều chưng hình ông bà, thân nhân trên vách.</sentence>
-  <sentence id="s22" start="172.740" end="178.810">Ông Hồ Biểu Chánh hiểu rành nếp sống ở nông thôn, nhứt là nếp sống của Miệt Vườn.</sentence>
-  <sentence id="s23" start="179.570" end="183.410">Nếu chú ý, chúng ta gặp nhiều đoạn tả cảnh khá tỉ mỉ.</sentence>
-  <sentence id="s24" start="184.070" end="187.860">Tất cả tiểu thuyết của Hồ Biểu Chánh là bức tranh xã hội khá linh động.</sentence>
-  <sentence id="s25" start="189.010" end="201.100">Xem trích lục sau vài đoạn, bắt gặp tình cờ trong quyển “Kẻ Làm Người Chịu”, khi hai nhân vật là Chánh Tâm với Cẩm Vân về Láng Thé Trà Vinh.</sentence>
-  <sentence id="s26" start="202.120" end="206.770">“Chánh Tâm biểu đứa nhỏ vác hoa ly, rồi vợ chồng dắt nhau về nhà.</sentence>
-  <sentence id="s27" start="207.600" end="209.280">“Cẩm Vân sanh đẻ tại Chợ Lớn...</sentence>
-  <sentence id="s28" start="209.710" end="230.020">Hôm nay nàng đi với chồng và lại đi xa quá, thấy tư bề cảnh vật đều lạ mặt hết thảy, bởi vậy nàng khấp khởi trong lòng, lúc bước xuống xe, nàng đến nắm tay chồng mà đi, làm cho Chánh Tâm hớn hở vô cùng, mà cũng làm cho người trong xóm ai thấy cũng ngó.</sentence>
-  <sentence id="s29" start="231.330" end="235.980">“Bước vô cửa rồi, nàng hỏi chồng rằng: “Nhà mình đây hay sao?”.</sentence>
-  <sentence id="s30" start="236.410" end="239.200">Chánh Tâm gật đầu và ngó vợ mà cười.</sentence>
-  <sentence id="s31" start="239.640" end="248.220">Cẩm Vân thấy một cái nhà ngói lớn cất ba căn hai chái, cửa ván, vách tường mà nhà đóng cửa bịt bùng.</sentence>
-  <sentence id="s32" start="248.810" end="252.990">Trước cửa có một cái sân nhỏ, cỏ mọc tàm lam.</sentence>
-  <sentence id="s33" start="254.350" end="260.690">Dựa bên thềm, có mấy bụi nở ngày trổ bông, bụi thì trắng, bụi thì tím.</sentence>
-  <sentence id="s34" start="261.350" end="270.740">Bên tay mặt có cái chuồng trâu, thấy trong chuồng trâu có một bầy, lại có một đứa nhỏ ở truồng ở trần, vác một bó rơm chạy lăng xăng.</sentence>
-  <sentence id="s35" start="272.000" end="283.530">Bên tay trái có một miếng đất ruộng lớn mà trống lỗng, ấy là sân đập lúa vì chưa tới kỳ nên chưa dọn dẹp, bởi vậy heo ủi có lỗ có hang”.</sentence>
-  <sentence id="s36" start="284.320" end="288.990">Quyển Kẻ Làm Người Chịu, viết xong tại An Trường, 1928.</sentence>
-  <sentence id="s37" start="289.910" end="308.550">Sau đây là nếp sống sang trọng của cậu Bác Ái, một chàng trai theo Tây học, đã học ở Sài Gòn, nay về nhà ở Long Kiến Cù lao Ông Chưởng, Long Xuyên, cha của Bác Ái là ông Hội đồng Thới, mỗi năm lúa ruộng góp được bốn năm chục ngàn thùng.</sentence>
-  <sentence id="s38" start="309.140" end="313.330">Bác Ái muốn đi Tây để tiếp tục học vấn nhưng cha mẹ ngăn cản.</sentence>
-  <sentence id="s39" start="314.080" end="316.560">“Anh ta bèn nhứt định ở nhà làm ruộng...</sentence>
-  <sentence id="s40" start="317.010" end="328.570">Anh ta thường xin tiền mẹ rồi gởi lên Sài Gòn mua bốn năm nhựt báo mà xem, và gởi qua Tây mua sách, nhứt là mấy bộ tiểu thuyết hay để dành mà đọc.</sentence>
-  <sentence id="s41" start="329.250" end="335.980">Anh ta lại xin phép cha rồi dọn trọn một cái chái nhà phía trên để làm thơ phòng”.</sentence>
-  <sentence id="s42" start="336.750" end="349.340">Cái thơ phòng ấy được mô tả tỉ mỉ, trong tiểu thuyết “Một Chữ Tình” cũng của Hồ Biểu Chánh, nên chú ý là tiểu thuyết này viết xong hồi tháng 10, năm 1923.</sentence>
-  <sentence id="s43" start="350.310" end="357.840">Bên trong chái ấy là phòng ngủ “Thì để một cái giường sắt, mùng nệm gối mền đều tinh khiết.</sentence>
-  <sentence id="s44" start="358.490" end="389.490">Trên cái đầu giường, có một cái tủ cẩm lai, đựng quần áo đầy dẫy: nào là đồ mát may bằng lụa trắng để bận trong, nào là đồ tây cổ bẻ bằng nỉ trắng hoặc nỉ màu để mặc đi chợ hoặc thăm bà con, Dựa chưn giường thì để giày đủ thứ: đi trong nhà thì giày cườm, giày da láng, dép Nhựt Bổn, dép Bắc Kỳ, đi ra ngoài thì giày thứ trắng để đi nắng, thứ vàng để đi chơi, thứ đen để đi ruộng.</sentence>
-  <sentence id="s45" start="390.360" end="400.210">“Dựa cửa phòng thì móc nón cũng nhiều thứ; thứ nón nỉ đội ban đêm, thứ trắng đội che nắng.</sentence>
-  <sentence id="s46" start="401.130" end="413.260">Trong phòng lại có để một cái bàn gõ mặt cẩm thạch để rửa mặt gội đầu và cũng có để một cái bàn nhỏ với một cái ghế ngồi, để khi nửa đêm thức dậy chong đèn đọc sách...</sentence>
-  <sentence id="s47" start="414.430" end="442.300">“Dựa bên cái ghế dài ấy có sẵn một cái cửa sổ, hễ mở thì ngó ra vườn thấy hàng sa bô chê trồng theo mấy hàng cau, trái đơm đầy nhánh, là là gần sát đất, dường nhem thèm trẻ nhỏ đặng cho nó rờ rẫm tối ngày chơi, ngó xa xa lại có hai cây sứ trắng, bông trổ giáp mấy đầu cành mà không có một u”.</sentence>
-  <sentence id="s48" start="443.050" end="448.040">Và đây là một nhà nghèo của tá điền, trích trong “Kẻ Làm Người Chịu”.</sentence>
-  <sentence id="s49" start="448.730" end="471.900">“Cẩm Vân đứng lại ngó vô nhà, thì thấy trong nhà có một cái bàn thờ mà trên bàn trống trơn, không có chơn đèn, lục bình chi hết, chính giữa có lót một bộ ván dầu, bên tay mặt có để một cái chõng, còn bên tay trái thì có giăng một cái võng, gần đó là có chất cày bừa lộn xộn”.</sentence>
-  <sentence id="s50" start="473.190" end="512.270">Từ dưới sông nhìn lên bờ Tiền Giang, ông Phạm Quỳnh ghi lại Đi tàu thủy từ Mỹ Tho lên Long Xuyên: “Thường trông bên bờ, có những nhà ngói nền cao, cửa kính cửa chớp, hàng rào sắt chạy dài, thềm xây ngay trên mặt nước, ngoài đặt cái cầu nhỏ dựng nhà thủy tọa con, lại thấy vài ba cái “thuyền máy” canots automobiles để chung quanh, hỏi ra thời là nhà thầy cai tổng, cụ điền chủ hay ông hội đồng nào toàn là những mặt phú hào trong một xứ.</sentence>
-  <sentence id="s51" start="513.190" end="518.230">Coi những cơ ngơi đó thì đã biết các bậc chủ nhân ông giàu có là dường nào.</sentence>
-  <sentence id="s52" start="518.790" end="542.110">Có nơi xây trên bờ sông dài đến mấy trăm thước trông những nhà những vườn, những lầu những gác, nhấp nhô như mặt cái thành nhỏ, tàu chạy một thôi thời hết, mà toàn là dinh cơ của một người...” Món ăn và bánh khéo là ngành nữ công khá độc đáo ở Miệt Vườn.</sentence>
-  <sentence id="s53" start="542.540" end="551.920">Văn hóa muốn phát triển mạnh cần vài điều kiện cần thiết là tình hình chính trị kinh tế tạm ổn định, dư tiền và thời giờ rảnh rang.</sentence>
-  <sentence id="s54" start="552.850" end="572.580">Mấy bà mấy cô ở Sa Đéc, Long Xuyên, Vĩnh Long và luôn cả Rạch Giá đã thi tài về bánh khéo, và nấu thức ăn: bánh bò trong, bánh bột lọc, bánh ít trần, bánh men, bánh thuẫn, bánh ướt, bánh xếp, bánh bò ngang, mứt ổi, mứt chuối, mứt chanh, mứt me...</sentence>
-  <sentence id="s55" start="572.910" end="580.620">Lại còn món bánh hỏi thịt quay, bò gác tréo, vịt tiềm hon, dưa đầu heo, mắm tôm, mắm lòng.</sentence>
-  <sentence id="s56" start="581.980" end="596.300">Người đầu tiên chế biến những thức ăn, bánh khéo chưa hẳn là người Miệt Vườn nhưng Miệt Vườn là nơi để thí nghiệm vì các các bà cô dư tiền mua bột mua đường, dư cá tôm để nấu nướng.</sentence>
-  <sentence id="s57" start="597.060" end="615.590">Phải nhìn nhận rằng ở Huế, nhiều người sáng chế ra nhiều loại bánh khá độc đáo, tinh vi, thí dụ như “bánh sen làm bằng bột hạt sen rồi nướng như bánh kẹp; như bánh măng, mụt măng tre nạo ra bột, rồi làm như bánh in”[74].</sentence>
-  <sentence id="s58" start="616.660" end="622.520">Miệt Vườn là nơi bánh khéo phát triển mạnh, có thầy dạy, gần như trở thành phong trào.</sentence>
-  <sentence id="s59" start="623.350" end="640.030">Dịp đám cưới, đám giỗ, cúng đình, đón rước quan trên, hội chợ phiên... là các bà các cô thi tài, con gái nhà đàng hoàng phải biết vài thứ bánh, vài món ăn để thi thố khi về nhà chồng, khi giao thiệp với chị em bạn.</sentence>
-  <sentence id="s60" start="640.900" end="656.860">Gẫm lại thì bánh khéo quả là công trình đáng khen ngợi, quanh đi quẩn lại chỉ có vài nguyên liệu như bột tàn, bột bắc, bột mì, phèn the phi, thuốc tiêu mặn mà sáng chế ra hàng mấy chục thứ bánh, hương vị khác nhau.</sentence>
-  <sentence id="s61" start="658.380" end="666.000">Ngoài bí quyết riêng, không dạy bằng giấy trắng mực đen được, người làm bánh phải có kinh nghiệm, có “hoa tay”.</sentence>
-  <sentence id="s62" start="666.990" end="683.900">Về thức ăn, xin nói sơ qua món “Giang Nam Dã Hạc” nghĩa là con hạc đất Giang Nam, “dã” là đồng ruộng, Giang Nam là tỉnh phía Nam sông Dương Tử bên Tàu, đồng thời cũng ám chỉ là vùng ấm áp ở bờ sông Cửu Long[75].</sentence>
-  <sentence id="s63" start="685.660" end="706.550">Nguyên liệu gồm gà mái tơ, óc heo, ruột gan heo, tôm càng, cua biển, chim se sẻ hay chim giòng giọc và gừng, chanh, rượu trắng, đậu phộng, mè, tương tàu, nước cốt dừa, mỡ chài, mỡ, bột mì, củ hành, củ năng, lạp xưởng, thịt khô, tiêu, đường, nấm hương, măng tre tươi.</sentence>
-  <sentence id="s64" start="707.530" end="711.690">Món ăn chưng bày trên bàn, thực khách gồm chừng năm người.</sentence>
-  <sentence id="s65" start="712.220" end="716.660">Trên bàn, một bó bông giấy chụp xuống che phủ cái dĩa.</sentence>
-  <sentence id="s66" start="717.580" end="721.590">Chủ nhân mời khách và bắt đầu giở bó bông giấy để một bên.</sentence>
-  <sentence id="s67" start="722.090" end="734.160">Cái dĩa lớn hiện ra, chất vun đồ ăn, phía trên chót cao là con gà quay vàng lườm, gà nằm xòe cánh ra, theo dáng điệu gà ấp trứng.</sentence>
-  <sentence id="s68" start="734.700" end="736.540">Chủ nhơn đem con gà xuống.</sentence>
-  <sentence id="s69" start="737.120" end="743.540">Gà đã cắt sẵn ra làm bốn làm năm, mỗi người lãnh một miếng.</sentence>
-  <sentence id="s70" start="744.920" end="751.190">Kế đó là một lớp trứng gà, gọi là trứng khẻ mỏ, mỗi người lãnh một trứng.</sentence>
-  <sentence id="s71" start="751.610" end="764.290">Thật ra, đó là con chim con se sẻ hay giòng giọc lú đầu ra khỏi vỏ, vỏ là ruột heo cột túm lại, nhái theo hình dáng con gà con vừa khẻ mỏ.</sentence>
-  <sentence id="s72" start="765.080" end="769.920">Thực khách ăn cái trứng này với một mớ măng tre luộc, sắp bên dưới trứng.</sentence>
-  <sentence id="s73" start="770.740" end="776.940">Măng tre sắp xếp khéo léo, theo kiểu rơm rạ mà gà dùng lót ổ để đẻ và ấp.</sentence>
-  <sentence id="s74" start="777.670" end="786.280">Ăn hết mớ trứng khẻ mỏ và lớp măng lót ổ thứ nhứt, thực khách bắt đầu qua lớp trứng thứ nhì, gọi là trứng gà ung!</sentence>
-  <sentence id="s75" start="787.330" end="799.910">Đây là món khá ngon, màu sắc giống như trứng gà ung, cái tên xấu xí này ngụ ý khôi hài vì ai dám đem những món hôi hám, phế thải ra đãi khách.</sentence>
-  <sentence id="s76" start="800.540" end="817.090">Trứng gà ung làm bằng gan heo để lấy màu đen ướp đậu, mè, tương, nước cốt dừa, lá chanh, thêm óc heo rồi quấn mỡ chài, sau rốt gói tròn trong miếng ruột heo, hấp chín rồi chiên lại.</sentence>
-  <sentence id="s77" start="817.580" end="830.810">Thực khách lãnh phần mỗi người một trứng ung trên đây, ăn với rơm rạ lót ổ, tức là măng tre luộc, chần cho mềm rồi đem rim nước dừa xiêm, lót ở dưới.</sentence>
-  <sentence id="s78" start="831.980" end="838.130">Kế đó là món trứng gà già, làm bằng tôm, bột mì, củ năng.</sentence>
-  <sentence id="s79" start="839.070" end="842.890">Mỗi người ăn một trứng với măng tre, sắp bên dưới.</sentence>
-  <sentence id="s80" start="844.310" end="860.790">Rồi đến món trứng non làm bằng thịt khô, lạp xưởng, thịt cua rỉa ra, củ hành, nấm, tất cả gói tròn trong miếng ruột heo, luộc chín rồi đem chiên, cũng ăn kèm với măng luộc.</sentence>
-  <sentence id="s81" start="861.460" end="871.090">Sau khi thưởng thức loại trứng khẻ mỏ, trứng ung, trứng già, trứng non, mỗi người ăn thêm chút ít cơm rang, để dưới đáy dĩa.</sentence>
-  <sentence id="s82" start="872.670" end="878.450">Giang Nam Dã Hạc là món quá bổ, mắc tiền, trình bày khá mỹ thuật và duyên dáng.</sentence>
-  <sentence id="s83" start="879.560" end="886.150">Con gà rô ti ấp bốn loại trứng, giữa mấy lớp trứng là măng tre, dưới chót là cơm.</sentence>
-  <sentence id="s84" start="886.730" end="893.760">Đây là mô phỏng theo thực đơn ở hiệu cao lâu Tàu, không đặc sắc bằng món ăn địa phương.</sentence>
-  <sentence id="s85" start="895.060" end="918.000">Bọn đàn ông thích nhậu rượu bày ra vài loại rượu, như rượu đậu nành, rượu chuối, rượu mít, rượu dừa, cứ bỏ chút ít men dưới gốc để rồi nước dừa trong trái dừa dậy lên, thành rượu; hái quày dừa xuống, vạt vỏ ra mà uống loại rượu dừa ấy ?.</sentence>
-  <sentence id="s86" start="918.920" end="946.790">Ngoài ra, còn vài kiểu ăn uống như bò gác tréo: thực khách đi vòng quanh con bò tơ gác tréo trên đống than hồng, chung quanh là nhiều bàn để rau, bánh tráng, nước thấm, người ăn dùng dao nhọn mà chích vào da bò, thịt tươi lòi ra, vừa ngọt vừa bổ, rồi đi qua cầu, nhảy mương cho thêm đói, ăn nhiều.</sentence>
-  <sentence id="s87" start="947.190" end="949.250">Tiệc bày ở ngoài sân, ngoài vườn.</sentence>
-  <sentence id="s88" start="950.390" end="960.970">Cá lóc nướng ốp bẹ chuối, vịt nướng sau khi bó đất sét, tôm nhúng nước dừa xiêm là những món hơi cầu kỳ nhưng quyến rũ một số người khó tánh.</sentence>
-  <sentence id="s89" start="961.640" end="975.110">Thịt cầy thịt chó là món bất thường, ăn vì tò mò, vì muốn “xé rào”, gạt bỏ sự cấm kỵ qua một bên chó là gia súc tiêu biểu cho đức trung tín.</sentence>
-  <sentence id="s90" start="976.050" end="980.140">Ăn thịt chó là dịp để tụ họp bạn bè, hò hét cho vui.</sentence>
-  <sentence id="s91" start="980.550" end="992.020">Thịt chó dùng thay cho thịt rừng, bởi vậy được xào nấu theo kiểu thịt chồn, thịt rắn với nhiều gia vị nào là xào lăn, bằm nhỏ xúc bánh tráng.</sentence>
-  <sentence id="s92" start="992.460" end="999.310">Hoặc thịt chó gói lá cách, lá lốt, làm xiếu mại, theo kiểu thịt bò bảy món...</sentence>
-  <sentence id="s93" start="1000.280" end="1007.530">Nhưng thành công nhứt và phổ biến nhứt là món ăn bình dân, tập trung bao nhiêu tinh túy của sản phẩm địa phương.</sentence>
-  <sentence id="s94" start="1007.990" end="1025.600">Thí dụ như cá rô kho tộ; cá rô mập béo cá rô mề là cá ngon nhứt ở đồng kho với nước mắm biển, để thêm tiêu cà ra nhỏ và tiêu nguyên hột, cái tô ấy đặt thẳng trên than hồng.</sentence>
-  <sentence id="s95" start="1026.510" end="1031.530">Thí dụ như canh chua cá lóc, canh chua cá tra, cá vồ, cá bông lau.</sentence>
-  <sentence id="s96" start="1031.800" end="1034.780">Hoặc cá trê vàng, nướng dầm nước mắm gừng.</sentence>
-  <sentence id="s97" start="1035.100" end="1039.520">Hoặc mắm lòng, mắm thái ăn với thịt luộc, rau sống.</sentence>
-  <sentence id="s98" start="1040.660" end="1057.670">Đêm trăng thanh gió mát, nhiều người thích văn nghệ tổ chức thả thuyền trên sông Tiền hay sông Hậu, ngỡ mình là ông Tô Đông Pha và các bạn dạo chơi trên sông Xích Bích, trong phút giây hóa ra tiên, chắp cánh bay cao.</sentence>
-  <sentence id="s99" start="1058.170" end="1070.610">Cuộc du thuyền lấy đờn ca, ngâm thơ xướng họa và ăn uống làm điều quan trọng: đờn tranh, ăn tôm tươi nướng trên than hồng, ngâm thơ bát cú, nói chuyện tiếu lâm mãi đến lúc trăng tà.</sentence>
-  <sentence id="s100" start="1071.030" end="1074.030">Thú vui này được gọi là “thả cầm thi”.</sentence>
-  <sentence id="s101" start="1075.300" end="1082.100">Miệt Vườn cung cấp nhiều giáo viên cho miền Tây Rạch Giá, Sóc Trăng, Bạc Liêu.</sentence>
-  <sentence id="s102" start="1082.880" end="1090.480">Sau đây là con số thống kê, đáng tin cậy của vài tỉnh vào năm 1927, để so sánh.[76]</sentence>
-  <sentence id="s103" start="1091.440" end="1096.440">- Biên Hòa, 33 trường học với 2.772 học sinh.</sentence>
-  <sentence id="s104" start="1096.980" end="1106.740">- Bến Tre, 8.136 học sinh, trong tổng số dân cư là 291.393 người.</sentence>
-  <sentence id="s105" start="1107.400" end="1110.020">- Gò Công, 3.412 học sinh.</sentence>
-  <sentence id="s106" start="1110.580" end="1120.080">- Mỹ Tho, 8.357 học sinh trường công và 1.217 học sinh trường tư, tất cả</sentence>
-  <sentence id="s107" start="1120.540" end="1121.470">105 trường.</sentence>
-  <sentence id="s108" start="1122.140" end="1124.610">- Sa Đéc, 6.689 học sinh.</sentence>
-  <sentence id="s109" start="1125.060" end="1129.110">- Trà Vinh; 3.666 học sinh</sentence>
-  <sentence id="s110" start="1129.630" end="1134.930">- Vĩnh Long, 5.039 học sinh trường công và 974 học sinh trường tư.</sentence>
-  <sentence id="s111" start="1135.680" end="1138.270">- Cần Thơ, 5.539 học sinh.</sentence>
-  <sentence id="s112" start="1138.990" end="1140.050">Về phía Hậu Giang:</sentence>
-  <sentence id="s113" start="1140.800" end="1143.890">- Long Xuyên, 4.162 học sinh.</sentence>
-  <sentence id="s114" start="1144.370" end="1146.640">- Rạch Giá, 2.943 học sinh.</sentence>
-  <sentence id="s115" start="1147.040" end="1149.850">- Sóc Trăng, 3.528 học sinh.</sentence>
-  <sentence id="s116" start="1150.320" end="1166.660">Tóm lại thì Sa Đéc, Vĩnh Long, Mỹ Tho, Bến Tre đứng đầu.[77] Nếu so sánh với 27 năm về trước, tức là năm 1899, chúng ta thấy trường học đã gia tăng, mặc dầu còn xa lắm mới đáp ứng nhu cầu.</sentence>
-  <sentence id="s117" start="1167.340" end="1174.020">Tỉnh Mỹ Tho, năm 1899, chỉ có một trường tỉnh, bốn trường tổng.</sentence>
-  <sentence id="s118" start="1174.810" end="1180.490">Năm 1926, tỉnh này được 105 trường, vừa trường tỉnh, trường làng.</sentence>
-  <sentence id="s119" start="1181.560" end="1186.510">Những con số trên chỉ gây ý thức tổng quát mà thôi.</sentence>
-  <sentence id="s120" start="1186.960" end="1199.490">Việc thống kê chưa được chu đáo, ranh giới mỗi tỉnh thay đổi chút ít, người Pháp sáp nhập nhiều làng nhỏ để tạo ra một làng lớn hơn: làng thời đàng cựu nhỏ như một ấp!</sentence>
-  <sentence id="s121" start="1200.260" end="1210.490">Trong tỉnh Bến Tre, trong ba năm liên tiếp, nhà nước thuộc địa thay đổi ranh giới làng xã đến ba lần: Năm 1925, tỉnh gồm 144 làng.</sentence>
-  <sentence id="s122" start="1211.280" end="1214.590">Năm 1926, gom lại còn 109 làng.</sentence>
-  <sentence id="s123" start="1215.100" end="1220.750">Năm 1927, chỉ còn 94 làng, tỉnh vẫn giữ diện tích cũ.</sentence>
-  <sentence id="s124" start="1221.550" end="1237.170">Trường học phát triển khiến những điều dị đoan mê tín, những chủ trương đánh thực dân Pháp bằng bùa phép “sái đậu thành binh” hoặc chủ trương ngồi khoanh tay chờ “thiên địa tuần huờn” khó còn đất đứng ở Miệt Vườn.</sentence>
-  <sentence id="s125" start="1237.940" end="1244.270">Những chủ trương bưng bít, mơ hồ ấy chỉ thu hút được một số người ở vùng ít đường giao thông.</sentence>
-  <sentence id="s126" start="1245.490" end="1247.820">Người Miệt Vườn mang tâm hồn yêu nước.</sentence>
-  <sentence id="s127" start="1248.490" end="1253.970">Năm 1904, chí sĩ Phan Bội Châu vào Nam, viếng tỉnh Châu Đốc.</sentence>
-  <sentence id="s128" start="1254.900" end="1261.770">Năm 1909, Kỳ ngoại hầu Cường Để vào Nam, xuống Mỹ Tho rồi lên Tân Châu.</sentence>
-  <sentence id="s129" start="1261.770" end="1265.990">Hầu ghé lại Cao Lãnh, cũng như ông Tôn Văn.</sentence>
-  <sentence id="s130" start="1267.460" end="1279.940">Năm 1910, vài nhà cách mạng từ Côn Đảo bị đưa về an trí ở Bến Tre ông Nguyễn Quyền, ở Long Xuyên ông Dương Bá Trạc, ở Sa Đéc ông Võ Hoành.</sentence>
-  <sentence id="s131" start="1280.970" end="1297.450">Từ trước đó, phong trào Duy Tân, Đông Du được nhiều chí sĩ hưởng ứng khắp miền Nam: ông Nguyễn An Khương thân phụ ông Nguyễn An Ninh, ông Nguyễn An Cư, ông Nguyễn Thần Hiến, ông Gilbert Trần Chánh Chiếu.</sentence>
-  <sentence id="s132" start="1298.230" end="1308.590">Ngoài ra, còn ông Trương Duy Toản đã nói ở phần trước, về sân khấu cải lương, ông Đỗ Văn Y. Người hoạt động tiêu biểu có lẽ là ông Nguyễn Quang Diêu[78].</sentence>
-  <sentence id="s133" start="1309.160" end="1315.470">Miệt Vườn là đất tốt để phong trào Đông Du, Duy Tân phát triển, nhứt là vùng Cao Lãnh.</sentence>
-  <sentence id="s134" start="1316.070" end="1325.910">Ở đây, chúng tôi không liệt kê đầy đủ danh tánh những chiến sĩ hăng hái ở Mỹ Trà, Hòa An Cao Lãnh, ở Chợ Thủ Long Xuyên, ở Tam Bình Vĩnh Long.</sentence>
-  <sentence id="s135" start="1326.670" end="1330.760">Và chúng tôi không muốn so sánh, cân nhắc công trình của từng người.</sentence>
-  <sentence id="s136" start="1331.360" end="1333.880">Điều đáng nghiên cứu là đường lối chánh trị.</sentence>
-  <sentence id="s137" start="1334.610" end="1339.060">Các vị ấy theo đường lối chánh tri của ông Phan Bội Châu, Cường Để.</sentence>
-  <sentence id="s138" start="1339.540" end="1345.810">Mục đích chánh là giành độc lập, học tập kỹ thuật Tây phương để đánh đuổi thực dân Pháp.</sentence>
-  <sentence id="s139" start="1346.420" end="1349.630">Chiến thắng của Nhựt đem lại luồng sinh khí mới.</sentence>
-  <sentence id="s140" start="1350.350" end="1361.150">Cuộc Cách mạng Tân Hợi của Tôn Văn lập chánh thể dân quyền được ông Nguyễn Quang Diêu ca ngợi và toan áp dụng trong hoàn cảnh thực tế của nước nhà.</sentence>
-  <sentence id="s141" start="1361.960" end="1375.600">Như chúng ta biết, chia đất của đại điền chủ cho dân cày, hạn chế sự phát triển của tư bản là hai điểm quan trọng của nhà cách mạng họ Tôn: “Tiết chế tư bổn, bình quân địa quyền”.</sentence>
-  <sentence id="s142" start="1376.530" end="1384.420">Ông Nguyễn Quang Diêu đánh thức giới dân cày Nam Việt từ năm 1928-1929: ...</sentence>
-  <sentence id="s143" start="1385.020" end="1389.480">Suốt năm cày mướn cấy thuê Lúa đi đâu mất, tiền về tay ai?</sentence>
-  <sentence id="s144" start="1390.090" end="1396.090">Còn bề chú cả nhà đói rách, Chủ chú đành ngảnh mặt ngơ tai.</sentence>
-  <sentence id="s145" start="1396.630" end="1401.900">Lúa tiền vay một trả hai, Cong lưng làm mọi cả đời không cơm.</sentence>
-  <sentence id="s146" start="1402.350" end="1408.490">Đến đỗi chú đập rơm táy mót, Chủ chú quơ sạch bót chẳng chừa.</sentence>
-  <sentence id="s147" start="1409.200" end="1414.140">Đó là tang tích sờ sờ, Thế mà chú lại đổ thừa Trời sao?</sentence>
-  <sentence id="s148" start="1414.860" end="1417.150">Trước cảnh khổ ấy, Trời bèn chỉ rõ: ...</sentence>
-  <sentence id="s149" start="1418.430" end="1423.630">Bởi trên có tham ô chánh phủ, Binh vực nhà điền chủ hiếp bây.</sentence>
-  <sentence id="s150" start="1424.200" end="1425.800">Khoa trương gươm bén súng hay...</sentence>
-  <sentence id="s151" start="1426.820" end="1435.110">Ai nấy nên tùy hoàn cảnh mà tranh đấu, hoặc là theo thuyết bất bạo động của thánh Găn-đi bên Ấn Độ. ...</sentence>
-  <sentence id="s152" start="1435.580" end="1439.650">Tôn Văn đứng trước hô hào Bao nhiêu dân ruộng ồn ào nổi lên...</sentence>
-  <sentence id="s153" start="1440.000" end="1444.380">Tóm thâu ruộng đất chủ điền Chia cho công chúng ở yên cấy trồng!</sentence>
-  <sentence id="s154" start="1445.300" end="1454.500">Thời Pháp thuộc nghe nói đến chủ trương ấy, nhiều người hốt hoảng cho rằng đó là giai cấp đấu tranh do tà thuyết Cộng Sản ngoại lai bày ra!</sentence>
-  <sentence id="s155" start="1454.910" end="1461.760">Thật ra, đó là lý thuyết của ông Tôn Văn, được chí sĩ quốc gia Nguyễn Quang Diêu tìm cách áp dụng.</sentence>
-  <sentence id="s156" start="1462.810" end="1469.970">Trước năm 1930, ở Nam Phần còn một số trí thức ý thức được sự đô hộ của thực dân Pháp.</sentence>
-  <sentence id="s157" start="1470.800" end="1476.420">Nhà chí sĩ gây ảnh hưởng mạnh nhứt, sâu rộng trong đại chúng nhứt vẫn là ông Nguyễn An Ninh.</sentence>
-  <sentence id="s158" start="1476.930" end="1493.240">Chí sĩ họ Nguyễn hoạt động công khai, từ Sài Gòn, đánh thức tinh thần dân tộc, đòi hỏi một cuộc cách mạng triệt để, từ trong tâm hồn mỗi người thanh niên, hướng về tương lai, nhằm vào hoàn cảnh thực tế của đất nước, kết hợp văn minh Đông-Tây.</sentence>
-  <sentence id="s159" start="1493.610" end="1517.510">Tiếng nói của chí sĩ họ Nguyễn từ Sài Gòn đã gây những đợt sóng to, lan rộng khắp Miệt Vườn, đến tận các tỉnh xa xôi ở vịnh Xiêm La, nhờ phương tiện giao thông, nhờ báo chí; từ Hóc Môn, Bà Điểm đến mũi Cà Mau, người miền Nam có những khát vọng giống nhau, khi dã tâm của thực dân lần hồi hiện rõ rệt.</sentence>
-  <sentence id="s160" start="1518.210" end="1533.360">Chí sĩ họ Nguyễn nối tiếp tinh thần Duy Tân, Đông Kinh Nghĩa Thục với tư thế sáng tạo, đã đau xót, đã cảm thông với các phong trào khởi nghĩa võ trang của Phan Xích Long, Trần Cao Vân, Lương Ngọc Quyến.</sentence>
-  <sentence id="s161" start="1534.370" end="1568.390">Lần đầu tiên, việc chống Pháp trở thành phong trào đại chúng - không đóng khung trong riêng một số ít nho sĩ, thức giả như thời Đông Du. Bài diễn thuyết đọc tại Hội Quán SAMIPIC ở Sài Gòn vào ngày 15-10-1923 là một tuyên ngôn quan trọng, nhan đề là “Cao vọng của những thanh niên ngày nay”, mỗi tiếng nói, mỗi chữ đều bao hàm nhiều ý nghĩa, nếu ngắt ra khỏi văn mạch thì dễ sai lạc ít nhiều.</sentence>
-  <sentence id="s162" start="1569.800" end="1585.210">Tuy nhiên, xin trích dẫn nguyên văn vài câu tiêu biểu, - những câu không trích lại đây biết đâu lại tiêu biểu cho tư tưởng của chí sĩ Nguyễn An Ninh hơn theo bản trích lại của bà Bùi Thế Mỹ, báo đã dẫn.</sentence>
-  <sentence id="s163" start="1586.680" end="1603.750">“Cái học thức Tàu của An Nam ta nay đã suy”, “Tôi tưởng rằng gặp lúc tranh sống như lúc này, nếu mà đeo đuổi theo các hòa thuận giả dối trong gia đình, đeo theo ngọn rau vui thú, mồ mả ông bà, thì con người hóa ra yếu”.</sentence>
-  <sentence id="s164" start="1604.680" end="1617.180">“Trong buổi này, người học thức Á Đông phải có ít nữa hai nền học thức để nuôi trí thức mới đủ được, là một nền học thức Á Đông, và một nền học thức Âu Tây...</sentence>
-  <sentence id="s165" start="1618.590" end="1623.520">Trong ta phải có hai thứ thuốc chống nhau mà sanh ra một thứ thuốc mới.</sentence>
-  <sentence id="s166" start="1624.420" end="1632.770">“Một đoàn dân muốn sống, muốn tự do, muốn tràng danh trong nhân loại, cần phải có một nền học thức riêng cho mình”.</sentence>
-  <sentence id="s167" start="1633.570" end="1637.710">“Muốn trị bịnh của ngày nay, phải dùng thuốc của ngày nay”.</sentence>
-  <sentence id="s168" start="1638.570" end="1655.490">“Ta nên mơ ước, ta cần mơ ước” “Dầu điểm trông mong của ta như điềm chiêm bao, cũng không phải uổng công cho ta trông mong vì có nhiều điều xưa kia của tiền nhân ta chiêm bao, nay ta đã làm thành được cả.</sentence>
-  <sentence id="s169" start="1656.210" end="1659.120">Nhưng mà hễ mơ ước, thì phải hành động.</sentence>
-  <sentence id="s170" start="1659.590" end="1661.310">Hễ hành động thì phải ráng sức.</sentence>
-  <sentence id="s171" start="1661.800" end="1663.790">Ráng sức nghĩa là gặp khó.</sentence>
-  <sentence id="s172" start="1664.130" end="1673.090">Mà cái khó trên đường người hành động biết là bao nhiêu, cái đại nhứt khó lại là ở trong ta.</sentence>
-  <sentence id="s173" start="1673.530" end="1686.360">Đừng có lo sợ vì cái luân lý hẹp hòi, giả dối của bọn hay dùng mấy tiếng như “vong ân, vô luân lý, làm loạn” mà trói người, mà thuốc chết tinh thần của người”.</sentence>
-  <sentence id="s174" start="1687.350" end="1693.500">“Chúng ta phải lo tạo lập ra mới, chúng ta phải là người tạo lập ra mới mãi.</sentence>
-  <sentence id="s175" start="1694.120" end="1701.380">Ta không cần bắt chước in như kẻ khác, như kẻ ngu tối bắt chước người khôn vậy.</sentence>
-  <sentence id="s176" start="1701.900" end="1713.410">Còn bắt chước người như vậy, là còn nhờ người, còn nương dựa theo sự khôn khéo của người, thì không trông mong giải thoát được.</sentence>
-  <sentence id="s177" start="1714.390" end="1728.900">Điều của ta sanh tạo, phải là của ta, phải là ở trong máu mủ ta mà ra, hay là ở nơi học thức Âu Tây - Á Đông hòa hợp nhau trong ta mà sanh ra”.</sentence>
-  <sentence id="s178" start="1729.910" end="1738.920">“Lần mò cho đặng mình gặp mình, cho đặng mình biết mình, nghĩa là cho biết cái hồn của dân mình trong hồn của mình”.</sentence>
-  <sentence id="s179" start="1739.710" end="1767.030">“Ngày nào mà bọn thanh niên không còn quý trọng những cấp bằng, những danh dự giả dối, không còn đeo đuổi theo mấy cái ý kiến yếu thấp hẹp hòi, không còn trọng đãi kẻ làm nô lệ kia dù mặc áo gấm thêu hoa, không còn biết quỳ lạy cái oai nghiêm giả dối của mấy ông thần giả, không còn yêu vì những bọn hữu danh mà bất tài.</sentence>
-  <sentence id="s180" start="1767.640" end="1789.170">Ngày nào bọn thanh niên ta không còn theo đuổi những sự ngoài vỏ, những điều giả dối, cứ giữ sự đúng đắn làm người mà đi trên con đường ngay chánh của lương tâm thì ngày ấy không có chi là khó, huống chi là lo gầy dựng một nền trí thức cho nước nhà ta.</sentence>
-  <sentence id="s181" start="1789.790" end="1805.000">Từ ngày ấy, từ Nam chí Bắc, dân Nam Việt ta sẽ trở lại như xưa mà trọng thờ các bậc tài cao đức lớn làm rạng danh nòi giống và có nhọc thân giúp ích cho dân nghèo bớt khổ”.</sentence>
-</sentences>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="vi">
+  <head/>
+  <book>
+    <body>
+      <level1>
+        <p>
+          <sent id="s1">Nhà có rào, sân, vườn tược, ao.</sent>
+        </p>
+        <p>
+          <sent id="s2">Đó là quan niệm về cư trú không riêng gì của người Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s3">Nhưng chúng ta thấy cái ao mất hẳn, trước nhà có sông, sau nhà đã có mương vườn rồi.</sent>
+        </p>
+        <p>
+          <sent id="s4">Nói chung thì rào trước nhà hơi thấp, trống trải, chủ nhà không cố ý che giấu, không xem nhà là một cõi riêng quá bưng bít, kín cổng cao tường.</sent>
+        </p>
+        <p>
+          <sent id="s5">Với tình hình kinh tế khả quan, nhứt là sau trận Âu Châu đại chiến 19141918, Miệt Vườn trải qua thời kỳ phồn thịnh.</sent>
+        </p>
+        <p>
+          <sent id="s6">Những tỷ dụ về chiếc xe máy, về cái máy chụp hình nêu ra ở phần trên chỉ đánh dấu một giai đoạn chuyển tiếp ngắn ngủi vì đa số dân Miệt Vườn đón nhận kỹ thuật Tây phương với tinh thần cởi mở.</sent>
+        </p>
+        <p>
+          <sent id="s7">Tiểu điền chủ sắm máy hát, mấy thầy giáo ở chợ làng, chợ quận dành dụm tiền bạc để mua xe máy; hàng ngày họ sung sướng làm công việc lau chùi, bơm bánh xe.</sent>
+        </p>
+        <p>
+          <sent id="s8">Việc hớt tóc ngắn không gặp trở ngại nào đáng kể và không cần cổ động “phen này cắt tóc đi tu, tụng kinh độc lập, ở chùa Duy Tân”.</sent>
+        </p>
+        <p>
+          <sent id="s9">Con cháu trong gia đình lo chụp hình khi cha mẹ già yếu để sau này thờ phụng.</sent>
+        </p>
+        <p>
+          <sent id="s10">Thờ hình người là bước tiến quan trọng.</sent>
+        </p>
+        <p>
+          <sent id="s11">Nhiều bức hình tiêu biểu cho cách ăn mặc, cách phối trí lúc bấy giờ.</sent>
+        </p>
+        <p>
+          <sent id="s12">Ông lão đội khăn đóng, mặc áo dài đen, quần trắng, mang dép da, ngồi trên cái ghế có đai.</sent>
+        </p>
+        <p>
+          <sent id="s13">Tay ông lão cầm quạt, hoặc buông xuôi để trên cái bàn vuông hoặc tròn, trải tấm “náp” thêu ren, trên bàn là bình chưng bông, nhứt là phải có một cái đồng hồ reo.</sent>
+        </p>
+        <p>
+          <sent id="s14">Ông lão hoặc bà lão ngồi ngay ngắn, nhìn thẳng, đáng chú ý nhứt là mấy ngón tay, xòe ra đủ năm ngón để phô bày đủ hai mắt, hai tay... vì mất hoặc bị che khuất là xui xẻo sau này gặp tai nạn thì thây thi không toàn vẹn.</sent>
+        </p>
+        <p>
+          <sent id="s15">Trên mặt, ánh sáng đều đặn, không có bóng đen, đen là màu xui xẻo, mặt mày bị nám.</sent>
+        </p>
+        <p>
+          <sent id="s16">Thuở ấy, kỹ thuật nhiếp ảnh, rọi hình không được tinh vi cho lắm.</sent>
+        </p>
+        <p>
+          <sent id="s17">Mỗi lần chụp hình là nhiếp ảnh viên điều chỉnh máy móc suốt mười lăm, hai chục phút.</sent>
+        </p>
+        <p>
+          <sent id="s18">Vì thiếu ánh sáng nên nóc tiệm lót kiếng, cho ánh sáng rọi xuống.</sent>
+        </p>
+        <p>
+          <sent id="s19">Ảnh chụp ra, rửa theo khổ nhỏ.</sent>
+        </p>
+        <p>
+          <sent id="s20">Muốn có kiểu lớn thì phải nhờ thợ họa hình, căn cứ theo ảnh nhỏ ấy mà vẽ ra lớn.</sent>
+        </p>
+        <p>
+          <sent id="s21">Mỗi nhà khá giả đều chưng hình ông bà, thân nhân trên vách.</sent>
+        </p>
+        <p>
+          <sent id="s22">Ông Hồ Biểu Chánh hiểu rành nếp sống ở nông thôn, nhứt là nếp sống của Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s23">Nếu chú ý, chúng ta gặp nhiều đoạn tả cảnh khá tỉ mỉ.</sent>
+        </p>
+        <p>
+          <sent id="s24">Tất cả tiểu thuyết của Hồ Biểu Chánh là bức tranh xã hội khá linh động.</sent>
+        </p>
+        <p>
+          <sent id="s25">Xem trích lục sau vài đoạn, bắt gặp tình cờ trong quyển “Kẻ Làm Người Chịu”, khi hai nhân vật là Chánh Tâm với Cẩm Vân về Láng Thé Trà Vinh.</sent>
+        </p>
+        <p>
+          <sent id="s26">“Chánh Tâm biểu đứa nhỏ vác hoa ly, rồi vợ chồng dắt nhau về nhà.</sent>
+        </p>
+        <p>
+          <sent id="s27">“Cẩm Vân sanh đẻ tại Chợ Lớn...</sent>
+        </p>
+        <p>
+          <sent id="s28">Hôm nay nàng đi với chồng và lại đi xa quá, thấy tư bề cảnh vật đều lạ mặt hết thảy, bởi vậy nàng khấp khởi trong lòng, lúc bước xuống xe, nàng đến nắm tay chồng mà đi, làm cho Chánh Tâm hớn hở vô cùng, mà cũng làm cho người trong xóm ai thấy cũng ngó.</sent>
+        </p>
+        <p>
+          <sent id="s29">“Bước vô cửa rồi, nàng hỏi chồng rằng: “Nhà mình đây hay sao?”.</sent>
+        </p>
+        <p>
+          <sent id="s30">Chánh Tâm gật đầu và ngó vợ mà cười.</sent>
+        </p>
+        <p>
+          <sent id="s31">Cẩm Vân thấy một cái nhà ngói lớn cất ba căn hai chái, cửa ván, vách tường mà nhà đóng cửa bịt bùng.</sent>
+        </p>
+        <p>
+          <sent id="s32">Trước cửa có một cái sân nhỏ, cỏ mọc tàm lam.</sent>
+        </p>
+        <p>
+          <sent id="s33">Dựa bên thềm, có mấy bụi nở ngày trổ bông, bụi thì trắng, bụi thì tím.</sent>
+        </p>
+        <p>
+          <sent id="s34">Bên tay mặt có cái chuồng trâu, thấy trong chuồng trâu có một bầy, lại có một đứa nhỏ ở truồng ở trần, vác một bó rơm chạy lăng xăng.</sent>
+        </p>
+        <p>
+          <sent id="s35">Bên tay trái có một miếng đất ruộng lớn mà trống lỗng, ấy là sân đập lúa vì chưa tới kỳ nên chưa dọn dẹp, bởi vậy heo ủi có lỗ có hang”.</sent>
+        </p>
+        <p>
+          <sent id="s36">Quyển Kẻ Làm Người Chịu, viết xong tại An Trường, 1928.</sent>
+        </p>
+        <p>
+          <sent id="s37">Sau đây là nếp sống sang trọng của cậu Bác Ái, một chàng trai theo Tây học, đã học ở Sài Gòn, nay về nhà ở Long Kiến Cù lao Ông Chưởng, Long Xuyên, cha của Bác Ái là ông Hội đồng Thới, mỗi năm lúa ruộng góp được bốn năm chục ngàn thùng.</sent>
+        </p>
+        <p>
+          <sent id="s38">Bác Ái muốn đi Tây để tiếp tục học vấn nhưng cha mẹ ngăn cản.</sent>
+        </p>
+        <p>
+          <sent id="s39">“Anh ta bèn nhứt định ở nhà làm ruộng...</sent>
+        </p>
+        <p>
+          <sent id="s40">Anh ta thường xin tiền mẹ rồi gởi lên Sài Gòn mua bốn năm nhựt báo mà xem, và gởi qua Tây mua sách, nhứt là mấy bộ tiểu thuyết hay để dành mà đọc.</sent>
+        </p>
+        <p>
+          <sent id="s41">Anh ta lại xin phép cha rồi dọn trọn một cái chái nhà phía trên để làm thơ phòng”.</sent>
+        </p>
+        <p>
+          <sent id="s42">Cái thơ phòng ấy được mô tả tỉ mỉ, trong tiểu thuyết “Một Chữ Tình” cũng của Hồ Biểu Chánh, nên chú ý là tiểu thuyết này viết xong hồi tháng 10, năm 1923.</sent>
+        </p>
+        <p>
+          <sent id="s43">Bên trong chái ấy là phòng ngủ “Thì để một cái giường sắt, mùng nệm gối mền đều tinh khiết.</sent>
+        </p>
+        <p>
+          <sent id="s44">Trên cái đầu giường, có một cái tủ cẩm lai, đựng quần áo đầy dẫy: nào là đồ mát may bằng lụa trắng để bận trong, nào là đồ tây cổ bẻ bằng nỉ trắng hoặc nỉ màu để mặc đi chợ hoặc thăm bà con, Dựa chưn giường thì để giày đủ thứ: đi trong nhà thì giày cườm, giày da láng, dép Nhựt Bổn, dép Bắc Kỳ, đi ra ngoài thì giày thứ trắng để đi nắng, thứ vàng để đi chơi, thứ đen để đi ruộng.</sent>
+        </p>
+        <p>
+          <sent id="s45">“Dựa cửa phòng thì móc nón cũng nhiều thứ; thứ nón nỉ đội ban đêm, thứ trắng đội che nắng.</sent>
+        </p>
+        <p>
+          <sent id="s46">Trong phòng lại có để một cái bàn gõ mặt cẩm thạch để rửa mặt gội đầu và cũng có để một cái bàn nhỏ với một cái ghế ngồi, để khi nửa đêm thức dậy chong đèn đọc sách...</sent>
+        </p>
+        <p>
+          <sent id="s47">“Dựa bên cái ghế dài ấy có sẵn một cái cửa sổ, hễ mở thì ngó ra vườn thấy hàng sa bô chê trồng theo mấy hàng cau, trái đơm đầy nhánh, là là gần sát đất, dường nhem thèm trẻ nhỏ đặng cho nó rờ rẫm tối ngày chơi, ngó xa xa lại có hai cây sứ trắng, bông trổ giáp mấy đầu cành mà không có một u”.</sent>
+        </p>
+        <p>
+          <sent id="s48">Và đây là một nhà nghèo của tá điền, trích trong “Kẻ Làm Người Chịu”.</sent>
+        </p>
+        <p>
+          <sent id="s49">“Cẩm Vân đứng lại ngó vô nhà, thì thấy trong nhà có một cái bàn thờ mà trên bàn trống trơn, không có chơn đèn, lục bình chi hết, chính giữa có lót một bộ ván dầu, bên tay mặt có để một cái chõng, còn bên tay trái thì có giăng một cái võng, gần đó là có chất cày bừa lộn xộn”.</sent>
+        </p>
+        <p>
+          <sent id="s50">Từ dưới sông nhìn lên bờ Tiền Giang, ông Phạm Quỳnh ghi lại Đi tàu thủy từ Mỹ Tho lên Long Xuyên: “Thường trông bên bờ, có những nhà ngói nền cao, cửa kính cửa chớp, hàng rào sắt chạy dài, thềm xây ngay trên mặt nước, ngoài đặt cái cầu nhỏ dựng nhà thủy tọa con, lại thấy vài ba cái “thuyền máy” canots automobiles để chung quanh, hỏi ra thời là nhà thầy cai tổng, cụ điền chủ hay ông hội đồng nào toàn là những mặt phú hào trong một xứ.</sent>
+        </p>
+        <p>
+          <sent id="s51">Coi những cơ ngơi đó thì đã biết các bậc chủ nhân ông giàu có là dường nào.</sent>
+        </p>
+        <p>
+          <sent id="s52">Có nơi xây trên bờ sông dài đến mấy trăm thước trông những nhà những vườn, những lầu những gác, nhấp nhô như mặt cái thành nhỏ, tàu chạy một thôi thời hết, mà toàn là dinh cơ của một người...” Món ăn và bánh khéo là ngành nữ công khá độc đáo ở Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s53">Văn hóa muốn phát triển mạnh cần vài điều kiện cần thiết là tình hình chính trị kinh tế tạm ổn định, dư tiền và thời giờ rảnh rang.</sent>
+        </p>
+        <p>
+          <sent id="s54">Mấy bà mấy cô ở Sa Đéc, Long Xuyên, Vĩnh Long và luôn cả Rạch Giá đã thi tài về bánh khéo, và nấu thức ăn: bánh bò trong, bánh bột lọc, bánh ít trần, bánh men, bánh thuẫn, bánh ướt, bánh xếp, bánh bò ngang, mứt ổi, mứt chuối, mứt chanh, mứt me...</sent>
+        </p>
+        <p>
+          <sent id="s55">Lại còn món bánh hỏi thịt quay, bò gác tréo, vịt tiềm hon, dưa đầu heo, mắm tôm, mắm lòng.</sent>
+        </p>
+        <p>
+          <sent id="s56">Người đầu tiên chế biến những thức ăn, bánh khéo chưa hẳn là người Miệt Vườn nhưng Miệt Vườn là nơi để thí nghiệm vì các các bà cô dư tiền mua bột mua đường, dư cá tôm để nấu nướng.</sent>
+        </p>
+        <p>
+          <sent id="s57">Phải nhìn nhận rằng ở Huế, nhiều người sáng chế ra nhiều loại bánh khá độc đáo, tinh vi, thí dụ như “bánh sen làm bằng bột hạt sen rồi nướng như bánh kẹp; như bánh măng, mụt măng tre nạo ra bột, rồi làm như bánh in”[74].</sent>
+        </p>
+        <p>
+          <sent id="s58">Miệt Vườn là nơi bánh khéo phát triển mạnh, có thầy dạy, gần như trở thành phong trào.</sent>
+        </p>
+        <p>
+          <sent id="s59">Dịp đám cưới, đám giỗ, cúng đình, đón rước quan trên, hội chợ phiên... là các bà các cô thi tài, con gái nhà đàng hoàng phải biết vài thứ bánh, vài món ăn để thi thố khi về nhà chồng, khi giao thiệp với chị em bạn.</sent>
+        </p>
+        <p>
+          <sent id="s60">Gẫm lại thì bánh khéo quả là công trình đáng khen ngợi, quanh đi quẩn lại chỉ có vài nguyên liệu như bột tàn, bột bắc, bột mì, phèn the phi, thuốc tiêu mặn mà sáng chế ra hàng mấy chục thứ bánh, hương vị khác nhau.</sent>
+        </p>
+        <p>
+          <sent id="s61">Ngoài bí quyết riêng, không dạy bằng giấy trắng mực đen được, người làm bánh phải có kinh nghiệm, có “hoa tay”.</sent>
+        </p>
+        <p>
+          <sent id="s62">Về thức ăn, xin nói sơ qua món “Giang Nam Dã Hạc” nghĩa là con hạc đất Giang Nam, “dã” là đồng ruộng, Giang Nam là tỉnh phía Nam sông Dương Tử bên Tàu, đồng thời cũng ám chỉ là vùng ấm áp ở bờ sông Cửu Long[75].</sent>
+        </p>
+        <p>
+          <sent id="s63">Nguyên liệu gồm gà mái tơ, óc heo, ruột gan heo, tôm càng, cua biển, chim se sẻ hay chim giòng giọc và gừng, chanh, rượu trắng, đậu phộng, mè, tương tàu, nước cốt dừa, mỡ chài, mỡ, bột mì, củ hành, củ năng, lạp xưởng, thịt khô, tiêu, đường, nấm hương, măng tre tươi.</sent>
+        </p>
+        <p>
+          <sent id="s64">Món ăn chưng bày trên bàn, thực khách gồm chừng năm người.</sent>
+        </p>
+        <p>
+          <sent id="s65">Trên bàn, một bó bông giấy chụp xuống che phủ cái dĩa.</sent>
+        </p>
+        <p>
+          <sent id="s66">Chủ nhân mời khách và bắt đầu giở bó bông giấy để một bên.</sent>
+        </p>
+        <p>
+          <sent id="s67">Cái dĩa lớn hiện ra, chất vun đồ ăn, phía trên chót cao là con gà quay vàng lườm, gà nằm xòe cánh ra, theo dáng điệu gà ấp trứng.</sent>
+        </p>
+        <p>
+          <sent id="s68">Chủ nhơn đem con gà xuống.</sent>
+        </p>
+        <p>
+          <sent id="s69">Gà đã cắt sẵn ra làm bốn làm năm, mỗi người lãnh một miếng.</sent>
+        </p>
+        <p>
+          <sent id="s70">Kế đó là một lớp trứng gà, gọi là trứng khẻ mỏ, mỗi người lãnh một trứng.</sent>
+        </p>
+        <p>
+          <sent id="s71">Thật ra, đó là con chim con se sẻ hay giòng giọc lú đầu ra khỏi vỏ, vỏ là ruột heo cột túm lại, nhái theo hình dáng con gà con vừa khẻ mỏ.</sent>
+        </p>
+        <p>
+          <sent id="s72">Thực khách ăn cái trứng này với một mớ măng tre luộc, sắp bên dưới trứng.</sent>
+        </p>
+        <p>
+          <sent id="s73">Măng tre sắp xếp khéo léo, theo kiểu rơm rạ mà gà dùng lót ổ để đẻ và ấp.</sent>
+        </p>
+        <p>
+          <sent id="s74">Ăn hết mớ trứng khẻ mỏ và lớp măng lót ổ thứ nhứt, thực khách bắt đầu qua lớp trứng thứ nhì, gọi là trứng gà ung!</sent>
+        </p>
+        <p>
+          <sent id="s75">Đây là món khá ngon, màu sắc giống như trứng gà ung, cái tên xấu xí này ngụ ý khôi hài vì ai dám đem những món hôi hám, phế thải ra đãi khách.</sent>
+        </p>
+        <p>
+          <sent id="s76">Trứng gà ung làm bằng gan heo để lấy màu đen ướp đậu, mè, tương, nước cốt dừa, lá chanh, thêm óc heo rồi quấn mỡ chài, sau rốt gói tròn trong miếng ruột heo, hấp chín rồi chiên lại.</sent>
+        </p>
+        <p>
+          <sent id="s77">Thực khách lãnh phần mỗi người một trứng ung trên đây, ăn với rơm rạ lót ổ, tức là măng tre luộc, chần cho mềm rồi đem rim nước dừa xiêm, lót ở dưới.</sent>
+        </p>
+        <p>
+          <sent id="s78">Kế đó là món trứng gà già, làm bằng tôm, bột mì, củ năng.</sent>
+        </p>
+        <p>
+          <sent id="s79">Mỗi người ăn một trứng với măng tre, sắp bên dưới.</sent>
+        </p>
+        <p>
+          <sent id="s80">Rồi đến món trứng non làm bằng thịt khô, lạp xưởng, thịt cua rỉa ra, củ hành, nấm, tất cả gói tròn trong miếng ruột heo, luộc chín rồi đem chiên, cũng ăn kèm với măng luộc.</sent>
+        </p>
+        <p>
+          <sent id="s81">Sau khi thưởng thức loại trứng khẻ mỏ, trứng ung, trứng già, trứng non, mỗi người ăn thêm chút ít cơm rang, để dưới đáy dĩa.</sent>
+        </p>
+        <p>
+          <sent id="s82">Giang Nam Dã Hạc là món quá bổ, mắc tiền, trình bày khá mỹ thuật và duyên dáng.</sent>
+        </p>
+        <p>
+          <sent id="s83">Con gà rô ti ấp bốn loại trứng, giữa mấy lớp trứng là măng tre, dưới chót là cơm.</sent>
+        </p>
+        <p>
+          <sent id="s84">Đây là mô phỏng theo thực đơn ở hiệu cao lâu Tàu, không đặc sắc bằng món ăn địa phương.</sent>
+        </p>
+        <p>
+          <sent id="s85">Bọn đàn ông thích nhậu rượu bày ra vài loại rượu, như rượu đậu nành, rượu chuối, rượu mít, rượu dừa, cứ bỏ chút ít men dưới gốc để rồi nước dừa trong trái dừa dậy lên, thành rượu; hái quày dừa xuống, vạt vỏ ra mà uống loại rượu dừa ấy ?.</sent>
+        </p>
+        <p>
+          <sent id="s86">Ngoài ra, còn vài kiểu ăn uống như bò gác tréo: thực khách đi vòng quanh con bò tơ gác tréo trên đống than hồng, chung quanh là nhiều bàn để rau, bánh tráng, nước thấm, người ăn dùng dao nhọn mà chích vào da bò, thịt tươi lòi ra, vừa ngọt vừa bổ, rồi đi qua cầu, nhảy mương cho thêm đói, ăn nhiều.</sent>
+        </p>
+        <p>
+          <sent id="s87">Tiệc bày ở ngoài sân, ngoài vườn.</sent>
+        </p>
+        <p>
+          <sent id="s88">Cá lóc nướng ốp bẹ chuối, vịt nướng sau khi bó đất sét, tôm nhúng nước dừa xiêm là những món hơi cầu kỳ nhưng quyến rũ một số người khó tánh.</sent>
+        </p>
+        <p>
+          <sent id="s89">Thịt cầy thịt chó là món bất thường, ăn vì tò mò, vì muốn “xé rào”, gạt bỏ sự cấm kỵ qua một bên chó là gia súc tiêu biểu cho đức trung tín.</sent>
+        </p>
+        <p>
+          <sent id="s90">Ăn thịt chó là dịp để tụ họp bạn bè, hò hét cho vui.</sent>
+        </p>
+        <p>
+          <sent id="s91">Thịt chó dùng thay cho thịt rừng, bởi vậy được xào nấu theo kiểu thịt chồn, thịt rắn với nhiều gia vị nào là xào lăn, bằm nhỏ xúc bánh tráng.</sent>
+        </p>
+        <p>
+          <sent id="s92">Hoặc thịt chó gói lá cách, lá lốt, làm xiếu mại, theo kiểu thịt bò bảy món...</sent>
+        </p>
+        <p>
+          <sent id="s93">Nhưng thành công nhứt và phổ biến nhứt là món ăn bình dân, tập trung bao nhiêu tinh túy của sản phẩm địa phương.</sent>
+        </p>
+        <p>
+          <sent id="s94">Thí dụ như cá rô kho tộ; cá rô mập béo cá rô mề là cá ngon nhứt ở đồng kho với nước mắm biển, để thêm tiêu cà ra nhỏ và tiêu nguyên hột, cái tô ấy đặt thẳng trên than hồng.</sent>
+        </p>
+        <p>
+          <sent id="s95">Thí dụ như canh chua cá lóc, canh chua cá tra, cá vồ, cá bông lau.</sent>
+        </p>
+        <p>
+          <sent id="s96">Hoặc cá trê vàng, nướng dầm nước mắm gừng.</sent>
+        </p>
+        <p>
+          <sent id="s97">Hoặc mắm lòng, mắm thái ăn với thịt luộc, rau sống.</sent>
+        </p>
+        <p>
+          <sent id="s98">Đêm trăng thanh gió mát, nhiều người thích văn nghệ tổ chức thả thuyền trên sông Tiền hay sông Hậu, ngỡ mình là ông Tô Đông Pha và các bạn dạo chơi trên sông Xích Bích, trong phút giây hóa ra tiên, chắp cánh bay cao.</sent>
+        </p>
+        <p>
+          <sent id="s99">Cuộc du thuyền lấy đờn ca, ngâm thơ xướng họa và ăn uống làm điều quan trọng: đờn tranh, ăn tôm tươi nướng trên than hồng, ngâm thơ bát cú, nói chuyện tiếu lâm mãi đến lúc trăng tà.</sent>
+        </p>
+        <p>
+          <sent id="s100">Thú vui này được gọi là “thả cầm thi”.</sent>
+        </p>
+        <p>
+          <sent id="s101">Miệt Vườn cung cấp nhiều giáo viên cho miền Tây Rạch Giá, Sóc Trăng, Bạc Liêu.</sent>
+        </p>
+        <p>
+          <sent id="s102">Sau đây là con số thống kê, đáng tin cậy của vài tỉnh vào năm 1927, để so sánh.[76]</sent>
+        </p>
+        <p>
+          <sent id="s103">- Biên Hòa, 33 trường học với 2.772 học sinh.</sent>
+        </p>
+        <p>
+          <sent id="s104">- Bến Tre, 8.136 học sinh, trong tổng số dân cư là 291.393 người.</sent>
+        </p>
+        <p>
+          <sent id="s105">- Gò Công, 3.412 học sinh.</sent>
+        </p>
+        <p>
+          <sent id="s106">- Mỹ Tho, 8.357 học sinh trường công và 1.217 học sinh trường tư, tất cả</sent>
+        </p>
+        <p>
+          <sent id="s107">105 trường.</sent>
+        </p>
+        <p>
+          <sent id="s108">- Sa Đéc, 6.689 học sinh.</sent>
+        </p>
+        <p>
+          <sent id="s109">- Trà Vinh; 3.666 học sinh</sent>
+        </p>
+        <p>
+          <sent id="s110">- Vĩnh Long, 5.039 học sinh trường công và 974 học sinh trường tư.</sent>
+        </p>
+        <p>
+          <sent id="s111">- Cần Thơ, 5.539 học sinh.</sent>
+        </p>
+        <p>
+          <sent id="s112">Về phía Hậu Giang:</sent>
+        </p>
+        <p>
+          <sent id="s113">- Long Xuyên, 4.162 học sinh.</sent>
+        </p>
+        <p>
+          <sent id="s114">- Rạch Giá, 2.943 học sinh.</sent>
+        </p>
+        <p>
+          <sent id="s115">- Sóc Trăng, 3.528 học sinh.</sent>
+        </p>
+        <p>
+          <sent id="s116">Tóm lại thì Sa Đéc, Vĩnh Long, Mỹ Tho, Bến Tre đứng đầu.[77] Nếu so sánh với 27 năm về trước, tức là năm 1899, chúng ta thấy trường học đã gia tăng, mặc dầu còn xa lắm mới đáp ứng nhu cầu.</sent>
+        </p>
+        <p>
+          <sent id="s117">Tỉnh Mỹ Tho, năm 1899, chỉ có một trường tỉnh, bốn trường tổng.</sent>
+        </p>
+        <p>
+          <sent id="s118">Năm 1926, tỉnh này được 105 trường, vừa trường tỉnh, trường làng.</sent>
+        </p>
+        <p>
+          <sent id="s119">Những con số trên chỉ gây ý thức tổng quát mà thôi.</sent>
+        </p>
+        <p>
+          <sent id="s120">Việc thống kê chưa được chu đáo, ranh giới mỗi tỉnh thay đổi chút ít, người Pháp sáp nhập nhiều làng nhỏ để tạo ra một làng lớn hơn: làng thời đàng cựu nhỏ như một ấp!</sent>
+        </p>
+        <p>
+          <sent id="s121">Trong tỉnh Bến Tre, trong ba năm liên tiếp, nhà nước thuộc địa thay đổi ranh giới làng xã đến ba lần: Năm 1925, tỉnh gồm 144 làng.</sent>
+        </p>
+        <p>
+          <sent id="s122">Năm 1926, gom lại còn 109 làng.</sent>
+        </p>
+        <p>
+          <sent id="s123">Năm 1927, chỉ còn 94 làng, tỉnh vẫn giữ diện tích cũ.</sent>
+        </p>
+        <p>
+          <sent id="s124">Trường học phát triển khiến những điều dị đoan mê tín, những chủ trương đánh thực dân Pháp bằng bùa phép “sái đậu thành binh” hoặc chủ trương ngồi khoanh tay chờ “thiên địa tuần huờn” khó còn đất đứng ở Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s125">Những chủ trương bưng bít, mơ hồ ấy chỉ thu hút được một số người ở vùng ít đường giao thông.</sent>
+        </p>
+        <p>
+          <sent id="s126">Người Miệt Vườn mang tâm hồn yêu nước.</sent>
+        </p>
+        <p>
+          <sent id="s127">Năm 1904, chí sĩ Phan Bội Châu vào Nam, viếng tỉnh Châu Đốc.</sent>
+        </p>
+        <p>
+          <sent id="s128">Năm 1909, Kỳ ngoại hầu Cường Để vào Nam, xuống Mỹ Tho rồi lên Tân Châu.</sent>
+        </p>
+        <p>
+          <sent id="s129">Hầu ghé lại Cao Lãnh, cũng như ông Tôn Văn.</sent>
+        </p>
+        <p>
+          <sent id="s130">Năm 1910, vài nhà cách mạng từ Côn Đảo bị đưa về an trí ở Bến Tre ông Nguyễn Quyền, ở Long Xuyên ông Dương Bá Trạc, ở Sa Đéc ông Võ Hoành.</sent>
+        </p>
+        <p>
+          <sent id="s131">Từ trước đó, phong trào Duy Tân, Đông Du được nhiều chí sĩ hưởng ứng khắp miền Nam: ông Nguyễn An Khương thân phụ ông Nguyễn An Ninh, ông Nguyễn An Cư, ông Nguyễn Thần Hiến, ông Gilbert Trần Chánh Chiếu.</sent>
+        </p>
+        <p>
+          <sent id="s132">Ngoài ra, còn ông Trương Duy Toản đã nói ở phần trước, về sân khấu cải lương, ông Đỗ Văn Y. Người hoạt động tiêu biểu có lẽ là ông Nguyễn Quang Diêu[78].</sent>
+        </p>
+        <p>
+          <sent id="s133">Miệt Vườn là đất tốt để phong trào Đông Du, Duy Tân phát triển, nhứt là vùng Cao Lãnh.</sent>
+        </p>
+        <p>
+          <sent id="s134">Ở đây, chúng tôi không liệt kê đầy đủ danh tánh những chiến sĩ hăng hái ở Mỹ Trà, Hòa An Cao Lãnh, ở Chợ Thủ Long Xuyên, ở Tam Bình Vĩnh Long.</sent>
+        </p>
+        <p>
+          <sent id="s135">Và chúng tôi không muốn so sánh, cân nhắc công trình của từng người.</sent>
+        </p>
+        <p>
+          <sent id="s136">Điều đáng nghiên cứu là đường lối chánh trị.</sent>
+        </p>
+        <p>
+          <sent id="s137">Các vị ấy theo đường lối chánh tri của ông Phan Bội Châu, Cường Để.</sent>
+        </p>
+        <p>
+          <sent id="s138">Mục đích chánh là giành độc lập, học tập kỹ thuật Tây phương để đánh đuổi thực dân Pháp.</sent>
+        </p>
+        <p>
+          <sent id="s139">Chiến thắng của Nhựt đem lại luồng sinh khí mới.</sent>
+        </p>
+        <p>
+          <sent id="s140">Cuộc Cách mạng Tân Hợi của Tôn Văn lập chánh thể dân quyền được ông Nguyễn Quang Diêu ca ngợi và toan áp dụng trong hoàn cảnh thực tế của nước nhà.</sent>
+        </p>
+        <p>
+          <sent id="s141">Như chúng ta biết, chia đất của đại điền chủ cho dân cày, hạn chế sự phát triển của tư bản là hai điểm quan trọng của nhà cách mạng họ Tôn: “Tiết chế tư bổn, bình quân địa quyền”.</sent>
+        </p>
+        <p>
+          <sent id="s142">Ông Nguyễn Quang Diêu đánh thức giới dân cày Nam Việt từ năm 1928-1929: ...</sent>
+        </p>
+        <p>
+          <sent id="s143">Suốt năm cày mướn cấy thuê Lúa đi đâu mất, tiền về tay ai?</sent>
+        </p>
+        <p>
+          <sent id="s144">Còn bề chú cả nhà đói rách, Chủ chú đành ngảnh mặt ngơ tai.</sent>
+        </p>
+        <p>
+          <sent id="s145">Lúa tiền vay một trả hai, Cong lưng làm mọi cả đời không cơm.</sent>
+        </p>
+        <p>
+          <sent id="s146">Đến đỗi chú đập rơm táy mót, Chủ chú quơ sạch bót chẳng chừa.</sent>
+        </p>
+        <p>
+          <sent id="s147">Đó là tang tích sờ sờ, Thế mà chú lại đổ thừa Trời sao?</sent>
+        </p>
+        <p>
+          <sent id="s148">Trước cảnh khổ ấy, Trời bèn chỉ rõ: ...</sent>
+        </p>
+        <p>
+          <sent id="s149">Bởi trên có tham ô chánh phủ, Binh vực nhà điền chủ hiếp bây.</sent>
+        </p>
+        <p>
+          <sent id="s150">Khoa trương gươm bén súng hay...</sent>
+        </p>
+        <p>
+          <sent id="s151">Ai nấy nên tùy hoàn cảnh mà tranh đấu, hoặc là theo thuyết bất bạo động của thánh Găn-đi bên Ấn Độ. ...</sent>
+        </p>
+        <p>
+          <sent id="s152">Tôn Văn đứng trước hô hào Bao nhiêu dân ruộng ồn ào nổi lên...</sent>
+        </p>
+        <p>
+          <sent id="s153">Tóm thâu ruộng đất chủ điền Chia cho công chúng ở yên cấy trồng!</sent>
+        </p>
+        <p>
+          <sent id="s154">Thời Pháp thuộc nghe nói đến chủ trương ấy, nhiều người hốt hoảng cho rằng đó là giai cấp đấu tranh do tà thuyết Cộng Sản ngoại lai bày ra!</sent>
+        </p>
+        <p>
+          <sent id="s155">Thật ra, đó là lý thuyết của ông Tôn Văn, được chí sĩ quốc gia Nguyễn Quang Diêu tìm cách áp dụng.</sent>
+        </p>
+        <p>
+          <sent id="s156">Trước năm 1930, ở Nam Phần còn một số trí thức ý thức được sự đô hộ của thực dân Pháp.</sent>
+        </p>
+        <p>
+          <sent id="s157">Nhà chí sĩ gây ảnh hưởng mạnh nhứt, sâu rộng trong đại chúng nhứt vẫn là ông Nguyễn An Ninh.</sent>
+        </p>
+        <p>
+          <sent id="s158">Chí sĩ họ Nguyễn hoạt động công khai, từ Sài Gòn, đánh thức tinh thần dân tộc, đòi hỏi một cuộc cách mạng triệt để, từ trong tâm hồn mỗi người thanh niên, hướng về tương lai, nhằm vào hoàn cảnh thực tế của đất nước, kết hợp văn minh Đông-Tây.</sent>
+        </p>
+        <p>
+          <sent id="s159">Tiếng nói của chí sĩ họ Nguyễn từ Sài Gòn đã gây những đợt sóng to, lan rộng khắp Miệt Vườn, đến tận các tỉnh xa xôi ở vịnh Xiêm La, nhờ phương tiện giao thông, nhờ báo chí; từ Hóc Môn, Bà Điểm đến mũi Cà Mau, người miền Nam có những khát vọng giống nhau, khi dã tâm của thực dân lần hồi hiện rõ rệt.</sent>
+        </p>
+        <p>
+          <sent id="s160">Chí sĩ họ Nguyễn nối tiếp tinh thần Duy Tân, Đông Kinh Nghĩa Thục với tư thế sáng tạo, đã đau xót, đã cảm thông với các phong trào khởi nghĩa võ trang của Phan Xích Long, Trần Cao Vân, Lương Ngọc Quyến.</sent>
+        </p>
+        <p>
+          <sent id="s161">Lần đầu tiên, việc chống Pháp trở thành phong trào đại chúng - không đóng khung trong riêng một số ít nho sĩ, thức giả như thời Đông Du. Bài diễn thuyết đọc tại Hội Quán SAMIPIC ở Sài Gòn vào ngày 15-10-1923 là một tuyên ngôn quan trọng, nhan đề là “Cao vọng của những thanh niên ngày nay”, mỗi tiếng nói, mỗi chữ đều bao hàm nhiều ý nghĩa, nếu ngắt ra khỏi văn mạch thì dễ sai lạc ít nhiều.</sent>
+        </p>
+        <p>
+          <sent id="s162">Tuy nhiên, xin trích dẫn nguyên văn vài câu tiêu biểu, - những câu không trích lại đây biết đâu lại tiêu biểu cho tư tưởng của chí sĩ Nguyễn An Ninh hơn theo bản trích lại của bà Bùi Thế Mỹ, báo đã dẫn.</sent>
+        </p>
+        <p>
+          <sent id="s163">“Cái học thức Tàu của An Nam ta nay đã suy”, “Tôi tưởng rằng gặp lúc tranh sống như lúc này, nếu mà đeo đuổi theo các hòa thuận giả dối trong gia đình, đeo theo ngọn rau vui thú, mồ mả ông bà, thì con người hóa ra yếu”.</sent>
+        </p>
+        <p>
+          <sent id="s164">“Trong buổi này, người học thức Á Đông phải có ít nữa hai nền học thức để nuôi trí thức mới đủ được, là một nền học thức Á Đông, và một nền học thức Âu Tây...</sent>
+        </p>
+        <p>
+          <sent id="s165">Trong ta phải có hai thứ thuốc chống nhau mà sanh ra một thứ thuốc mới.</sent>
+        </p>
+        <p>
+          <sent id="s166">“Một đoàn dân muốn sống, muốn tự do, muốn tràng danh trong nhân loại, cần phải có một nền học thức riêng cho mình”.</sent>
+        </p>
+        <p>
+          <sent id="s167">“Muốn trị bịnh của ngày nay, phải dùng thuốc của ngày nay”.</sent>
+        </p>
+        <p>
+          <sent id="s168">“Ta nên mơ ước, ta cần mơ ước” “Dầu điểm trông mong của ta như điềm chiêm bao, cũng không phải uổng công cho ta trông mong vì có nhiều điều xưa kia của tiền nhân ta chiêm bao, nay ta đã làm thành được cả.</sent>
+        </p>
+        <p>
+          <sent id="s169">Nhưng mà hễ mơ ước, thì phải hành động.</sent>
+        </p>
+        <p>
+          <sent id="s170">Hễ hành động thì phải ráng sức.</sent>
+        </p>
+        <p>
+          <sent id="s171">Ráng sức nghĩa là gặp khó.</sent>
+        </p>
+        <p>
+          <sent id="s172">Mà cái khó trên đường người hành động biết là bao nhiêu, cái đại nhứt khó lại là ở trong ta.</sent>
+        </p>
+        <p>
+          <sent id="s173">Đừng có lo sợ vì cái luân lý hẹp hòi, giả dối của bọn hay dùng mấy tiếng như “vong ân, vô luân lý, làm loạn” mà trói người, mà thuốc chết tinh thần của người”.</sent>
+        </p>
+        <p>
+          <sent id="s174">“Chúng ta phải lo tạo lập ra mới, chúng ta phải là người tạo lập ra mới mãi.</sent>
+        </p>
+        <p>
+          <sent id="s175">Ta không cần bắt chước in như kẻ khác, như kẻ ngu tối bắt chước người khôn vậy.</sent>
+        </p>
+        <p>
+          <sent id="s176">Còn bắt chước người như vậy, là còn nhờ người, còn nương dựa theo sự khôn khéo của người, thì không trông mong giải thoát được.</sent>
+        </p>
+        <p>
+          <sent id="s177">Điều của ta sanh tạo, phải là của ta, phải là ở trong máu mủ ta mà ra, hay là ở nơi học thức Âu Tây - Á Đông hòa hợp nhau trong ta mà sanh ra”.</sent>
+        </p>
+        <p>
+          <sent id="s178">“Lần mò cho đặng mình gặp mình, cho đặng mình biết mình, nghĩa là cho biết cái hồn của dân mình trong hồn của mình”.</sent>
+        </p>
+        <p>
+          <sent id="s179">“Ngày nào mà bọn thanh niên không còn quý trọng những cấp bằng, những danh dự giả dối, không còn đeo đuổi theo mấy cái ý kiến yếu thấp hẹp hòi, không còn trọng đãi kẻ làm nô lệ kia dù mặc áo gấm thêu hoa, không còn biết quỳ lạy cái oai nghiêm giả dối của mấy ông thần giả, không còn yêu vì những bọn hữu danh mà bất tài.</sent>
+        </p>
+        <p>
+          <sent id="s180">Ngày nào bọn thanh niên ta không còn theo đuổi những sự ngoài vỏ, những điều giả dối, cứ giữ sự đúng đắn làm người mà đi trên con đường ngay chánh của lương tâm thì ngày ấy không có chi là khó, huống chi là lo gầy dựng một nền trí thức cho nước nhà ta.</sent>
+        </p>
+        <p>
+          <sent id="s181">Từ ngày ấy, từ Nam chí Bắc, dân Nam Việt ta sẽ trở lại như xưa mà trọng thờ các bậc tài cao đức lớn làm rạng danh nòi giống và có nhọc thân giúp ích cho dân nghèo bớt khổ”.</sent>
+        </p>
+      </level1>
+    </body>
+  </book>
+</dtbook>
