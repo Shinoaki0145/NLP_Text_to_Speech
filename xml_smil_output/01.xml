@@ -1,0 +1,605 @@
+<?xml version="1.0" ?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="vi">
+  <head/>
+  <book>
+    <body>
+      <level1>
+        <p>
+          <sent id="s1">Tác phẩm đông bằng sông Cửu Long nét sinh hoạt xưa và văn minh miệt vườn</sent>
+        </p>
+        <p>
+          <sent id="s2">Biên khảo</sent>
+        </p>
+        <p>
+          <sent id="s3">Tác giả Sơn Nam</sent>
+        </p>
+        <p>
+          <sent id="s4">Nhà xuất bản trẻ ấn hành</sent>
+        </p>
+        <p>
+          <sent id="s5">Người đọc Quang Điền</sent>
+        </p>
+        <p>
+          <sent id="s6">Thư viện sách nói dành cho người mù thực hiện</sent>
+        </p>
+        <p>
+          <sent id="s7">LỜI GIỚI THIỆU</sent>
+        </p>
+        <p>
+          <sent id="s8">Với hơn 60 năm sống, đọc, tìm hiểu, nghiên cứu và viết, nhà văn - nhà Nam Bộ học Sơn Nam đã trao cho cuộc đời một gia tài thật đồ sộ - gần 60 tác phẩm đã được xuất bản, trong đó có không ít hơn 50 tác phẩm là của riêng ông.</sent>
+        </p>
+        <p>
+          <sent id="s9">Nói đến tác phẩm Sơn Nam là nói đến chủ đề về Nam Kỳ Lục Tỉnh, về đất, về người, về lịch sử khẩn hoang và phát triển của Nam Bộ.</sent>
+        </p>
+        <p>
+          <sent id="s10">Từ sáu tỉnh ban đầu dưới triều Nguyễn gồm Biên Hòa, Gia Định, Định Tường, Vĩnh Long, An Giang và Hà Tiên trong đó có bốn tỉnh thuộc đồng bằng sông Cửu Long trừ Biên Hòa và Gia Định nay chúng ta có 13 tỉnh và thành phố trực thuộc trung ương.</sent>
+        </p>
+        <p>
+          <sent id="s11">Sự phát triển không ngừng của đồng bằng sông Cửu Long trong những năm qua luôn hàm chứa những giá trị văn hóa tinh thần lớn lao do tiền nhân - những người đi khai hoang mở đất buổi đầu và qua nhiều thế hệ - tạo nên.</sent>
+        </p>
+        <p>
+          <sent id="s12">Tìm hiểu về những giá trị văn hóa tinh thần đó cũng là tìm hiểu về nền văn minh của người mở đất, tìm hiểu nết ăn, nếp ở, tập quán sinh hoạt của một bộ phận người đã tạo nên diện mạo của một vùng văn hóa.</sent>
+        </p>
+        <p>
+          <sent id="s13">Trong tinh thần đó, Nhà xuất bản Trẻ xin trân trọng giới thiệu cùng bạn đọc xa gần tập sách: Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa &amp; Văn Minh Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s14">Văn Minh Miệt Vườn là tác phẩm được tác giả hoàn thành giữa năm 1970 và được xuất bản lần đầu tại Sài Gòn năm 1970 bởi Nhà xuất bản An Tiêm.</sent>
+        </p>
+        <p>
+          <sent id="s15">Còn Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa là tác phẩm được viết sau ngày 30.4.1975 và được in lần đầu bởi Nhà xuất bản Thành phố Hồ Chí Minh năm 1985.</sent>
+        </p>
+        <p>
+          <sent id="s16">Ở lần đầu xuất bản nầy, chúng tôi mong muốn bạn đọc sẽ có điều kiện tốt hơn để nghiên cứu về đồng bằng sông Cửu Long qua những nét sinh hoạt truyền thống và nền văn minh sông nước, với cách gọi nôm na là văn minh Miệt Vườn.</sent>
+        </p>
+        <p>
+          <sent id="s17">Hiểu người xưa để cùng sống với người hôm nay mạnh dạn và tin yêu hơn.</sent>
+        </p>
+        <p>
+          <sent id="s18">NHÀ XUẤT BẢN TRẺ</sent>
+        </p>
+        <p>
+          <sent id="s19">ĐỒNG BẰNG SÔNG CỬU LONG - NÉT SINH HOẠT XƯA</sent>
+        </p>
+        <p>
+          <sent id="s20">BIÊN KHẢO</sent>
+        </p>
+        <p>
+          <sent id="s21">LỜI GIỚI THIỆU</sent>
+        </p>
+        <p>
+          <sent id="s22">Qua 50 tác phẩm của nhà văn Sơn Nam, hầu hết đều viết về đất nước và con người Nam Bộ, chứng tỏ rằng tác giả viết rất khỏe và có một vốn sống vô cùng phong phú về miền đất thân yêu này.</sent>
+        </p>
+        <p>
+          <sent id="s23">Từ năm 1952, ở tuổi 25, Sơn Nam đã đoạt giải hai tác phẩm đầu tay:</sent>
+        </p>
+        <p>
+          <sent id="s24">- Bên rừng Cù lao Dung giải nhất giải Cửu Long của Ủy ban kháng chiến hành chính Nam Bộ</sent>
+        </p>
+        <p>
+          <sent id="s25">- Tây đầu đỏ giải nhì giải Cửu Long</sent>
+        </p>
+        <p>
+          <sent id="s26">Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa là một trong những tác phẩm tâm đắc của nhà văn Sơn Nam. Với một bút pháp giản dị nhưng khá điêu luyện, tác giả đã dựng nên một bức tranh sống động về những sinh hoạt văn hóa vào cuối thế kỷ XIX - đầu thế kỷ XX. Đọc Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa, bạn như được hướng dẫn đi du lịch ở 6 tỉnh miền Tây.</sent>
+        </p>
+        <p>
+          <sent id="s27">Nơi đây, từ một miền nổi danh “ma thiêng nước độc”, muỗi mòng, cọp sấu, rắn rít... sau này đồng bằng sông Cửu Long đã trở thành một vựa lúa lớn nhất nước, lượng xuất cảng đứng hàng đầu thế giới.</sent>
+        </p>
+        <p>
+          <sent id="s28">Đến đây, bạn đọc sẽ được thưởng thức “Tiếng hò trên sông Hậu” vang vọng suốt những quãng kinh dài.</sent>
+        </p>
+        <p>
+          <sent id="s29">Mỗi kỳ lễ lớn, người ta thi nhau chưng cộ diễu hành trên đường phố và cộ hoa lưu động trên sông nước muôn màu rực rỡ.</sent>
+        </p>
+        <p>
+          <sent id="s30">Bên trong tài tử đờn ca hoặc diễn tuồng.</sent>
+        </p>
+        <p>
+          <sent id="s31">Những điệu hò cấy “tự biên” nhằm “giao duyên” cho qua cơn mệt.</sent>
+        </p>
+        <p>
+          <sent id="s32">Hát bội dành cho dịp kỳ yên ở đình làng.</sent>
+        </p>
+        <p>
+          <sent id="s33">Phong trào thể thao phát triển.</sent>
+        </p>
+        <p>
+          <sent id="s34">Các đội bóng đá đầu tiên đã được thành lập.</sent>
+        </p>
+        <p>
+          <sent id="s35">Vùng sông Tiền nổi danh với Hội Đá banh quận Cao Lãnh.</sent>
+        </p>
+        <p>
+          <sent id="s36">Theo chân những người hành hương, bạn đọc sẽ được tham quan Điện Bà ở đỉnh núi Bà Đen Tây Ninh cao chót vót, viếng Bà Chúa Xứ núi Sam Châu Đốc.</sent>
+        </p>
+        <p>
+          <sent id="s37">Hoặc bạn có thể đến các vườn cây trĩu trái ngon ngọt ở Cái Mơn, vườn dừa Bến Tre, vườn cam Cái Bè...</sent>
+        </p>
+        <p>
+          <sent id="s38">Để tiêu khiển, bạn có thể tham gia đi săn thú, gác cu, gác cuốc, hoặc các trò đá cá lia thia, đá gà náo nhiệt và hấp dẫn.</sent>
+        </p>
+        <p>
+          <sent id="s39">Cuối cùng, mời bạn đọc thưởng thức các món ăn đậm đà hương vị miền Nam. Qua Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa, bạn đọc sẽ cảm thấy yêu mến đất nước mình, yêu mến con người Nam Bộ chân chất, sớm có ý thức hợp quần trong công cuộc khai phá và bảo vệ đất đai, sớm có tinh thần bất khuất, chuộng công bằng, lẽ phải.</sent>
+        </p>
+        <p>
+          <sent id="s40">NHÀ XUẤT BẢN TRẺ</sent>
+        </p>
+        <p>
+          <sent id="s41">VĂN HÓA TRUYỀN THỐNG ĐỒNG BẰNG SÔNG CỬU LONG</sent>
+        </p>
+        <p>
+          <sent id="s42">TRONG DÂN GIAN, GỌI SÔNG CỬU LONG LÀ sông Lớn, từ khoảng ngã tư Phnôm Pênh trở lên Lào, cây sông Lớn là những bè gỗ to, khai thác từ khu vực nói trên.</sent>
+        </p>
+        <p>
+          <sent id="s43">Mỗi khúc sông mang tên riêng: sông Mỹ Tho, sông Ba Lai, sông Cổ Chiên.</sent>
+        </p>
+        <p>
+          <sent id="s44">Quen gọi sông Cái, khúc sông Tiền hoặc sông Hậu chảy ngang qua địa phương.</sent>
+        </p>
+        <p>
+          <sent id="s45">Con số 9 mang ý nghĩa tượng trưng về phong thủy, các cửa sông có thể đếm là bảy, là tám.</sent>
+        </p>
+        <p>
+          <sent id="s46">Bản đồ hàng hải quốc tế do người Tây phương rồi người Pháp điều chỉnh hồi cuối thế kỷ XIX lần hồi nhứt trí với nhau: để đáp ứng yêu cầu “chín con rồng” đặt thêm hai cửa Cung Hầu và Trạnh Đề.</sent>
+        </p>
+        <p>
+          <sent id="s47">Hai cửa này dân gian không buồn nhắc tới, chẳng hiểu bỏ dấu ra sao, chẳng qua là Cồn Ngao, Trấn Di, đọc lơ lớ, tùy tiện theo người Pháp.</sent>
+        </p>
+        <p>
+          <sent id="s48">Mùa lũ lụt hằng năm, gọi mùa nước nổi.</sent>
+        </p>
+        <p>
+          <sent id="s49">“Cánh đồng”, “đồng” là cuộc đất trống trải, bỏ hoang, thí dụ Đồng Tháp, đồng Nọc Nạn.</sent>
+        </p>
+        <p>
+          <sent id="s50">Đồng bào ta thời trước làm ruộng mỗi năm một vụ, dùng nước trời nên chọn ưu tiên những giồng cao ráo, nước chảy lưu thông, không úng, không phèn.</sent>
+        </p>
+        <p>
+          <sent id="s51">Đất cao thấp, tùy mưa nắng mà gieo cấy sớm hay muộn, vì vậy phân biệt ruộng gò, ruộng đồng, ruộng bưng, ruộng biền, ruộng rộc...</sent>
+        </p>
+        <p>
+          <sent id="s52">Kinh rạch thời xưa ít ỏi, so với ngày nay, nước dâng quá cao vào mùa mưa.</sent>
+        </p>
+        <p>
+          <sent id="s53">Muốn được mùa, nên chọn những giồng cao, ven sông rạch.</sent>
+        </p>
+        <p>
+          <sent id="s54">Do đó, vùng đồng bằng sông Cửu Long - nơi thuận lợi làm ruộng trong bước đầu chỉ gồm phía tả ngạn sông Tiền, gọi đất Ba Giồng.</sent>
+        </p>
+        <p>
+          <sent id="s55">Con số 3 cũng nhằm vào ý nghĩa phong thủy.</sent>
+        </p>
+        <p>
+          <sent id="s56">Trịnh Hoài Đức chép: “Ba Giồng nằm giữa huyện Kiến Hưng và Kiến Đăng” 1 .</sent>
+        </p>
+        <p>
+          <sent id="s57">Ranh giới mỗi huyện thời xưa quá rộng muốn lập một đơn vị hành chánh, cần số dân đinh tương đối đông , ta hiểu là giữa vùng Tân Hiệp và Cai Lậy tỉnh Tiền Giang ngày nay.</sent>
+        </p>
+        <p>
+          <sent id="s58">Cũng theo họ Trịnh, cuộc đất này trở sông, cách núi, dân giàu, của đủ, từng làm nơi nương tựa cho Đỗ Thanh Nhân và Nguyễn Ánh.</sent>
+        </p>
+        <p>
+          <sent id="s59">Mất Ba Giồng thì xem như Nguyễn Ánh đành chạy qua Xiêm, thâu phục được Ba Giồng là có địa bàn vững chắc để đánh về Sài Gòn.</sent>
+        </p>
+        <p>
+          <sent id="s60">Biên Hòa và Bà Rịa, theo ngôn ngữ thời xưa là đất Đồng Nai, Bến Nghé Sài Gòn là vùng trấn Phiên An. Vũng Gù - Mỹ Tho là trấn Định Tường; Vũng Gù là tên dân gian của sông Vàm Cỏ Tây, cũng như Vàm Cỏ Đông gọi là sông Bến Lức.</sent>
+        </p>
+        <p>
+          <sent id="s61">Long Hồ, Sa Đéc gồm phía hữu ngạn sông Tiền.</sent>
+        </p>
+        <p>
+          <sent id="s62">Rạch Giá, Cà Mau gồm khu vực rộng ven biển phía Tây.</sent>
+        </p>
+        <p>
+          <sent id="s63">Thoạt tiên, hai tiếng Đồng Nai dùng để gọi toàn Nam Bộ.</sent>
+        </p>
+        <p>
+          <sent id="s64">Cánh đồng nhiều hươu nai này ở khu vực nay còn gọi là Hố Nai sử ghi Lộc Động hoặc Lộc Dã.</sent>
+        </p>
+        <p>
+          <sent id="s65">Rồi cả Nam Bộ gọi đất Gia Định, Gia Định thành.</sent>
+        </p>
+        <p>
+          <sent id="s66">Từ đời Minh Mạng, gọi Lục Tỉnh, nhưng thời Pháp, nói xe đò Lục Tỉnh, tàu Lục Tỉnh không ai nghĩ đến miền Đông Nam Bộ cả, bến xe Miền Đông ở riêng biệt, tuy Biên Hòa cũng thuộc về Lục Tỉnh.</sent>
+        </p>
+        <p>
+          <sent id="s67">Lục Tỉnh là đồng bằng sông Cửu Long: lúa gạo từ Lục Tỉnh, trái cây Lục Tỉnh, về Lục Tỉnh làm ăn.</sent>
+        </p>
+        <p>
+          <sent id="s68">“Ngoài Huế”, “trên Nam Vang” là tiếng nói thông dụng, lấy đồng bằng làm chuẩn.</sent>
+        </p>
+        <p>
+          <sent id="s69">“Miền Dưới” là vùng Mã Lai, Indonésia, Singapore xưa gọi là Phố Mới do người Anh đến xây cất lúc sau.</sent>
+        </p>
+        <p>
+          <sent id="s70">Bà Lai, hoặc Bà Lai Du là tên thông dụng để gọi khu vực gần Sourabaya ở Indonésia, thường giao thiệp với đồng bằng.</sent>
+        </p>
+        <p>
+          <sent id="s71">Thế kỷ XVI đánh dấu bước đầu suy thoái của nước Chân Lạp với nhiều đợt tấn công của phong kiến Xiêm, nhằm phá hủy hệ thống thủy lợi, bắt dân về Xiêm làm nô lệ.</sent>
+        </p>
+        <p>
+          <sent id="s72">Thương gia, cố đạo Bồ Đào Nha, Tây Ban Nha rồi đến thương gia Hà Lan lui tới Phnôm Pênh, lần hồi phồn thịnh sau khi vùng Ăng-co điêu tàn.</sent>
+        </p>
+        <p>
+          <sent id="s73">Hạ lưu đồng bằng sông Cửu Long bấy giờ là vùng bị bỏ rơi, dân cư thưa thớt, thiếu những mặt hàng như ngà voi, hương liệu, đậu khấu mà thị trường nước ngoài đòi hỏi.</sent>
+        </p>
+        <p>
+          <sent id="s74">Phía hạ lưu, phần lớn diện tích bùn lầy, ẩm thấp, khí hậu khắc nghiệt.</sent>
+        </p>
+        <p>
+          <sent id="s75">Đất úng lần hồi tạo thêm phèn.</sent>
+        </p>
+        <p>
+          <sent id="s76">Muỗi mòng nhiều, lăng quăng và lá cây mục dẫy đầy, tôm cá sinh sôi, cá lớn nuốt cá bé, chim chóc và rắn ăn cá.</sent>
+        </p>
+        <p>
+          <sent id="s77">Rắn bắt chim non và trứng chim, chim ăn rắn.</sent>
+        </p>
+        <p>
+          <sent id="s78">Cỏ dại, lau sậy là thức ăn có thừa của từng bầy nai, heo rừng, voi.</sent>
+        </p>
+        <p>
+          <sent id="s79">Nai trở thành mồi ngon cho cọp.</sent>
+        </p>
+        <p>
+          <sent id="s80">Khỉ bầy tha hồ ăn trái cây giữa rừng, ven sông.</sent>
+        </p>
+        <p>
+          <sent id="s81">Rừng lâm vồ, xộp, gừa với nhiều rễ phụ lòng thòng tạo ra kiểu hang động cho cọp, tàn lá là môi trường của nhiều loại chim.</sent>
+        </p>
+        <p>
+          <sent id="s82">Xác thú trôi sông nuôi dưỡng cá tôm; diều quạ và cá sấu sinh đẻ nhanh trên bãi bùn.</sent>
+        </p>
+        <p>
+          <sent id="s83">Người thế kỷ XIX thường nhắc lại chuyện khó tin: con ó đáp xuống sông, dùng móng nhọn để bắt cá, nhưng cá to đớp lại, ó bị trói chân, kêu la thảm thiết.</sent>
+        </p>
+        <p>
+          <sent id="s84">Cây to trong rừng, trên là ổ chim, dưới là xương cá vun đống.</sent>
+        </p>
+        <p>
+          <sent id="s85">Mùa nắng, bãi bùn, ao vũng bốc hơi độc của các lá, xác thú.</sent>
+        </p>
+        <p>
+          <sent id="s86">Rừng cháy, vài tháng sau mưa xuống, cây cỏ mọc nhanh và nhiều hơn.</sent>
+        </p>
+        <p>
+          <sent id="s87">Mùa mưa, nước chảy mạnh, thêm cơn lụt thường niên, cây mé sông trốc gốc, phù sa tuôn tràn, sửa đổi hình thể về chi tiết nhỏ nhưng rất quan trọng đối với nhà cửa, vườn tược tập trung ven sông: doi bồi, vịnh lở, đầu cù lao sụp xuống mất dạng, nhưng nơi khác, cồn nhỏ từ đáy nước dâng lên.</sent>
+        </p>
+        <p>
+          <sent id="s88">Khó phân biệt đâu là đất bưng, đâu là ao vũng.</sent>
+        </p>
+        <p>
+          <sent id="s89">Bờ biển mơ hồ, thay đổi dạng, cây mắm, cây đước, cây vẹt từ dưới nước nhô lên, đón mưa nắng.</sent>
+        </p>
+        <p>
+          <sent id="s90">Sông Cửu Long mang phù sa ra cửa biển, nuôi cá tôm, phần lớn phù sa theo hải lưu bồi đắp mãi phía Tây Nam. Nếu Biển Hồ của Campuchia là hồ nuôi cá thiên nhiên to rộng thì vịnh Rạch Giá không kém bất cứ nơi nào của Đông Nam Châu Á về cá tôm, tính theo năng suất bình quân, mỗi kilômét vuông.</sent>
+        </p>
+        <p>
+          <sent id="s91">Từ xưa, người Khơ-me sống tập trung trong những “sóc” cao ráo, ở nhà sàn, làm ruộng nước, thâm canh, tự túc tự cấp.</sent>
+        </p>
+        <p>
+          <sent id="s92">Ruộng ai không canh tác khoảng ba năm thì người khác chiếm cứ, quyền thừa kế về ruộng rất hạn chế.</sent>
+        </p>
+        <p>
+          <sent id="s93">Dân chúng thích đầu tư cho kiếp sau, chùa trong sóc tu bổ liên tục, khi được mùa, ai nấy đều lo cúng một hai pho tượng Phật bằng cây, hoặc tượng nhỏ bọc vàng, bọc bạc.</sent>
+        </p>
+        <p>
+          <sent id="s94">Nhà cửa, vị trí của sóc gần như không dời đổi, trừ khi chạy loạn trong nhiều năm, hoặc xảy ra bịnh dịch, cúng vái không xong thì đốt nhà, bỏ cả xóm, rủ nhau qua nơi khác.</sent>
+        </p>
+        <p>
+          <sent id="s95">Rừng rậm, đồng cỏ ẩm thấp, sông rộng là nơi ngự trị của thần thánh, ma quỉ đáng kiêng nể, bởi vậy không đặt nặng việc khẩn thêm diện tích hoặc giao lưu.</sent>
+        </p>
+        <p>
+          <sent id="s96">Truyền thống tiêu tưới thu hẹp trong việc đắp bờ, chăm sóc từng mảng nhỏ.</sent>
+        </p>
+        <p>
+          <sent id="s97">Hồ nước Ba-rai ở vùng Ăng-co thời xưa chỉ còn dấu ấn ở cái ao vuông, đào quanh chùa, tượng trưng mà thôi.</sent>
+        </p>
+        <p>
+          <sent id="s98">Phá cái vòng lẩn quẩn của kinh tế tự túc tự cấp là chuyện không ai nghĩ tới.</sent>
+        </p>
+        <p>
+          <sent id="s99">Cách làm ăn gần như đã hoàn chỉnh rồi, thay đổi dầu là chi tiết nhỏ có thể làm đảo lộn tất cả, gây đổ vỡ cơ cấu cổ truyền.</sent>
+        </p>
+        <p>
+          <sent id="s100">Sóc nhỏ khép kín; mức sống hẩm hiu, đã là định mạng, thỉnh thoảng có lễ chùa, tiệc tùng, ngày mừng năm mới thì nên tận hưởng, lãng phí, lúc đói rách, túng thiếu cùng cực rủ nhau khuây khỏa, với chén rượu, giữa trưa nắng, bên bụi tre già.</sent>
+        </p>
+        <p>
+          <sent id="s101">Trong lịch sử các dân tộc, sự kiện di dân về phía tây hoặc phía nam để mở nước nào riêng ở Việt Nam mới có.</sent>
+        </p>
+        <p>
+          <sent id="s102">Ta liên tưởng đến Thái Lan, từ bắc xuống phía nam, lần lượt thay đổi kinh đô, để dừng lại ở bờ biển.</sent>
+        </p>
+        <p>
+          <sent id="s103">Nhiều mẫu người hùng trở thành phong cách của dân tộc Mỹ, giới thiệu trong tiểu thuyết, trên màn bạc.</sent>
+        </p>
+        <p>
+          <sent id="s104">Thật ra, bối cảnh lịch sử mỗi nước một khác.</sent>
+        </p>
+        <p>
+          <sent id="s105">Nước Mỹ thành lập quốc gia trước, rồi sau đó, tìm ra tính dân tộc.</sent>
+        </p>
+        <p>
+          <sent id="s106">Việt Nam đã thành hình từ thời các vua Hùng, chống ngoại xâm, với văn hiến sáng rỡ.</sent>
+        </p>
+        <p>
+          <sent id="s107">Khẩn hoang tận đồng bằng sông Cửu Long là tiếp nối bình thường truyền thống dựng nước, giữ nước, lần hồi tạo thêm nét đa dạng trong tính thống nhứt về văn hóa dân tộc.</sent>
+        </p>
+        <p>
+          <sent id="s108">Ta vốn có kinh nghiệm về sự khắc nghiệt của rừng núi đầy sương mù và rừng rậm nhiệt đới, môi trường của bịnh sốt rét cấp tính.</sent>
+        </p>
+        <p>
+          <sent id="s109">Miền Đông Nam Bộ đến hồi đầu thế kỷ XX từng nổi danh với “ma thiêng nước độc”.</sent>
+        </p>
+        <p>
+          <sent id="s110">Nơi đất đỏ, đất xám mà thực dân khai thác cây cao su, trong buổi đầu.</sent>
+        </p>
+        <p>
+          <sent id="s111">Đồng bằng sông Cửu Long với sông rạch, rừng chồi, đầm lầy tuy khá quang đãng nhưng trong thời gian dài là môi trường của sốt rét mạn tính, ít nguy hại, tương đối dễ điều trị, không phá hoại cơ thể đến mức suy kiệt nếu con người được bồi dưỡng với cơm cá dồi dào.</sent>
+        </p>
+        <p>
+          <sent id="s112">Biển là nguồn lợi đáng kể, nghề đánh cá, làm nước mắm đã phát triển với kinh nghiệm cao về kỹ thuật, từ bờ biển miền Trung.</sent>
+        </p>
+        <p>
+          <sent id="s113">Sông Tiền Cửu Long và sông Hậu rất rộng lượng, đôn hậu, ít khi trở chứng, cho rất nhiều, ít khi lấy lại, nước lụt hằng năm không gây tai họa nếu con người biết quy luật.</sent>
+        </p>
+        <p>
+          <sent id="s114">Xử lý khôn khéo, lần hồi ta có lúa, có cá đồng, cá biển, cây củi, vườn cây trái hoa màu, gió sẽ mát hơn, nắng bớt oi bức, mưa bớt lầy lội.</sent>
+        </p>
+        <p>
+          <sent id="s115">Người Âu đến châu Mỹ lập nghiệp vào lúc cuộc cách mạng kỹ thuật lần thứ nhất đang đà phát triển.</sent>
+        </p>
+        <p>
+          <sent id="s116">Phương tiện di chuyển lúc ban đầu của họ là xe với sức kéo của 3 đến 5 cặp lừa hoặc từ 5 đến 10 cặp bò. cả gia đình cư trú dễ dàng, ăn ngủ trên xe, mang theo dụng cụ cần thiết.</sent>
+        </p>
+        <p>
+          <sent id="s117">Người khẩn hoang từng hành nghề thợ rèn, thợ đóng thùng rượu, thợ máy, chuyên việc đo đạc ruộng đất, y sĩ, giáo viên.</sent>
+        </p>
+        <p>
+          <sent id="s118">Thành phố lớn nhỏ mọc nhanh với ngân hàng, quán rượu, địa phương cũng ra báo chí dành chỗ đăng những lời rao cần thiết như sang nhượng đất đai, tìm người với điều kiện để cùng lập gia đình.</sent>
+        </p>
+        <p>
+          <sent id="s119">Người ở châu Mỹ có thừa vật liệu tốt để xây cất: cây súc to, cưa ngắn, chất chồng lên để làm vách.</sent>
+        </p>
+        <p>
+          <sent id="s120">Phương tiện tự vệ gồm súng ngắn, súng dài.</sent>
+        </p>
+        <p>
+          <sent id="s121">Bước đầu họ dùng tàu thủy với ngựa kéo trên bờ rồi tàu chạy hơi nước.</sent>
+        </p>
+        <p>
+          <sent id="s122">Đường xe lửa phát triển nhanh, xuyên lục địa thu hút những người khai khẩn ở hai bên đường sắt để sản phẩm chuyên chở dễ dàng.</sent>
+        </p>
+        <p>
+          <sent id="s123">Đất tốt để trồng lúa mì, trồng bắp, đồng cỏ nuôi bò, hấp dẫn nhưng không bằng mỏ vàng, mỏ dầu lửa.</sent>
+        </p>
+        <p>
+          <sent id="s124">Dân ta đến đồng bằng sông Cửu Long vào thế kỷ XVII với trình độ nông nghiệp lạc hậu, trâu bò không đủ làm sức kéo, dụng cụ thô sơ, phần lớn làm bằng “thảo mộc”, trừ cây dao, cây búa.</sent>
+        </p>
+        <p>
+          <sent id="s125">Từ miền Trung đến, thuận gió mùa, vào sông rạch thì chèo chống với ghe xuồng nhỏ.</sent>
+        </p>
+        <p>
+          <sent id="s126">Lúc đầu còn bỡ ngỡ về thổ nhưỡng, mưa nắng.</sent>
+        </p>
+        <p>
+          <sent id="s127">Về thuốc men, toàn là y dược cổ truyền.</sent>
+        </p>
+        <p>
+          <sent id="s128">Đối với cọp sấu là gay go, nhưng chỉ dùng roi côn, dao búa, làm bẫy hoặc dùng lưỡi câu.</sent>
+        </p>
+        <p>
+          <sent id="s129">Phủ Biên Tạp Lục của Lê Quý Đôn mô tả: ra đi gồm lưu dân và người có vật lực, ta hiểu là người nhiều vốn.</sent>
+        </p>
+        <p>
+          <sent id="s130">Vốn đến mức nào, không thấy ghi chi tiết, nhưng ta biết chắc chắn bấy giờ ruộng mỗi năm một vụ, chờ sáu bảy tháng mới thu hoạch, nếu thất mùa, đành chờ năm sau mới bù lỗ, trang trải chút ít nợ nần, thứ nợ cộng tiền lời vào vốn, xem như vốn mới, rồi căn cứ vào đó mà tính lời thêm.</sent>
+        </p>
+        <p>
+          <sent id="s131">Người tá điền thắt lưng buộc bụng cũng cần tối thiểu một số lúa gạo, vật dụng, tu bổ nhà cửa, xuồng, thuốc uống, bánh kẹo, trầu cau.</sent>
+        </p>
+        <p>
+          <sent id="s132">Ngân sách của từng gia đình khó kéo dài ở mức thấp: không thể ngủ trần, thiếu chiếu nóp, quần áo quá rách, xuồng ghe lủng.</sent>
+        </p>
+        <p>
+          <sent id="s133">Lại còn những nhu cầu về tâm linh trong thời ấy, như cúng chùa, ăn Tết, giỗ ông bà, cưới gả, ma chay, tốn kém cho thầy phù thủy.</sent>
+        </p>
+        <p>
+          <sent id="s134">Về giao tế cần xài tiền lúc tiễn bạn đi xa, giúp bạn khi hoạn nạn, uống rượu với người cố tri lúc tha hương.</sent>
+        </p>
+        <p>
+          <sent id="s135">Nước uống của con người, trâu bò, nước nấu canh, luộc rau... phải ngọt, dùng nước giếng, nước sông, hoặc đổi nước vào mùa nắng.</sent>
+        </p>
+        <p>
+          <sent id="s136">“Vật lực” từ miền Trung đưa vào chắc không đủ thỏa mãn yêu cầu của đám lưu dân ngày càng đông đảo.</sent>
+        </p>
+        <p>
+          <sent id="s137">Nhưng thương gia người Hoa đã chờ sẵn, ở cảng nhỏ như chợ Bãi Xàu Sóc Trăng, hoặc phía Phú Lâm, gần Chợ Lớn ngày nay.</sent>
+        </p>
+        <p>
+          <sent id="s138">Sử còn chép nhóm Trần Thắng Tài, Dương Ngạn Địch được ta hướng dẫn và cho phép định cư rất sơm ở Cù lao Phố Biên Hòa và gần chợ Mỹ Tho, số người này khá đông, mang theo vũ khí.</sent>
+        </p>
+        <p>
+          <sent id="s139">Chưa kể đến Mạc Cửu nhờ óc thực tiễn đã xây dựng Hà Tiên trở thành cảng phồn thịnh của phía Tây Nam Campuchia, bày ra sòng bạc.</sent>
+        </p>
+        <p>
+          <sent id="s140">Đồng bằng đã sớm giao thông trực tiếp với các nước láng giềng, theo mạng lưới to từ nam Trung Hoa, đảo Hải Nam xuống Mã Lai, Nam Dương, lên Xiêm, Cam Bốt.</sent>
+        </p>
+        <p>
+          <sent id="s141">Giới mại bản người Hoa có mặt, với những kho hàng.</sent>
+        </p>
+        <p>
+          <sent id="s142">Số vốn cần thiết để dân ta khai khẩn là do giới này tung ra rồi thâu vào, kiểu cho vay nặng lãi.</sent>
+        </p>
+        <p>
+          <sent id="s143">Ta đối phó thường trực với bọn phong kiến Xiêm bấy giờ đang hăng sức, thèm thuồng vùng đồng bằng.</sent>
+        </p>
+        <p>
+          <sent id="s144">Cơ cấu của ta bấy giờ còn đơn giản: những trại, những thuộc chỉ đủ khả năng tuần tra giữ an ninh ở địa phương mà thôi.</sent>
+        </p>
+        <p>
+          <sent id="s145">Mỗi khi gặp ngoại xâm, phải nhờ vào quân chánh quy của Đồn Dinh Bến Nghé hoặc từ miền Trung đưa vào - xưa gọi quân Ngũ Dinh Năm Dinh với những tướng lãnh giàu kinh nghiệm.</sent>
+        </p>
+        <p>
+          <sent id="s146">Lúc đầu, tướng sĩ của Mạc Cửu không đủ sức chống giữ Hà Tiên nên thỉnh cầu chúa Nguyễn đưa quân dẹp bọn phong kiến Xiêm.</sent>
+        </p>
+        <p>
+          <sent id="s147">Sự gắn bó của Mạc Cửu với chúa Nguyễn là tất yếu, óc anh hùng cát cứ bị kềm chế, vì hoàn cảnh lịch sử.</sent>
+        </p>
+        <p>
+          <sent id="s148">Và mãi về sau, khi đối phó với Xiêm thời Tây Sơn, thời Minh Mạng, người ở đồng bằng giữ được đất vẫn là nhờ sức hỗ trợ từ Huế về quân sự.</sent>
+        </p>
+        <p>
+          <sent id="s149">“Tấc đất ngọn rau ơn chúa” bao hàm ý nghĩa ấy.</sent>
+        </p>
+        <p>
+          <sent id="s150">Trong chủ đề rộng lớn là nét đa dạng của đồng bằng sông Cửu Long về văn hóa, việc nghiên cứu đòi hỏi phải tốn nhiều công sức.</sent>
+        </p>
+        <p>
+          <sent id="s151">Nhìn về giai đoạn xưa, đến trước năm 1940, có lẽ nên chia ra từng giai đoạn phát triển kinh tế.</sent>
+        </p>
+        <p>
+          <sent id="s152">Hơn nữa, đòi hỏi một bảng sơ kết về văn minh vật chất và tinh thần, chia ra từng đề mục như ca dao, việc quan hôn tang tế, giải trí, nhà cửa, quần áo, thức ăn là không sát với tình hình cụ thể.</sent>
+        </p>
+        <p>
+          <sent id="s153">Nước Việt là một, những thành tựu ở đồng bằng sông Cửu Long là nét đa dạng mà thôi.</sent>
+        </p>
+        <p>
+          <sent id="s154">Chúng tôi cố gắng tránh những nét khái quát, chung chung.</sent>
+        </p>
+        <p>
+          <sent id="s155">Giao lưu, hiếu khách, cần cù, yêu nước thì miền nào, dân tộc nào chẳng vậy?</sent>
+        </p>
+        <p>
+          <sent id="s156">Điều khó khăn là ranh giới các tỉnh thời Pháp đã thay đổi nhiều, những số liệu chỉ nhằm vào ranh giới cũ, thời Pháp thuộc.</sent>
+        </p>
+        <p>
+          <sent id="s157">Bấy giờ, quen gọi miền Tiền Giang hoặc miệt Trên, miệt Vườn, khu vực rộng lớn, trù phú từ tả ngạn sông Hậu trở lên phía Long An. Miền Hậu Giang là khu vực hữu ngạn sông Hậu trở xuống Cà Mau, Hà Tiên.</sent>
+        </p>
+        <p>
+          <sent id="s158">Chia ra khu vực để nghiên cứu là không hợp lý, vì cả hai miền đều quan hệ chằng chịt, gây tác động qua lại thường xuyên, chưa nói đến tác động của toàn Nam Bộ, của cả nước.</sent>
+        </p>
+        <p>
+          <sent id="s159">Trong từng giai đoạn phát triển, thấy sự kiện gì nổi lên, thú vị thì đề cập đến.</sent>
+        </p>
+        <p>
+          <sent id="s160">Thích ăn mắm, ưa xem hát, lo lắng đến cái bàn thờ ông bà, bộ ván nào phải đợi đến Pháp thuộc mới có, nhưng ta chú trọng vào mức độ.</sent>
+        </p>
+        <p>
+          <sent id="s161">Một khó khăn nữa là đừng sai lạc cho lắm về thời điểm khi xảy ra sự kiện, đóng khung lại từ khoảng 1940 trở về trước mà thôi.</sent>
+        </p>
+        <p>
+          <sent id="s162">Xin tạm phân chia thành mấy thời kỳ:</sent>
+        </p>
+        <p>
+          <sent id="s163">- giai đoạn phong kiến với vua chúa nhà Nguyễn.</sent>
+        </p>
+        <p>
+          <sent id="s164">- những năm giữa thế kỷ XIX và XX, giai đoạn dò dẫm của thực dân</sent>
+        </p>
+        <p>
+          <sent id="s165">Pháp.</sent>
+        </p>
+        <p>
+          <sent id="s166">- thời kỳ phát triển kinh tế, kết quả của kế hoạch đào kinh giao thông, từ khoảng 1910 đến những năm trước Nam Kỳ khởi nghĩa. Giai đoạn này đáng chú ý vì còn khá nhiều âm vang trong thế hệ tuổi trên dưới 60, những người đã trực tiếp tham gia Cách mạng tháng Tám.</sent>
+        </p>
+        <p>
+          <sent id="s167">Xem lại những ảnh, những tranh vẽ hồi cuối thế kỷ XIX, thanh niên ngày 2 nay ắt ngạc nhiên, nhận không ra.</sent>
+        </p>
+        <p>
+          <sent id="s168">Toán người ngồi lột dừa khô, nạo dừa để ép dầu, thanh niên giã gạo chày ba, chày tư trước sân hoặc bên chái nhà lá, những bà lão tàn tật, già nua đang xay lúa ở nhà thương dưỡng lão Thị Nghè, người đánh xe ngựa, xe bò, kéo xe kéo...</sent>
+        </p>
+        <p>
+          <sent id="s169">Bấy giờ, thanh niên nam nữ đều bới tóc, trai thường ở trần, quần ngắn khỏi gối, ra đường thì áo ngắn, lưng buộc sợi dây treo lủng lẳng cái túi nhỏ đựng thuốc rê, lưng quần phía trước kéo lên cao, khỏi sợi dây lưng, kiểu “lột da ếch”, chân đất.</sent>
+        </p>
+        <p>
+          <sent id="s170">Trẻ con cạo đầu chừa vá, con trai cỡ 10 tuổi bịt khăn để dưỡng mái tóc cho dài, chờ bới lên khi lớn tuổi.</sent>
+        </p>
+        <p>
+          <sent id="s171">Thầy cai tổng mang giày da, bịt khăn nhiễu, lưng thắt với sợi dây nhiễu to, bỏ dài đung đưa xuống khỏi bụng, tay chống cây dù Tây, miệng luôn luôn nhai trầu.</sent>
+        </p>
+        <p>
+          <sent id="s172">Tóc tai, áo quần có khác thời nay nhưng ta vẫn thấy phảng phất nụ cười hồn nhiên, sắc mặt đôi khi nghiêm nghị nhưng không quá lo âu, dáng điệu khoan thai.</sent>
+        </p>
+        <p>
+          <sent id="s173">Nhiều câu hát vẫn còn gợi mối hoài cảm về thuở xa xưa nhưng dường như còn gần gũi:</sent>
+        </p>
+        <p>
+          <sent id="s174">- Ngó lên Sở Thượng thêm buồn, Muốn châm cội rễ, ngặt đường xa xuôi.</sent>
+        </p>
+        <p>
+          <sent id="s175">- Ngó về Nam Vang, thấy cây nằm nước, Ngó lại cửa Trước, thấy sóng bủa lao xao...</sent>
+        </p>
+        <p>
+          <sent id="s176">- Xứ đâu thị tứ bằng xứ Kinh Cùng, Tràm xanh củi lục, anh hùng thiếu chi.</sent>
+        </p>
+        <p>
+          <sent id="s177">- Ra đi gặp vịt cũng lùa, Gặp duyên cũng kết, gặp chùa cũng tu.</sent>
+        </p>
+        <p>
+          <sent id="s178">- Thiên sanh nhơn, hà nhơn vô lộc, Địa sanh thảo, hà thảo vô căn?...</sent>
+        </p>
+        <p>
+          <sent id="s179">- Đạo nào vui cho bằng cái đạo đi buôn, Xuống biển lên nguồn, gạo chợ nước sông.</sent>
+        </p>
+        <p>
+          <sent id="s180">- Đó giận đây, đây chẳng có lo, Cầu gãy con đò, giếng cạn còn sông...</sent>
+        </p>
+        <p>
+          <sent id="s181">Có làm thì có ăn chớ không đến mức có làm mà không có ăn.</sent>
+        </p>
+        <p>
+          <sent id="s182">Hạn hán, mất mùa ít xảy ra, chẳng bao giờ gây thiệt hại lớn, đồng loạt cho nhiều vùng một lượt.</sent>
+        </p>
+        <p>
+          <sent id="s183">Ôn lại trí nhớ, quanh quẩn có vụ bão lụt năm Thìn là biến cố hy hữu, xảy ra vào mùa nắng rằm tháng 3 nông lịch, 1 tháng 5 năm 1904, trận “sóng thần” do động đất từ đáy biển khơi dậy lên.</sent>
+        </p>
+        <p>
+          <sent id="s184">Sức sống, tài năng của dân Việt đã thể hiện cụ thể khi gặp môi trường xa lạ.</sent>
+        </p>
+        <p>
+          <sent id="s185">Làm ruộng nước, bắt cá, trồng cây ăn trái gồm những nguyên tắc khái quát về kỹ thuật nhưng còn thói quen của từng dân tộc.</sent>
+        </p>
+        <p>
+          <sent id="s186">Nếu người Indonésia, người Philippines đến vùng đồng bằng tương tự về thổ nhưỡng, về khí hậu, có lẽ họ sẽ làm ruộng theo dạng khác, tuy là ruộng nước, tập họp gia cư theo dạng khác.</sent>
+        </p>
+        <p>
+          <sent id="s187">Người Khơ-me siêng canh tác, nhưng thâm canh từng lõm nhỏ trên đất giồng.</sent>
+        </p>
+        <p>
+          <sent id="s188">Người Hoa nổi tiếng làm ruộng nước nhưng đến đồng bằng thì cặm cụi lo trồng khoai, rau cải, lập vườn, hoặc buôn bán nhằm thâu lợi nhanh.</sent>
+        </p>
+        <p>
+          <sent id="s189">Ở miền Trung, ta quen thâm canh, rủ nhau tát nước, đắp bờ từng thửa ruộng nhỏ bé.</sent>
+        </p>
+        <p>
+          <sent id="s190">Đến đồng bằng bao la, phải thí nghiệm những kiểu canh tác mới hơn, đồng thời tổ chức canh phòng ở vàm rạch, dựng đình chùa, tổ chức thôn xóm.</sent>
+        </p>
+        <p>
+          <sent id="s191">Dụng cụ bắt cá, dụng cụ canh tác, kiểu ghe xuồng cần thay đổi cho thích hợp hơn, sống đoàn kết trước sức ép khá mạnh của người Hoa và người Khơ-me, cả hai vốn có nền văn hóa đặc thù, tràn đầy sức sống.</sent>
+        </p>
+        <p>
+          <sent id="s192">Trong giai đoạn đầu tiên và suốt khoảng thời gian lâu dài về sau, những vật dụng cần thiết cho gia đình đều không phải từ Huế đưa vào.</sent>
+        </p>
+        <p>
+          <sent id="s193">Nhưng tổ chức kinh tế theo kiểu tự túc, tự cấp là lãng phí: nhu yếu phẩm từ nước ngoài, từ vùng khác đưa vào, với phẩm chất tương đối tốt, nếu ta có thật nhiều hàng để bán ra.</sent>
+        </p>
+        <p>
+          <sent id="s194">Khuôn khổ chật hẹp của làng xóm đã bị phá vỡ từng phần.</sent>
+        </p>
+        <p>
+          <sent id="s195">Mặt khác, muốn tổ chức đám cưới, đám ma, cất đình chùa đúng lệ cũ thì phương tiện lại thiếu thốn, khó tìm người hiểu rành về quy cách.</sent>
+        </p>
+        <p>
+          <sent id="s196">Món ăn chế biến linh động, tùy cá tôm, rau cỏ địa phương.</sent>
+        </p>
+        <p>
+          <sent id="s197">Việc giải trí, nghi thức xã giao, tôn ti trật tự lần hồi thay đổi ít nhiều trong hoàn cảnh mỗi người đều gần như bình đẳng trước thời vận, ở cuộc đất còn quá rộng với nguồn lợi thiên nhiên phong phú.</sent>
+        </p>
+        <p>
+          <sent id="s198">Đến đất mới là bắt đầu làm lại cuộc đời với bàn tay, nghị lực, khối óc, gần như xóa bỏ dĩ vãng của từng cá nhân.</sent>
+        </p>
+      </level1>
+    </body>
+  </book>
+</dtbook>
