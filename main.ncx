@@ -2,7 +2,7 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="vi">
 
 	<head>
-		<meta name="dtb:uid" content="9786041266001"/>
+		<meta name="dtb:uid" content="78-604-1-12853-8"/>
 		<meta name="dtb:depth" content="1"/> 
 		<meta name="dtb:totalPageCount" content="0"/>
 		<meta name="dtb:maxPageNumber" content="0"/>
@@ -19,103 +19,103 @@
 	<navMap>
         
         <navPoint id="navPoint-1" playOrder="1">
-            <navLabel><text>Chương 01</text></navLabel>
+            <navLabel><text>Audio 01</text></navLabel>
             <content src="01.xml#s1"/> 
             <smilref src="01.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-2" playOrder="2">
-            <navLabel><text>Chương 02</text></navLabel>
+            <navLabel><text>Audio 02</text></navLabel>
             <content src="02.xml#s1"/>
             <smilref src="02.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-3" playOrder="3">
-            <navLabel><text>Chương 03</text></navLabel>
+            <navLabel><text>Audio 03</text></navLabel>
             <content src="03.xml#s1"/>
             <smilref src="03.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-4" playOrder="4">
-            <navLabel><text>Chương 04</text></navLabel>
+            <navLabel><text>Audio 04</text></navLabel>
             <content src="04.xml#s1"/>
             <smilref src="04.smil" class="smilref" />
         </navPoint>
         
         <navPoint id="navPoint-5" playOrder="5">
-            <navLabel><text>Chương 05</text></navLabel>
+            <navLabel><text>Audio 05</text></navLabel>
             <content src="05.xml#s1"/>
             <smilref src="05.smil" class="smilref" />
         </navPoint>
         
         <navPoint id="navPoint-6" playOrder="6">
-            <navLabel><text>Chương 06</text></navLabel>
+            <navLabel><text>Audio 06</text></navLabel>
             <content src="06.xml#s1"/>
             <smilref src="06.smil" class="smilref" />
         </navPoint>
         
         <navPoint id="navPoint-7" playOrder="7">
-            <navLabel><text>Chương 07</text></navLabel>
+            <navLabel><text>Audio 07</text></navLabel>
             <content src="07.xml#s1"/>
             <smilref src="07.smil" class="smilref" />
         </navPoint>
         
         <navPoint id="navPoint-8" playOrder="8">
-            <navLabel><text>Chương 08</text></navLabel>
+            <navLabel><text>Audio 08</text></navLabel>
             <content src="08.xml#s1"/>
             <smilref src="08.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-9" playOrder="9">
-            <navLabel><text>Chương 09</text></navLabel>
+            <navLabel><text>Audio 09</text></navLabel>
             <content src="09.xml#s1"/>
             <smilref src="09.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-10" playOrder="10">
-            <navLabel><text>Chương 10</text></navLabel>
+            <navLabel><text>Audio 10</text></navLabel>
             <content src="10.xml#s1"/>
             <smilref src="10.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-11" playOrder="11">
-            <navLabel><text>Chương 11</text></navLabel>
+            <navLabel><text>Audio 11</text></navLabel>
             <content src="11.xml#s1"/>
             <smilref src="11.smil" class="smilref" />
         </navPoint>
         
         <navPoint id="navPoint-12" playOrder="12">
-            <navLabel><text>Chương 12</text></navLabel>
+            <navLabel><text>Audio 12</text></navLabel>
             <content src="12.xml#s1"/>
             <smilref src="12.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-13" playOrder="13">
-            <navLabel><text>Chương 13</text></navLabel>
+            <navLabel><text>Audio 13</text></navLabel>
             <content src="13.xml#s1"/>
             <smilref src="13.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-14" playOrder="14">
-            <navLabel><text>Chương 14</text></navLabel>
+            <navLabel><text>Audio 14</text></navLabel>
             <content src="14.xml#s1"/>
             <smilref src="14.smil" class="smilref" />
         </navPoint>
         
         <navPoint id="navPoint-15" playOrder="15">
-            <navLabel><text>Chương 15</text></navLabel>
+            <navLabel><text>Audio 15</text></navLabel>
             <content src="15.xml#s1"/>
             <smilref src="15.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-16" playOrder="16">
-            <navLabel><text>Chương 16</text></navLabel>
+            <navLabel><text>Audio 16</text></navLabel>
             <content src="16.xml#s1"/>
             <smilref src="16.smil" class="smilref" />
         </navPoint>
 
         <navPoint id="navPoint-17" playOrder="17">
-            <navLabel><text>Chương 17</text></navLabel>
+            <navLabel><text>Audio 17</text></navLabel>
             <content src="17.xml#s1"/>
             <smilref src="17.smil" class="smilref" />
         </navPoint>
