@@ -26,14 +26,14 @@ Sau khi align xong, một số từ có thể không đọc được do giới h
 Thực hiện đọc file lại và sửa lỗi bằng cách chạy script:
 
 ```bash
-python Fix_unk.py
+python fix_unk.py
 ```
 
 ### Bước 4: Tạo file SMIL và XML
 Cuối cùng, chạy script để sinh ra các file định dạng `.smil` và `.xml`:
 
 ```bash
-python To_xml_smil_file.py
+python to_xml_smil_file.py
 ```
 
 ---
