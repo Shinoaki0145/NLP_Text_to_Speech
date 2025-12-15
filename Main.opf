@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="2.0">
-
   <metadata>
     <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
       <dc:Identifier id="uid">978-604-1-12853-8</dc:Identifier>
@@ -15,7 +14,6 @@
       <dc:Language>vi</dc:Language>
       <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
     </dc-metadata>
-
     <x-metadata>
       <meta name="dtb:multimediaContent" content="audio,text"/>
       <meta name="dtb:audioFormat" content="wav"/>
@@ -27,13 +25,11 @@
       <meta name="dtb:multimediaType" content="textAndAudio" />
     </x-metadata>
   </metadata>
-
   <manifest>
     <!-- File ncx -->
     <item id="toc" href="main.ncx" media-type="application/x-dtbncx+xml"/>
     <!-- Cover image -->
     <item id="cover" href="xml_smil_output/Bìa sách.png" media-type="image/png"/>
-
     <!-- SMIL files -->
     <item id="smil_01" href="xml_smil_output/01.smil" media-type="application/smil"/>
     <item id="smil_02" href="xml_smil_output/02.smil" media-type="application/smil"/>
@@ -52,7 +48,6 @@
     <item id="smil_15" href="xml_smil_output/15.smil" media-type="application/smil"/>
     <item id="smil_16" href="xml_smil_output/16.smil" media-type="application/smil"/>
     <item id="smil_17" href="xml_smil_output/17.smil" media-type="application/smil"/>
-
     <!-- XML text files -->
     <item id="xml_01" href="xml_smil_output/01.xml" media-type="application/x-dtbook+xml"/>
     <item id="xml_02" href="xml_smil_output/02.xml" media-type="application/x-dtbook+xml"/>
@@ -71,7 +66,6 @@
     <item id="xml_15" href="xml_smil_output/15.xml" media-type="application/x-dtbook+xml"/>
     <item id="xml_16" href="xml_smil_output/16.xml" media-type="application/x-dtbook+xml"/>
     <item id="xml_17" href="xml_smil_output/17.xml" media-type="application/x-dtbook+xml"/>
-
     <!-- Audio files -->
     <item id="audio_01" href="corpus/01.wav" media-type="audio/"x-wav"/>
     <item id="audio_02" href="corpus/02.wav" media-type="audio/"x-wav"/>
@@ -91,7 +85,6 @@
     <item id="audio_16" href="corpus/16.wav" media-type="audio/"x-wav"/>
     <item id="audio_17" href="corpus/17.wav" media-type="audio/"x-wav"/>
   </manifest>
-
   <spine>
     <itemref idref="smil_01"/>
     <itemref idref="smil_02"/>
@@ -111,5 +104,4 @@
     <itemref idref="smil_16"/>
     <itemref idref="smil_17"/>
   </spine>
-
 </package>
