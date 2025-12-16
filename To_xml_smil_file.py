@@ -232,7 +232,7 @@ def generate_files():
             
             # Audio
             ET.SubElement(par, "audio", {
-                "src": f"{file_id}.mp3",
+                "src": f"{file_id}.wav",
                 "clipBegin": format_time(start_time),
                 "clipEnd": format_time(end_time),
                 "id": f"aud_{line_idx + 1}"
