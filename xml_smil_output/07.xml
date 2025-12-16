@@ -1,9 +1,35 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
-<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="vi">
-  <head/>
+<dtbook xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="vi">
+  <head>
+    <metadata>
+      <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:Identifier id="uid">978-604-1-12853-8</dc:Identifier>
+        <dc:Title>Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa &amp; Văn Minh Miệt Vườn</dc:Title>
+        <dc:Creator>Sơn Nam</dc:Creator>
+        <dc:Publisher>NXB Trẻ</dc:Publisher>
+        <dc:Subject>Văn học &amp; Tiểu thuyết</dc:Subject>
+        <dc:Subject>Biên khảo</dc:Subject>
+        <dc:Description>Tác phẩm biên khảo về đồng bằng sông Cửu Long, văn hóa và sinh hoạt truyền thống của vùng đất Nam Bộ</dc:Description>
+        <dc:Date>2013</dc:Date>
+        <dc:Source>978-604-1-12853-8</dc:Source>
+        <dc:Language>vi</dc:Language>
+        <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+      </dc-metadata>
+      <x-metadata>
+        <meta name="dtb:multimediaContent" content="audio,text"/>
+        <meta name="dtb:audioFormat" content="wav"/>
+        <meta name="dtb:narrator" content="Quang Điền"/>
+        <meta name="thumb" content="xml_smil_output/Bìa sách.png"/>
+        <meta name="dtb:producer" content="Thư viện sách nói dành cho người mù"/>
+        <meta name="dtb:sourceRights" content="NHÀ XUẤT BẢN TRẺ GIỮ BẢN QUYỀN. Copyright © 2003, 2009 Tre Publishing House Co.Ltd"/>
+        <meta name="dtb:totalTime" content="11:49:02"/>
+        <meta name="dtb:multimediaType" content="audioFullText"/>
+      </x-metadata>
+    </metadata>
+  </head>
   <book>
-    <body>
+    <bodymatter>
       <level1>
         <p>
           <sent id="s1">CẢI LƯƠNG RA ĐỜI</sent>
@@ -993,6 +1019,6 @@
           <sent id="s329">Đối với cuộc đấu xảo thì tôi lấy làm vui dạ, vui vì kết quả được mỹ mãn, có dịp cho chị em nhà hiệp một, khắng khít một dãi đồng”.[43]</sent>
         </p>
       </level1>
-    </body>
+    </bodymatter>
   </book>
 </dtbook>
