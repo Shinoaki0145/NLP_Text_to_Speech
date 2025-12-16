@@ -19,14 +19,23 @@ def clean_word(w):
     return re.sub(r'[^\w\s]', '', w).strip().lower()
 
 def format_time(seconds):
-    """Format thời gian chuẩn SMIL (npt=12.345s hoặc 12.345s)"""
-    return f"{seconds:.3f}s"
+    """Format thời gian sang chuẩn hh:mm:ss.xxx (Ví dụ: 00:00:12.345)"""
+    # Tính giờ, phút, giây
+    hours = int(seconds // 3600)
+    minutes = int((seconds % 3600) // 60)
+    secs = seconds % 60
+    
+    # Trả về chuỗi định dạng: 
+    # :02d là 2 số nguyên (01, 02...)
+    # :06.3f là số thực lấy 3 số thập phân (05.123)
+    return f"{hours:02d}:{minutes:02d}:{secs:06.3f}"
 
 def prettify_xml(elem, doc_type_string=None):
     """Làm đẹp output XML và thêm DOCTYPE"""
     rough_string = ET.tostring(elem, 'utf-8')
     reparsed = minidom.parseString(rough_string)
-    pretty_xml = reparsed.toprettyxml(indent="  ")
+    # Thêm encoding="UTF-8" để tạo header có encoding, sau đó decode lại thành chuỗi
+    pretty_xml = reparsed.toprettyxml(indent="  ", encoding="UTF-8").decode('utf-8')
     
     # Loại bỏ dòng xml declaration mặc định của minidom nếu muốn tự thêm control
     # Nhưng thường giữ lại <?xml ...?> là tốt nhất.
@@ -45,6 +54,17 @@ def generate_files():
     Path(OUTPUT_DIR).mkdir(parents=True, exist_ok=True)
     print(f"🚀 Bắt đầu tạo DAISY 3 (DTBook + SMIL) từ {START_NUM:02d} đến {END_NUM:02d}...")
 
+    cumulative_duration = 0.0  # Biến tích lũy thời gian
+
+    # --- ĐĂNG KÝ NAMESPACE (QUAN TRỌNG ĐỂ HIỆN dc:Title) ---
+    dtbook_ns = "http://www.daisy.org/z3986/2005/dtbook/"
+    dc_ns = "http://purl.org/dc/elements/1.1/"
+    smil_ns = "http://www.w3.org/2001/SMIL20/Language"
+    
+    ET.register_namespace('', dtbook_ns)
+    ET.register_namespace('dc', dc_ns)
+    ET.register_namespace('', smil_ns) # Đăng ký cho SMIL ở file riêng
+
     for i in range(START_NUM, END_NUM + 1):
         file_id = f"{i:02d}"
         text_path = os.path.join(TEXT_DIR, f"{file_id}.txt")
@@ -62,6 +82,9 @@ def generate_files():
             tg = textgrid.TextGrid.fromFile(grid_path)
             word_tier = tg.getFirst('words') if 'words' in tg.getNames() else tg[0]
             intervals = [i for i in word_tier if i.mark not in ["", None, "sp", "sil", "<sil>", "[bracketed]"]]
+        
+            current_file_duration = tg.maxTime
+            
         except Exception as e:
             print(f"❌ Lỗi TextGrid {file_id}: {e}")
             continue
@@ -82,10 +105,40 @@ def generate_files():
         
         # Phần head của DTBook
         dt_head = ET.SubElement(xml_root, "head")
+        metadata = ET.SubElement(dt_head, "metadata")
         # (Có thể thêm meta dtb:uid tại đây nếu cần thiết)
+        # A. DC-METADATA
+        # Lưu ý: ElementTree tự động xử lý xmlns:dc nếu đã register_namespace bên trên
+        dc_metadata = ET.SubElement(metadata, "dc-metadata", {
+            "xmlns:dc": dc_ns 
+        })
+        
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Identifier", {"id": "uid"}).text = "978-604-1-12853-8"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Title").text = "Đồng Bằng Sông Cửu Long - Nét Sinh Hoạt Xưa & Văn Minh Miệt Vườn"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Creator").text = "Sơn Nam"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Publisher").text = "NXB Trẻ"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Subject").text = "Văn học & Tiểu thuyết"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Subject").text = "Biên khảo"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Description").text = "Tác phẩm biên khảo về đồng bằng sông Cửu Long, văn hóa và sinh hoạt truyền thống của vùng đất Nam Bộ"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Date").text = "2013"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Source").text = "978-604-1-12853-8"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Language").text = "vi"
+        ET.SubElement(dc_metadata, f"{{{dc_ns}}}Format").text = "ANSI/NISO Z39.86-2005"
 
+        # B. X-METADATA
+        x_metadata = ET.SubElement(metadata, "x-metadata")
+        
+        ET.SubElement(x_metadata, "meta", {"name": "dtb:multimediaContent", "content": "audio,text"})
+        ET.SubElement(x_metadata, "meta", {"name": "dtb:audioFormat", "content": "wav"}) 
+        ET.SubElement(x_metadata, "meta", {"name": "dtb:narrator", "content": "Quang Điền"})
+        ET.SubElement(x_metadata, "meta", {"name": "thumb", "content": "xml_smil_output/Bìa sách.png"})
+        ET.SubElement(x_metadata, "meta", {"name": "dtb:producer", "content": "Thư viện sách nói dành cho người mù"})
+        ET.SubElement(x_metadata, "meta", {"name": "dtb:sourceRights", "content": "NHÀ XUẤT BẢN TRẺ GIỮ BẢN QUYỀN. Copyright © 2003, 2009 Tre Publishing House Co.Ltd"})
+        ET.SubElement(x_metadata, "meta", {"name": "dtb:totalTime", "content": "11:49:02"})
+        ET.SubElement(x_metadata, "meta", {"name": "dtb:multimediaType", "content": "audioFullText"})
+        # ----------------------------------
         dt_book = ET.SubElement(xml_root, "book")
-        dt_body = ET.SubElement(dt_book, "body")
+        dt_body = ET.SubElement(dt_book, "bodymatter")
         dt_level1 = ET.SubElement(dt_body, "level1") # Cấu trúc tối thiểu cần level1
         
         # --- 2. Cấu trúc SMIL (Chuẩn SMIL 2.0 cho DAISY) ---
@@ -103,9 +156,13 @@ def generate_files():
             "name": "dtb:uid", 
             "content":"978-604-1-12853-8"
         })
-    
+        ET.SubElement(smil_head, "meta", {
+            "name": "dtb:totalElapsedTime",
+            "content": format_time(cumulative_duration)
+        })    
         # Layout (Bắt buộc với một số trình đọc DAISY phần cứng)
         layout = ET.SubElement(smil_head, "layout")
+
         region = ET.SubElement(layout, "region", {"id": "txtView"})
 
         smil_body = ET.SubElement(smil_root, "body")
@@ -194,6 +251,7 @@ def generate_files():
             f.write(prettify_xml(smil_root, smil_doctype))
             
         print(f"✅ Xong {file_id}")
+        cumulative_duration += current_file_duration
 
     print("\n🎉 HOÀN TẤT CHUẨN DAISY 3!")
 
